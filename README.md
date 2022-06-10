@@ -1,1 +1,1 @@
-# long_tail_lang
+# Language Bolstered Long Tail Visual Recognition
