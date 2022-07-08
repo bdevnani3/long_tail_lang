@@ -1,0 +1,3 @@
+0: linear adapter only image embeddings
+1: image + text
+2: image * text
