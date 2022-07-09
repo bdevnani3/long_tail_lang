@@ -146,7 +146,9 @@ class model:
         elif variation == "1":
             self.image_plus_text_default(inputs, text_embeddings, phase)
         elif variation == "2":
-            self.image_plus_text_default(inputs, text_embeddings, phase)
+            self.image_dot_text_default(inputs, text_embeddings, phase)
+        elif variation == "3":
+            self.image_plus_text_default_weighted(inputs, text_embeddings, phase)
 
     ###########################################################################
     ### Forward pass variations
@@ -196,11 +198,36 @@ class model:
         inputs: batch_size x 1 x 1024
         text_embeddings: batch_size x 82 x 1024 (82 prompts)
         """
+
         inputs = inputs / inputs.norm(dim=-1, keepdim=True)
         text_embeddings = text_embeddings / text_embeddings.norm(dim=-1, keepdim=True)
 
         if phase == "train":
             combined_embedding = inputs.squeeze(1) * text_embeddings[:, 1, :]
+            self.logits = self.fusion(combined_embedding).squeeze(-1)
+        else:
+            self.logits = self.fusion(inputs).squeeze(1).squeeze(-1)
+
+    def image_plus_text_default_weighted(self, inputs, text_embeddings, phase="train"):
+        """
+        Add every image embedding * image_emb_weight to the text embedding * (1-image_emb_weight)
+        that occurs at index 1, which happens to be "a photo of a".
+        This is the simplest phrase and thus we refer to it as the default.
+
+        inputs: batch_size x 1 x 1024
+        text_embeddings: batch_size x 82 x 1024 (82 prompts)
+        """
+
+        inputs = inputs / inputs.norm(dim=-1, keepdim=True)
+        text_embeddings = text_embeddings / text_embeddings.norm(dim=-1, keepdim=True)
+
+        if phase == "train":
+            combined_embedding = (
+                float(self.training_opt["image_emb_weight"]) * inputs.squeeze(1)
+            ) + (
+                (1 - float(self.training_opt["image_emb_weight"]))
+                * text_embeddings[:, 1, :]
+            )
             self.logits = self.fusion(combined_embedding).squeeze(-1)
         else:
             self.logits = self.fusion(inputs).squeeze(1).squeeze(-1)
@@ -240,6 +267,8 @@ class model:
         return x, y, z
 
     def train(self):
+
+        # import pdb; pdb.set_trace()
         # When training the network
         print_str = ["Phase: train"]
         print_write(print_str, self.log_file)
@@ -248,9 +277,9 @@ class model:
         print_write(["Do shuffle??? --- ", self.do_shuffle], self.log_file)
 
         # Initialize best model
-        best_model_weights = {}
-        best_acc = 0.0
-        best_epoch = 0
+        self.best_model_weights = {}
+        self.best_acc = 0.0
+        self.best_epoch = 0
         # best_centroids = self.centroids
 
         end_epoch = self.training_opt["num_epochs"]
@@ -258,149 +287,175 @@ class model:
         # Loop over epochs
         for epoch in range(1, end_epoch + 1):
 
-            torch.cuda.empty_cache()
-
-            # Set model modes and set scheduler
-            # In training, step optimizer scheduler and set model to train()
-            self.model_optimizer_scheduler.step()
-            if self.criterion_optimizer:
-                self.criterion_optimizer_scheduler.step()
-
-            # Iterate over dataset
-            total_preds = []
-            total_labels = []
-
-            epoch_loss = 0.0
-            epoch_steps = 0
-            for step, (
-                inputs,
-                labels,
-                indexes,
-                label_names,
-                text_embeddings,
-            ) in enumerate(self.data["train"]):
-                # import pdb; pdb.set_trace()
-                # Break when step equal to epoch step
-                if step == self.epoch_steps:
-                    break
-                if self.do_shuffle:
-                    inputs, labels, text_embeddings = self.shuffle_batch(
-                        inputs, labels, text_embeddings
-                    )
-                inputs, labels, text_embeddings = (
-                    inputs.cuda(),
-                    labels.cuda(),
-                    text_embeddings.cuda(),
-                )
-
-                # If on training phase, enable gradients
-                with torch.set_grad_enabled(True):
-
-                    # If training, forward with loss, and no top 5 accuracy calculation
-                    self.batch_forward(
-                        inputs,
-                        text_embeddings,
-                        phase="train",
-                        variation=self.training_opt["variation"],
-                    )
-                    self.batch_loss(labels)
-
-                    self.batch_backward()
-
-                    # Tracking predictions
-                    _, preds = torch.max(self.logits, 1)
-                    total_preds.append(torch2numpy(preds))
-                    total_labels.append(torch2numpy(labels))
-
-                    # Output minibatch training results
-                    if step % self.training_opt["display_step"] == 0:
-
-                        minibatch_loss_feat = (
-                            self.loss_feat.item()
-                            if "FeatureLoss" in self.criterions.keys()
-                            else None
-                        )
-                        minibatch_loss_perf = (
-                            self.loss_perf.item()
-                            if "PerformanceLoss" in self.criterions
-                            else None
-                        )
-                        minibatch_loss_total = self.loss.item()
-                        minibatch_acc = mic_acc_cal(preds, labels)
-
-                        print_str = [
-                            "Epoch: [%d/%d]" % (epoch, self.training_opt["num_epochs"]),
-                            "Step: %5d" % (step),
-                            "Minibatch_loss_feature: %.3f" % (minibatch_loss_feat)
-                            if minibatch_loss_feat
-                            else "",
-                            "Minibatch_loss_performance: %.3f" % (minibatch_loss_perf)
-                            if minibatch_loss_perf
-                            else "",
-                            "Minibatch_accuracy_micro: %.3f" % (minibatch_acc),
-                        ]
-                        print_write(print_str, self.log_file)
-
-                        loss_info = {
-                            "Epoch": epoch,
-                            "Step": step,
-                            "Total": minibatch_loss_total,
-                            "CE": minibatch_loss_perf,
-                            "feat": minibatch_loss_feat,
-                        }
-
-                        self.logger.log_loss(loss_info)
-                        epoch_loss += minibatch_loss_total
-                        epoch_steps += 1
-
-            # After every epoch, validation
-            rsls = {"epoch": epoch}
-            rsls_train = self.eval_with_preds(total_preds, total_labels)
-            rsls_eval = self.eval(phase="val")
-            rsls.update(rsls_train)
-            rsls.update(rsls_eval)
-
-            # Log results
-            self.logger.log_acc(rsls)
-
-            # Under validation, the best model need to be updated
-            if self.eval_acc_mic_top1 > best_acc:
-                best_epoch = epoch
-                best_acc = self.eval_acc_mic_top1
-                best_model_weights["fusion"] = copy.deepcopy(self.fusion.state_dict())
-
-            print("===> Saving checkpoint")
-
-            self.writer.add_scalar("Loss/train", epoch_loss / epoch_steps, epoch)
-            self.writer.add_scalar("Acc/train", rsls_train["train_all"], epoch)
-
-            self.writer.add_scalar("Acc/val", rsls_eval["val_all"], epoch)
-            self.writer.add_scalar("Acc/val", rsls_eval["val_many"], epoch)
-            self.writer.add_scalar("Acc/val", rsls_eval["val_median"], epoch)
-            self.writer.add_scalar("Acc/val", rsls_eval["val_low"], epoch)
-
-            self.save_latest(epoch)
+            self.train_epoch(epoch)
 
         print()
         print("Training Complete.")
 
         print_str = [
-            "Best validation accuracy is %.3f at epoch %d" % (best_acc, best_epoch)
+            "Best validation accuracy is %.3f at epoch %d"
+            % (self.best_acc, self.best_epoch)
         ]
         print_write(print_str, self.log_file)
         # Save the best model and best centroids if calculated
-        self.save_model(epoch, best_epoch, best_model_weights, best_acc)
+        self.save_model(epoch, self.best_epoch, self.best_model_weights, self.best_acc)
 
         # Test on the test set
         # self.reset_model(best_model_weights)
         rsls_eval_test = self.eval("test" if "test" in self.data else "val")
-        self.writer.add_scalar("Acc/test", rsls_eval_test["test_all"], epoch)
-        self.writer.add_scalar("Acc/test", rsls_eval_test["test_many"], epoch)
-        self.writer.add_scalar("Acc/test", rsls_eval_test["test_median"], epoch)
-        self.writer.add_scalar("Acc/test", rsls_eval_test["test_low"], epoch)
+
+        self.writer.add_scalar("Acc/test_all", rsls_eval_test["test_all"], epoch)
+        self.writer.add_scalar("Acc/test_many", rsls_eval_test["test_many"], epoch)
+        self.writer.add_scalar("Acc/test_median", rsls_eval_test["test_median"], epoch)
+        self.writer.add_scalar("Acc/test_low", rsls_eval_test["test_low"], epoch)
+
         print("Done")
 
+    def train_epoch(self, epoch):
+
+        # import pdb; pdb.set_trace()
+
+        torch.cuda.empty_cache()
+
+        # Set model modes and set scheduler
+        # In training, step optimizer scheduler and set model to train()
+        self.model_optimizer_scheduler.step()
+        if self.criterion_optimizer:
+            self.criterion_optimizer_scheduler.step()
+
+        # Iterate over dataset
+        self.total_preds = []
+        self.total_labels = []
+
+        self.epoch_loss = 0.0
+        self.curr_epoch_steps = 0
+        for step, (
+            inputs,
+            labels,
+            indexes,
+            label_names,
+            text_embeddings,
+        ) in enumerate(self.data["train"]):
+
+            self.train_step(
+                step, epoch, inputs, labels, indexes, label_names, text_embeddings
+            )
+
+        # After every epoch, validation
+        rsls = {"epoch": epoch}
+
+        # TODO(bdevnani) Fix the logging for rsls
+        rsls_train = self.eval_with_preds(self.total_preds, self.total_labels)
+        # rsls_train = self.eval(phase="train")
+        rsls_eval = self.eval(phase="val")
+        rsls.update(rsls_train)
+        rsls.update(rsls_eval)
+
+        # Log results
+        self.logger.log_acc(rsls)
+
+        # Under validation, the best model need to be updated
+        if self.eval_acc_mic_top1 > self.best_acc:
+            self.best_epoch = epoch
+            self.best_acc = self.eval_acc_mic_top1
+            self.best_model_weights["fusion"] = copy.deepcopy(self.fusion.state_dict())
+
+        print("===> Saving checkpoint")
+
+        self.writer.add_scalar(
+            "Loss/train", self.epoch_loss / self.curr_epoch_steps, epoch
+        )
+        self.writer.add_scalar("Acc/train", rsls_train["train_all"], epoch)
+
+        self.writer.add_scalar("Acc/val_all", rsls_eval["val_all"], epoch)
+        self.writer.add_scalar("Acc/val_many", rsls_eval["val_many"], epoch)
+        self.writer.add_scalar("Acc/val_median", rsls_eval["val_median"], epoch)
+        self.writer.add_scalar("Acc/val_low", rsls_eval["val_low"], epoch)
+
+        self.save_latest(epoch)
+
+    def train_step(
+        self, step, epoch, inputs, labels, indexes, label_names, text_embeddings
+    ):
+
+        # import pdb; pdb.set_trace()
+        # Break when step equal to epoch step
+        if step >= self.epoch_steps:
+            return
+        if self.do_shuffle:
+            inputs, labels, text_embeddings = self.shuffle_batch(
+                inputs, labels, text_embeddings
+            )
+        inputs, labels, text_embeddings = (
+            inputs.cuda(),
+            labels.cuda(),
+            text_embeddings.cuda(),
+        )
+
+        # If on training phase, enable gradients
+        with torch.set_grad_enabled(True):
+
+            # If training, forward with loss, and no top 5 accuracy calculation
+            self.batch_forward(
+                inputs,
+                text_embeddings,
+                phase="train",
+                variation=self.training_opt["variation"],
+            )
+
+            # self.logits
+            self.batch_loss(labels)
+
+            self.batch_backward()
+
+            # Tracking predictions
+            _, preds = torch.max(self.logits, 1)
+            self.total_preds.append(torch2numpy(preds))
+            self.total_labels.append(torch2numpy(labels))
+
+            # Output minibatch training results
+            if step % self.training_opt["display_step"] == 0:
+
+                minibatch_loss_feat = (
+                    self.loss_feat.item()
+                    if "FeatureLoss" in self.criterions.keys()
+                    else None
+                )
+                minibatch_loss_perf = (
+                    self.loss_perf.item()
+                    if "PerformanceLoss" in self.criterions
+                    else None
+                )
+                minibatch_loss_total = self.loss.item()
+                minibatch_acc = mic_acc_cal(preds, labels)
+
+                print_str = [
+                    "Epoch: [%d/%d]" % (epoch, self.training_opt["num_epochs"]),
+                    "Step: %5d" % (step),
+                    "Minibatch_loss_feature: %.3f" % (minibatch_loss_feat)
+                    if minibatch_loss_feat
+                    else "",
+                    "Minibatch_loss_performance: %.3f" % (minibatch_loss_perf)
+                    if minibatch_loss_perf
+                    else "",
+                    "Minibatch_accuracy_micro: %.3f" % (minibatch_acc),
+                ]
+                print_write(print_str, self.log_file)
+
+                loss_info = {
+                    "Epoch": epoch,
+                    "Step": step,
+                    "Total": minibatch_loss_total,
+                    "CE": minibatch_loss_perf,
+                    "feat": minibatch_loss_feat,
+                }
+
+                self.logger.log_loss(loss_info)
+                self.epoch_loss += minibatch_loss_total
+                self.curr_epoch_steps += 1
+
     def eval_with_preds(self, preds, labels):
+
         # Count the number of examples
         n_total = sum([len(p) for p in preds])
 
@@ -416,6 +471,10 @@ class model:
             else:
                 normal_preds.append(p)
                 normal_labels.append(l)
+
+        import pdb
+
+        pdb.set_trace()
 
         # Calculate normal prediction accuracy
         rsl = {

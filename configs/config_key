@@ -1,3 +1,6 @@
 0: linear adapter only image embeddings
 1: image + text
 2: image * text
+3-1: 0.75*image + 0.25*text
+3-2: 0.25*image + 0.75*text
+3-3: 0*image + 1*text
