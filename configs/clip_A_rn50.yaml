@@ -18,18 +18,10 @@ model:
     optim_params: {lr: 0.2, momentum: 0.9, weight_decay: 0.0005}
     params: {in_dim: 1024, out_dim: 1000}
 shuffle: true
-
-train_variant: 0
 training_opt:
-
-  variation: "image_text_all_operations" 
-
-  text_encoder_frozen: true
-  image_encoder_frozen: true
-
-  batch_size: 100
+  phaseA: true
+  batch_size: 512
   dataset: ImageNet_LT
-  dataloader: "paired"
   display_step: 10
   feature_dim: 1024
   num_classes: 1000

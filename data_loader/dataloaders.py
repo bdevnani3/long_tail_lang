@@ -14,6 +14,7 @@ import os.path as osp
 import time
 
 import requests
+import torch
 
 global_root = "/nethome/bdevnani3/flash1/long_tail_lang"
 
@@ -92,6 +93,23 @@ class LT_Dataset(Dataset):
                 self.img_path.append(os.path.join(root, line.split()[0]))
                 self.labels.append(int(line.split()[1]))
 
+        freqs = {}
+        for l in self.labels:
+            if l not in freqs:
+                freqs[l] = 0
+            freqs[l] += 1
+
+        self.lt_count = freqs
+
+        # self.lt_count = {"low": 0, "medium":0, "high": 0}
+        # for k,v in freqs.items():
+        #     if int(v) <= 20:
+        #         self.count["low"] +=1
+        #     elif int(v) <= 100:
+        #         self.count["medium"] +=1
+        #     else:
+        #         self.count["high"] +=1
+
     def __len__(self):
         return len(self.labels)
 
@@ -109,6 +127,64 @@ class LT_Dataset(Dataset):
         return sample, label, index, path
 
 
+# Dataset
+class LT_Dataset_boosted(Dataset):
+    def __init__(self, root, txt, transform=None):
+
+        self.totensor = transforms.ToTensor()
+        self.img_path = []
+        self.labels = []
+        self.transform = transform
+        with open(txt) as f:
+            for line in f:
+                self.img_path.append(os.path.join(root, line.split()[0]))
+                self.labels.append(int(line.split()[1]))
+
+        freqs = {}
+        for l in self.labels:
+            l == int(l)
+            if l not in freqs:
+                freqs[l] = 0
+            freqs[l] += 1
+
+        self.lt_count = freqs
+
+        # self.lt_count = {"low": 0, "medium":0, "high": 0}
+        # for k,v in freqs.items():
+        #     if int(v) <= 20:
+        #         self.count["low"] +=1
+        #     elif int(v) <= 100:
+        #         self.count["medium"] +=1
+        #     else:
+        #         self.count["high"] +=1
+
+        for i in range(1000):
+            if freqs[i] <= 100:
+                for j in range(82):
+                    self.img_path.append(j)
+                    self.labels.append(i)
+
+    def __len__(self):
+        return len(self.labels)
+
+    def __getitem__(self, index):
+
+        path = self.img_path[index]
+        label = self.labels[index]
+
+        if isinstance(path, int):
+            sample = self.totensor(np.zeros((224, 224, 3)))
+        else:
+            with open(path, "rb") as f:
+                sample = Image.open(f).convert("RGB")
+                path = 1
+
+            if self.transform is not None:
+                sample = self.transform(sample)
+
+        return sample, label, index, path
+
+
 # Load datasets
 def load_data(
     data_root,
@@ -119,6 +195,7 @@ def load_data(
     num_workers=4,
     test_open=False,
     shuffle=True,
+    boosted=False,
 ):
 
     if phase == "train_plain":
@@ -144,6 +221,12 @@ def load_data(
     print("Use data transformation:", transform)
 
     set_ = LT_Dataset(data_root, txt, transform)
+
+    if phase == "train" and boosted == True:
+        set_ = LT_Dataset_boosted(data_root, txt, transform)
+
+    lt_count = set_.lt_count
+
     print(len(set_))
     if phase == "test" and test_open:
         open_txt = "%s/data/%s/%s_open.txt" % (global_root, dataset, dataset)
@@ -157,19 +240,25 @@ def load_data(
         print("Using sampler: ", sampler_dic["sampler"])
         # print('Sample %s samples per-class.' % sampler_dic['num_samples_cls'])
         print("Sampler parameters: ", sampler_dic["params"])
-        return DataLoader(
-            dataset=set_,
-            batch_size=batch_size,
-            shuffle=False,
-            sampler=sampler_dic["sampler"](set_, **sampler_dic["params"]),
-            num_workers=num_workers,
+        return (
+            DataLoader(
+                dataset=set_,
+                batch_size=batch_size,
+                shuffle=False,
+                sampler=sampler_dic["sampler"](set_, **sampler_dic["params"]),
+                num_workers=num_workers,
+            ),
+            lt_count,
         )
     else:
         print("No sampler.")
         print("Shuffle is %s." % (shuffle))
-        return DataLoader(
-            dataset=set_,
-            batch_size=batch_size,
-            shuffle=shuffle,
-            num_workers=num_workers,
+        return (
+            DataLoader(
+                dataset=set_,
+                batch_size=batch_size,
+                shuffle=shuffle,
+                num_workers=num_workers,
+            ),
+            lt_count,
         )

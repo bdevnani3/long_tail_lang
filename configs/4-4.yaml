@@ -1,3 +1,5 @@
+# This will only work in eval mode!!
+
 coslr: true
 criterions:
   PerformanceLoss:
@@ -22,7 +24,7 @@ shuffle: true
 train_variant: 0
 training_opt:
 
-  variation: "image_text_all_operations" 
+  variation: "clip" # This determines the rule for combining the text and images
 
   text_encoder_frozen: true
   image_encoder_frozen: true

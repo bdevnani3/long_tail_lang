@@ -10,16 +10,24 @@ criterions:
 endlr: 0.0
 last: false
 model:
+  clip:
+    optim_params: {lr: 0.00001, momentum: 0.9, weight_decay: 0.0005}
+    params: {visual_backbone: 'RN50'}
+  adapter:
+    optim_params: {lr: 0.2, momentum: 0.9, weight_decay: 0.0005}
+    params: {feat_dim: 1024}
   fusion:
     optim_params: {lr: 0.2, momentum: 0.9, weight_decay: 0.0005}
-    params: {in_dim: 1024, out_dim: 1000}
+    params: {in_dim: 1000, out_dim: 1000}
 shuffle: true
 
 train_variant: 0
 training_opt:
 
-  variation: "3" # This determines the rule for combining the text and images
-  image_emb_weight: "0.5" # Relevant for variation 3
+  variation: "clip_with_linear_layer" # This determines the rule for combining the text and images
+
+  text_encoder_frozen: true
+  image_encoder_frozen: true
 
   batch_size: 100
   dataset: ImageNet_LT

@@ -72,13 +72,17 @@ def init_weights(model, weights_path, caffe=False, classifier=False):
 
 
 def shot_acc(
-    preds, labels, train_data, many_shot_thr=100, low_shot_thr=20, acc_per_cls=False
+    preds,
+    labels,
+    train_data_count,
+    many_shot_thr=100,
+    low_shot_thr=20,
+    acc_per_cls=False,
 ):
-
-    if isinstance(train_data, np.ndarray):
-        training_labels = np.array(train_data).astype(int)
-    else:
-        training_labels = np.array(train_data.dataset.labels).astype(int)
+    # if isinstance(train_data, np.ndarray):
+    #     training_labels = np.array(train_data).astype(int)
+    # else:
+    #     training_labels = np.array(train_data.dataset.labels).astype(int)
 
     if isinstance(preds, torch.Tensor):
         preds = preds.detach().cpu().numpy()
@@ -91,7 +95,7 @@ def shot_acc(
     test_class_count = []
     class_correct = []
     for l in np.unique(labels):
-        train_class_count.append(len(training_labels[training_labels == l]))
+        train_class_count.append(train_data_count[l])
         test_class_count.append(len(labels[labels == l]))
         class_correct.append((preds[labels == l] == labels[labels == l]).sum())
 

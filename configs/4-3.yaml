@@ -1,3 +1,5 @@
+# Runs a linear classifier on top of image + text using prompt "a photo of a"
+
 coslr: true
 criterions:
   PerformanceLoss:
@@ -22,10 +24,10 @@ shuffle: true
 train_variant: 0
 training_opt:
 
-  variation: "image_text_all_operations" 
+  variation: "clip" # This determines the rule for combining the text and images
 
-  text_encoder_frozen: true
-  image_encoder_frozen: true
+  text_encoder_frozen: false
+  image_encoder_frozen: false
 
   batch_size: 100
   dataset: ImageNet_LT

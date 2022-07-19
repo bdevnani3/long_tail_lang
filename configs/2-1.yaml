@@ -22,7 +22,8 @@ shuffle: true
 train_variant: 0
 training_opt:
 
-  variation: "image_text_all_operations" 
+  variation: "image_dot_text" # This determines the rule for combining the text and images
+  image_emb_weight: 0.5
 
   text_encoder_frozen: true
   image_encoder_frozen: true
