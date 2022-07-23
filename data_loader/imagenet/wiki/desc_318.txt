@@ -1,0 +1,89 @@
+The insect order Neuroptera, or net-winged insects, includes the lacewings, mantidflies, antlions, and their relatives. The order consists of some 6,000 species. Neuroptera can be grouped together with the Megaloptera and Raphidioptera in the unranked taxon Neuropterida (once known as Planipennia) including: alderflies, fishflies, dobsonflies, and snakeflies.
+Adult Neuropterans have four membranous wings, all about the same size, with many veins. They have chewing mouthparts, and undergo complete metamorphosis.
+Neuropterans first appeared during the Permian period, and continued to diversify through the Mesozoic era. During this time, several unusually large forms evolved, especially in the extinct family Kalligrammatidae, often called "the butterflies of the Jurassic" for their large, patterned wings.
+
+
+== Anatomy and biology ==
+Neuropterans are soft-bodied insects with relatively few specialized features. They have large lateral compound eyes, and may or may not also have ocelli. Their mouthparts have strong mandibles suitable for chewing, and lack the various adaptations found in most other endopterygote insect groups.
+They have four wings, usually similar in size and shape, and a generalised pattern of veins. Some neuropterans have specialised sense organs in their wings, or have bristles or other structures to link their wings together during flight.The larvae are specialised predators, with elongated mandibles adapted for piercing and sucking. The larval body form varies between different families, depending on the nature of their prey. In general, however, they have three pairs of thoracic legs, each ending in two claws. The abdomen often has adhesive discs on the last two segments.
+
+
+== Life cycle and ecology ==
+
+The larvae of most families are predators. Many chrysopids, hemerobids and coniopterygids eat aphids and other pest insects, and some have been used for biological control (either from commercial distributors, but also abundant and widespread in nature).
+Larvae in various families cover themselves in debris (sometimes including dead prey insects) as camouflage, taken to an extreme in the ant lions, which bury themselves completely out of sight and ambush prey from "pits" in the soil. Larvae of some Ithonidae are root feeders, and larvae of Sisyridae are aquatic, and feed on freshwater sponges. A few mantispids are parasites of spider egg sacs.
+As in other holometabolic orders, the pupal stage is enclosed in some form of cocoon composed of silk and soil or other debris. The pupa eventually cuts its way out of the cocoon with its mandibles, and may even move about for a short while before undergoing the moult to the adult form.Adults of many groups are also predatory, but some do not feed, or consume only nectar.
+Beetles, wasps, and some lake flies parasitize neuropteran larvae.
+
+
+== Evolution ==
+
+
+=== Fossil history ===
+Neuropterans first appeared near the end of the Permian period, as shown by fossils of the Permithonidae from the Tunguska basin in Siberia and a similar fauna from Australia.The osmylids are of Jurassic or Early Cretaceous origin and may be the most ancient of the Neuropteran groups. The extinct osmylid Protosmylus is fossilized in middle Eocene Baltic amber. The genus Burmaleon is described from two fossils of Cenomanian age Burmese amber, implying crown group radiation in the Early Cretaceous or earlier. The family Kalligrammatidae lived from the Jurassic to Aptian (Lower Cretaceous) periods.Ithonidae are from the Jurassic to Recent, and the extinct lineages of the family were widespread geographically.
+
+
+=== Phylogeny ===
+Molecular analysis in 2018 using mitochondrial rRNA and mitogenomic data places the Neuroptera within the Neuropterida, sister to the Raphidioptera and containing the Megaloptera (sister to the rest of the Neuroptera). The fossil record has contributed to the understanding of the group's phylogeny. Relationships within the Myrmeleontiformia are still in flux.
+
+
+=== Taxonomy ===
+Basal forms
+
+Genus Mantispidiptera Grimaldi, 2000 (Late Cretaceous; New Jersey; formerly Mantispidae)
+Genus Mesohemerobius Ping, 1928(Late Jurassic/Early Cretaceous; China)
+Family Permithonidae † (probably paraphyletic)
+Family Prohemerobiidae † (probably paraphyletic)
+Family Nevrorthidae
+Family Grammosmylidae †
+Family Osmylitidae † (probably paraphyletic)Superfamily Osmyloidea
+
+Family Osmylidae: osmylidsSuborder Hemerobiiformia
+
+Superfamily Ithonioidea
+Family Ithonidae: moth lacewings (includes Rapismatidae and Polystoechotidae)
+Superfamily Chrysopoidea
+Family Ascalochrysidae †
+Family Mesochrysopidae †
+Family Chrysopidae: green lacewings, stinkflies (formerly in Hemerobioidea)
+Superfamily Hemerobioidea
+Family Hemerobiidae: brown lacewings
+Superfamily Coniopterygoidea
+Family Coniopterygidae: dustywings
+Family Sisyridae: spongillaflies (formerly in Osmyloidea, tentatively placed here)
+Superfamily Mantispoidea
+Family Dilaridae: pleasing lacewings (formerly in Hemerobioidea)
+Family Dipteromantispidae †
+Family Mantispidae: mantidflies
+Family Mesithonidae † (probably paraphyletic)
+Family Rhachiberothidae: thorny lacewings
+Family Berothidae: beaded lacewingsSuborder Myrmeleontiformia
+
+Superfamily NemopteroideaFamily Kalligrammatidae †
+Family Psychopsidae: silky lacewings (formerly in Hemerobioidea)
+Family Nemopteridae: spoonwings, spoon-winged laceflies, thread-winged laceflies (formerly in Myrmeleontoidea)
+Superfamily Myrmeleontoidea
+Family Osmylopsychopidae †
+Family Solenoptilidae † (probably paraphyletic)
+Family Brogniartiellidae †
+Family Nymphidae: split-footed lacewings (includes Myiodactylidae)
+Family Babinskaiidae †
+Family Myrmeleontidae: antlions (includes Palaeoleontidae)
+Family Ascalaphidae: owlflies, ascalaphids
+
+
+== In human culture ==
+The use of Neuroptera in biological control of insect pests has been investigated, showing that it is difficult to establish and maintain populations in fields of crops.Five species of Neuroptera are among 1681 insect species eaten by humans worldwide.The New Guinea Highland people claim to be able to maintain a muscular build and great stamina despite their low protein intake as a result of eating insects including Neuroptera.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Illustrated database of Neuroptera (insects)
+A database of Neuroptera related scientific literature
+Brown lacewings of Florida on the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures
+http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=GeneralSearch&qid=1&SID=2B1m2sz35fQpYa2NV7c&page=1&doc=4

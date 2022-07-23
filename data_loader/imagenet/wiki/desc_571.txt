@@ -1,0 +1,105 @@
+A gasoline pump is a machine at a filling station that is used to pump gasoline (petrol), diesel, or other types of liquid fuel into vehicles. Gasoline pumps are also known as bowsers or petrol bowsers (in Australia), petrol pumps (in Commonwealth countries), or gas pumps (in North America).
+
+
+== History ==
+The first gasoline pump was invented and sold by Sylvanus Bowser in Fort Wayne, Indiana on September 5, 1885, pre-dating the automobile industry- It was commonly used to dispense the kerosene used in lamps and stoves. He later improved upon the pump by adding safety measures, and by adding a hose to directly dispense fuel into automobiles. For a while, the term bowser was used to refer to a vertical gasoline pump.  In the United States this term is now only used for trucks that carry and dispense fuel to large aircraft at airports, but it is still used sometimes in Australia and New Zealand.The first fuel dispenser was patented by Norwegian John J. Tokheim in 1901. The Tokheim pump was named for him. Fuel retail industry giant OPW (a Dover company) acquired Tokheim in 2016.Many early gasoline pumps had a calibrated glass cylinder on top. The desired quantity of fuel was pumped up into the cylinder as indicated by the calibration. Then the pumping was stopped and the gasoline was let out into the customer's tank by gravity.  When metering pumps came into use, a small glass globe with a turbine inside replaced the measuring cylinder to show the customer that gasoline really was flowing into the tank.
+
+
+== Design ==
+
+A modern fuel dispenser is divided into two main parts – an electronic "head" containing an embedded computer to control the action of the pump, drive the pump's displays, and communicate to an indoor sales system; and a mechanical section which (in a self-contained unit) has an electric motor, pumping unit, meters, pulsers and valves to physically pump and control the fuel flow.
+In some cases the actual pump may be sealed and immersed inside the fuel tanks on a site, in which case it is known as a submersible pump. In general, submersible solutions in Europe are installed in hotter countries, where suction pumps may have problems overcoming cavitation with warm fuels or when the distance from tank to pump is longer than a suction pump can manage.
+In modern pumps, the major variations are in the number of hoses or grades they can dispense, the physical shape, and additional hardware for services such as pay at the pump and attendant tag readers.
+Light passenger vehicle pump up to about 50 litres (13 US gallons) per minute (the United States limits this to 10 US gallons [38 litres] per minute); pumps serving trucks and other large vehicles have a higher flow rate, up to 130 litres (34 US gallons) per minute in the UK and 40 US gallons (150 litres) in the US.  This flow rate is based on the diameter of the vehicle's fuel filling pipe, which limits flow to these amounts.
+Airline refueling can reach 1,000 US gallons (3,800 litres) per minute. Higher flow rates may overload the vapor recovery system in vehicles equipped with enhanced evaporative emissions controls (required since 1996 in the US), causing excess vapor emissions, and may present a safety hazard.
+Historically, fuel dispensers had a very wide range of designs to solve the mechanical problems of pumping, reliable measurement, safety, and aesthetics. This has led to some popularity in collecting antique dispensers, especially in the US.
+
+
+=== Fuel nozzles ===
+Nozzles are attached to the pump with flexible hoses, so they can reach the vehicle's filler inlet. The hoses are robust to survive heavy wear and tear, including exposure to weather and being driven over, and are often attached using heavy spring or coil arrangements to provide additional strength. A breakaway valve is also fitted to the hose so that the nozzle and hose will detach and fuel flow stop if a motorist drives off with the nozzle still in the filler.
+Nozzles are usually color-coded to indicate which grade of fuel they dispense, but the color-coding differs between countries and even retailers. For example, a black hose and handle in the UK indicate that the fuel dispensed is diesel, and a green dispenser indicates unleaded fuel; the reverse is common in the US.
+
+
+==== Misfueling ====
+Some nozzles are designed to prevent the motorist selecting the wrong fuel. The nozzle on diesel pumps is supposed to be larger so that it cannot fit into the filler pipe on a vehicle tank designed for gasoline. However, the larger diameter diesel nozzles are not an actual requirement, and many diesel pumps have been fitted with standard gasoline nozzles.  Also, the nozzle for leaded gasoline is wider than for unleaded, and the fill pipe on vehicles designed for unleaded-only was made narrower to prevent misfueling. Some diesel fuel tanks are designed to prevent the wrong type of nozzle to be used.
+
+
+=== Blending ===
+In some countries, pumps can mix two fuel products together before dispensing; this is referred to as blending or mixing. Typical usages are in a "mix" pump to add oil to petrol for two-stroke motorcycles, to produce an intermediate octane rating from separate high and low octane fuels, or to blend hydrogen and compressed natural gas (HCNG).  Retailers benefit by offering three grades of fuel while only having to stock two.  This frees up both working capital and tank capacity and improves fuel turnover.
+
+
+=== Flow measurement ===
+The equipment must accurately measure the amount of fuel pumped. Flow measurement is almost always done by a 4 stroke piston meter connected to an electronic encoder. In older gasoline pumps, the meter is physically coupled to reeled numerical displays (moving wheels or cylinders with numbers on the side), while newer pumps turn the meter's movement into electrical pulses using a rotary encoder.
+
+
+=== Metrology ===
+
+
+==== Gasoline ====
+
+Gasoline is difficult to sell in a fair and consistent manner by volumetric units. It expands and contracts significantly as its temperature changes. Its coefficient of thermal expansion at 20 °C is about 4.5 times that of water.
+In the US, the National Institute of Standards and Technology (NIST) specifies the accuracy of the measurements in Handbook 44, though states set their own legal standards. The standard accuracy is 0.3%, meaning that a 10-US-gallon (37.9 L) purchase may actually deliver between 9.97 and 10.03 US gal (37.7 and 38.0 L).
+The reference temperature for gasoline volume measurement is 60 °F or 15 °C. Ten gallons of gasoline at that temperature expands to about 10.15 US gal (38.4 L) at 85 °F (29 °C) and contracts to about 9.83 US gal (37.2 L) at 30 °F (−1 °C). Each of the three volumes represents the same theoretical amount of energy. In one sense, a given volume of gasoline purchased at 30 °F has about 3.2% more potential energy than the same volume purchased at 85 °F. Most gasoline is stored in tanks underneath the filling station. Modern tanks are non-metallic and sealed to stop leaks. Some have double walls or other structures that provide a side benefit of thermal insulation while pursuing the main goal of keeping gasoline out of the soil around the tank. So while the air temperature can easily vary between 30 and 85 °F (−1 and 29 °C), the gasoline warms or cools much more slowly, especially underground, as deep soil temperature tends to remain in a narrow range throughout the year, regardless of air temperature.
+Temperature compensation is common at the wholesale level in the United States and most other countries. At the retail level, Canada has converted to automatic temperature compensation, and the UK is converting, but the United States has not converted. Automatic temperature compensation, known as Standard Temperature Accounting in the UK, may add a tiny amount of additional uncertainty to the measurement of about 0.1%.There are far fewer retail outlets for gasoline in the US today than there were in 1980. Larger outlets sell gasoline rapidly, as much as 30,000 US gal (110,000 L) in a single day, even in remote places. Most finished product gasoline is delivered in 8,000- to 16,000-gallon tank trucks, so two deliveries in a 24-hour period are common. Gasoline spends so little time in the retail sales system that its temperature at the point of sale does not vary significantly from winter to summer or by region. Canada has lower overall population densities and geographically larger gasoline distribution systems, compared with the United States. Temperature compensation at the retail level improves the fairness under those conditions.
+In the United States, each state has its own Department of Weights and Measure, with the authority to perform all testing and certification, issuing fines for non-compliance. For example, in 2007 Arizona found that 9% of all pumps were off by at least 2.5% (the threshold for fines), evenly split between overcounting and undercounting fuel.
+
+In many jurisdictions, regular required inspections are conducted to ensure the accuracy of fuel dispensers. For example, the Florida Department of Agriculture and Consumer Services conducts regular tests of calibration and fuel quality at individual dispensers. The department also conducts random undercover inspections using specially designed vehicles that can check the accuracy of the dispensers. The department issues correction required notices to stations with pumps found to be inaccurate. Most other US states conduct similar inspections. In Canada, inspections are regularly conducted by the federal government agency Measurement Canada. Inspection dates and test results are required, by law, to be displayed to consumers on a sticker on fuel dispensers.  Under the 2011 Fairness at the Pumps Act, a vendor with a modified or poorly maintained dispenser can be fined up to $50,000. However, virtually all pumps that fail inspection in Canada do so for general calibration errors caused by use over time. Intentional modification for the purpose of deceiving consumers is extremely rare, as are prosecutions.
+
+
+==== Hydrogen ====
+
+Hydrogen fuel dispensers in use on hydrogen stations dispense by the kilogram. In the US, the National Institute of Standards and Technology (NIST) specifies in Handbook 44 that the tolerance of the measurements is to be 2.0%. Worldwide regulations are discussed under OIML R 139 (compressed hydrogen).Hydrogen fuel dispensers may be regulated under terms drawn from an industry technical standard, SAE J2601.
+
+
+=== Communications components ===
+Technology for communicating with gasoline pumps from a point of sale or other controller varies widely, involving a variety of hardware (RS-485, RS-422, current loop, and others) and proprietary software protocols.  In the past, this gave pump manufacturers vendor lock-in for their own point-of-sale systems, since only they understood the protocols.An effort to standardize in the 1990s resulted in the International Forecourt Standards Forum, which has had considerable success in Europe, but less elsewhere.
+By October 2017, all US gasoline pumps with credit card readers had to support EMV payment. A year before this rule came into force, a third of 750,000 pumps needed upgrading at a cost of $6,000 to $17,000 each plus the cost of new EPOS hardware and software. With some software not expected to be ready, some fleet cards not having chip technology available in time, not enough technicians for the installations, and many businesses unable to afford the upgrade, it was predicted the conversion would take until 2021.
+
+
+=== Automatic cut-off ===
+
+The shut-off valve was invented in Olean, New York in 1939 by Richard C. Corson. At a loading dock at the Socony-Vacuum Oil Company, Corson observed a worker filling a barrel with gasoline and thought it inefficient. The sound of a toilet flushing later gave him the idea for a "butterfly float." After developing a prototype with his assistant, Paul Wenke, Corson gave the suggestion to the company who later filed for a patent in his name. The initial intent of the device was to "allow a person to fill more than one barrel [of gasoline] at the same time." This mechanism eventually developed into the modern gasoline pump cut-off valve.Most modern pumps have an automatic cut-off feature that stops the flow when the tank is full. This is done with an auxiliary sensing tube running from just inside the mouth of the nozzle to a Venturi pump in the pump handle. A mechanical valve in the pump handle detects a change of pressure and closes, preventing the flow of fuel.
+
+
+=== Other components ===
+A modern fuel pump will often contain control equipment for the vapor recovery system, which prevents gasoline vapor from escaping to the air. In the UK, for example, any new forecourt with a predicted throughput in excess of 500 m3 per month is required to have active vapor recovery installed.
+
+
+=== Early designs ===
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Regulation ==
+
+Since fuel dispensers are the focal point of distributing fuel to the general public, and fuel is a hazardous substance, they are subject to stringent requirements regarding safety, accuracy and security. The exact details differ between jurisdictions and can depend to some extent on politics.
+For example, in countries fighting corruption, such as Mexico, gasoline pumps may be more stringently monitored by government officials, to detect attempts to defraud customers.
+Typically, individual pumps must be certified for operation  after installation by a weights and measures inspector, who tests that the pump displays the same amount that it dispenses.
+In Taiwan, continuous fuel flow is not allowed for self service pumps; the driver must grip the nozzle until the desired amount of fuel has been delivered or until the shutoff switch is triggered. This is also the case in Australia and the UK.
+
+
+== See also ==
+
+Fast fuel system
+Electric car charger
+Cascade storage system
+HCNG dispenser
+Fisogni Museum
+
+
+== References ==
+
+
+== External links ==
+How does a gas pump know to shut itself off? from The Straight Dope

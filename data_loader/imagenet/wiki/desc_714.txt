@@ -1,0 +1,62 @@
+A plectrum is a small flat tool used to pluck or strum a stringed instrument.  For hand-held instruments such as guitars and mandolins, the plectrum is often called a pick and is a separate tool held in the player's hand. In harpsichords, the plectra are attached to the jack mechanism. 
+
+
+== Wielded by hand ==
+
+
+=== Guitars and similar instruments ===
+
+A plectrum for electric guitars, acoustic guitars, bass guitars and mandolins is typically a thin piece of plastic or other material shaped like a pointed teardrop or triangle. The size, shape and width may vary considerably. Banjo and guitar players may wear a metal or plastic thumb pick mounted on a ring, and bluegrass banjo players often wear metal or plastic fingerpicks on their fingertips. Guitarists also use fingerpicks.
+Guitar picks are made of a variety of materials, including celluloid, metal, and rarely other exotic materials such as turtle shell, but today delrin is the most common. For other instruments in the modern day most players use plastic plectra but a variety of other materials, including wood and felt (for use with the ukulele) are common. Guitarists in the rock, blues, jazz and bluegrass genres tend to use a plectrum, partly because the use of steel strings tends to wear out the fingernails quickly, and also because a plectrum provides a more "focused" and "aggressive" sound. Many guitarists also use the pick and the remaining right-hand fingers simultaneously to combine some advantages of flat-picking and finger picking.  This technique is called hybrid picking or more colloquially, chicken pickin.
+A plectrum of the guitar type is often called a pick (or a flatpick to distinguish it from fingerpicks).
+
+
+=== Non-Western instruments ===
+The plectra for the Japanese biwa and shamisen can be quite large, and those used for the Arabic oud are longer and narrower, replacing the formerly used eagle feather.  Plectra used for Chinese instruments such as the sanxian were formerly made of animal horn, though many players today use plastic plectra.
+
+
+=== Plectra from around the world ===
+
+		
+		
+		
+		
+
+
+== In harpsichords ==
+
+In a harpsichord, there is a separate plectrum for each string. These plectra are very small, often only about 10 millimeters long, about 1.5 millimeters wide, and half a millimeter thick. The plectrum is gently tapered, being narrowest at the plucking end. The top surface of the plectrum is flat and horizontal and is held in the tongue of the jack, which permits it to pluck moving upward and pass almost silently past the string moving downward.
+In the historical period of harpsichord construction (up to about 1800) plectra were made of sturdy feather quills, usually from crows or ravens. In Italy, some makers (including Bartolomeo Cristofori) used vulture quills. Other Italian harpsichords employed plectra of leather. In late French harpsichords by the great builder Pascal Taskin, peau de buffle, a chamois-like material from the hide of the European bison, was used for plectra to produce a delicate pianissimo.Modern harpsichords frequently employ plectra made with plastic, specifically the plastic known as acetal. Some plectra are of the homopolymer variety of acetal, sold by DuPont under the name "Delrin", while others are of the copolymer variety, sold by Ticona as "Celcon". Harpsichord technicians and builders generally use the trade names to refer to these materials. In either of its varieties, acetal is far more durable than quill, which cuts down substantially on the time that must be spent in voicing (see below).Several contemporary builders and players have reasserted the superiority of bird quill for high-level harpsichords. While the difference in sound between acetal and quill is acknowledged to be small, what difference may exist is held to be to the advantage of quill. In addition, quill plectra are observed to fail gradually, giving warning by the diminishing volume, whereas acetal plectra fail suddenly and completely, sometimes in the middle of a performance.
+
+
+=== Voicing harpsichord plectra ===
+The plectra of a harpsichord must be cut precisely, in a process called "voicing". A properly voiced plectrum will pluck the string in a way that produces a good musical tone and matches well in loudness with all of the other strings. The underside of the plectrum must be appropriately slanted and entirely smooth, so that the jack will not "hang" (get caught on the string) when, after sounding a note, it is moved back down below the level of the string.
+Normally, voicing is carried out by inserting the plectrum into the jack, then placing the jack on a small wooden voicing block, so that the top of the plectrum sits flush with the block. The plectrum is then cut and thinned on the underside with a small, very sharp knife, such as an X-Acto knife. As the plectrum is progressively trimmed, its jack is replaced in the instrument at intervals to test the result for loudness, tone quality, and the possibility of hanging.
+Voicing is a refined skill, carried out fluently by professional builders, but one that usually must also be learned (at least to some degree) by harpsichord owners.
+
+
+== Etymology and usage ==
+First attested in English 15th century, the word "plectrum" comes from Latin plectrum, itself derived from Greek πλῆκτρον (plēktron), "anything to strike with, an instrument for striking the lyre, a spear point"."Plectrum" has both a Latin-based plural, plectra and a native English plural, plectrums. Plectra is used in formal writing, particularly in discussing the harpsichord as an instrument of classical music, while plectrums is more common in ordinary speech.
+
+
+== See also ==
+Crosspicking
+Fingerpick
+Flatpicking
+Guitar pick
+Hybrid picking
+Mezrab
+String instrument
+
+
+== Notes ==
+
+
+== References ==
+Hubbard, Frank (1967) Three Centuries of Harpsichord Making.  Cambridge:  Harvard University Press.
+Jensen, David P. (1998) "A Florentine Harpsichord: Revealing a Transitional Technology" Early Music, February issue, pp. 71–85.
+Kottick, Edward L. (1987) The Harpsichord Owner's Guide.  Chapel Hill: The University of North Carolina Press.
+
+
+== External links ==
+The discovery of delrin as a harpsichord plectrum material; a collaboration between builders and technologists.  Harpsichord, vol 4, no. 2 (1971), pp. 18–19.  On line at [8].

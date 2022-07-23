@@ -1,0 +1,81 @@
+A manhole cover or maintenance hole cover is a removable plate forming the lid over the opening of a manhole, an opening large enough for a person to pass through that is used as an access point for an underground vault or pipe. It is designed to prevent anyone or anything from falling in, and to keep out unauthorized persons and material.
+
+Manhole covers date back at least to the era of ancient Rome, which had sewer grates made from stone.
+
+
+== Description ==
+Manhole covers are often made out of cast iron, concrete or a combination of the two. This makes them inexpensive, strong, and heavy, usually weighing more than 113 kilograms (249 lb). The weight helps to keep them in place when traffic passes over them, and makes it difficult for unauthorized people without suitable tools to remove them.
+Manhole covers may also be made from glass-reinforced plastic or other composite material (especially in Europe, or where cover theft is of concern). Because of law restricting acceptable manual handling weights, Europe has seen a move towards lighter weight composite manhole cover materials, which also have the benefits of greater slip resistance and electrical insulating properties.
+A manhole cover sits on a metal base, with a smaller inset rim which fits the cover. The base and cover are sometimes called "castings", because they are usually made by a casting process, typically sand-casting techniques.
+
+The covers usually feature "pick holes", into which a hook handle tool is inserted to lift them. Pick holes can be concealed for a more watertight lid, or can allow light to shine through. A manhole pick or hook is typically used to lift them, though other tools can be used as well, including electromagnets.
+
+Although the covers are too large to be easily collectible, their ubiquity and the many patterns and descriptions printed on them has led some people to collect pictures of covers from around the world. According to Remo Camerota, the author of a book on the subject titled Drainspotting, 95% of Japanese municipalities have their own cover design, often with colorful inlaid paint.Despite their weight and cumbersome nature, manhole covers are sometimes stolen, usually for resale as scrap, particularly when metal prices rise.Manhole covers may be marked to indicate what sort of services exist under them and what group maintains those services, such as the local water system, telecommunications firm, subway or train services, or natural gas firm.
+The name "manhole" is sometimes changed to make it gender neutral. The city of Berkeley, California, for example, changed the official term to "maintenance hole" in 2019.
+
+
+== Shape ==
+
+
+=== Circular ===
+The question of why manhole covers are typically round (in some countries) was made famous by Microsoft when they began asking it as a job-interview question. Originally meant as a psychological assessment of how one approaches a question with more than one correct answer, the problem has produced a number of alternative explanations, from the tautological ("Manhole covers are round because manholes are round.") to the philosophical.
+Reasons for the shape might include:
+
+A round manhole cover cannot fall through its circular opening, whereas a square manhole cover might fall in if it were inserted diagonally in the hole. The existence of a "lip" holding up the lid means that the underlying hole is smaller than the cover, so that other shapes might suffice. (A Reuleaux triangle or other curve of constant width would also serve this purpose, but round covers are much easier to manufacture.)
+Round tubes are the strongest and most material-efficient shape against the compression of the earth around them.
+A round manhole cover of a given diameter has a smaller surface area than a square cover of the same width, thus less material is needed to cast the manhole cover, meaning lower cost.
+The bearing surfaces of manhole frames and covers are machined to assure flatness and prevent them from becoming dislodged by traffic. Round castings are much easier to machine using a lathe.
+Circular covers do not need to be rotated to align with the manhole.
+A round manhole cover can be more easily moved by being rolled.
+A round manhole cover can be easily locked in place with a quarter turn (as is done in countries like France), which makes them hard to open without a special tool. Lockable covers do not have to be made as heavy to resist being dislodged.
+
+
+=== Other ===
+
+Other manhole shapes can be found, usually squares or rectangles. For example, in the United Kingdom nearly all manhole covers are square or rectangular and very occasionally triangular, but almost never circular. Nashua, New Hampshire, is unusual for having triangular manhole covers that point in the direction of the underlying flow. In 2011, the city began gradually phasing out the triangles, which were made by a local foundry, because they were not large enough to meet modern safety standards and a manufacturer for larger triangles could not be found. Some manhole covers in Hamilton, Bermuda, are triangular, and hinged. Some triangular water-main covers also exist in San Francisco.A robotics research paper in 2011 suggested that robots could examine the shapes of specific manhole covers and use them to calculate their geographic position, as a double-check on GPS data.
+
+
+== Security and safety ==
+
+In urban areas, stray voltage issues have become a significant concern for utilities. On January 16, 2004, Jodie S. Lane was electrocuted after stepping on a metal manhole cover, while walking her dog in New York City. As result of this and other incidents, increased attention has been focused on these hazards, including technical conferences on stray voltage detection and prevention.Because of their aerodynamic design, some modern racing cars create enough vacuum to lift a manhole cover off its recess. During races on city streets, manhole covers must therefore be welded or locked down to prevent injury. In 1990, during the Group C World Sportscar Championship race at Circuit Gilles Villeneuve (located in a public park in Montreal, Quebec), a Brun Motorsport Porsche 962 struck a manhole cover that was lifted by the ground effect of the car he was following, a Courage C24 Porsche. This caused the trailing Porsche to catch fire, and safety issues ended the race shortly afterwards.
+
+
+== Theft ==
+The theft of manhole covers often increases when scrap metal prices are high.Manhole cover theft can be a serious problem in China, where missing manhole covers caused at least eight deaths in 2004. According to China's Xinhua News Agency, about "240,000 manhole and street-drain covers were stolen in Beijing in 2004."
+In China Shakes the World, James Kynge describes the phenomenon:...in the several weeks beginning in mid-February 2004, when, slowly at first but with mounting velocity, manhole covers started to disappear from roads and pavements around the world. As Chinese demand drove up the price of scrap metal to record levels, thieves almost everywhere had the same idea. As darkness fell, they levered up the iron covers and sold them to local merchants, who cut them up and loaded them onto ships to China. The first displacements were felt in Taiwan, the island country just off China's southeast coast. The next were in other neighbors such as Mongolia and Kyrgyzstan... Wherever the sun set, pilferers worked to satisfy China's hunger. More than 150 covers disappeared during one month in Chicago. Scotland's "great drain robbery" saw more than a hundred vanish in a few days. From Montreal to Gloucester to Kuala Lumpur, unsuspecting pedestrians stumbled into holes.In Newham, East London, nearly 200 grates and covers were stolen in 2004. A manhole cover designed by artist Antony Gormley was stolen in 2013, ten years after its installation.In the city of Kolkata, India more than 10,000 manhole covers were taken in two months in 2004. These were replaced with concrete covers, but these were also stolen, this time for the rebar inside them.In March and April 2012, Ajax, Ontario and Niagara Falls, Ontario had dozens of manhole covers stolen.
+
+
+== Propelled into space ==
+According to urban legend, a manhole cover was accidentally launched from its shaft during an underground nuclear test in the 1950s, at high enough speed to achieve escape velocity. The myth is based on a real incident during the Operation Plumbbob nuclear tests, when a 900-kilogram (1,984 lb) steel plate cap was blasted off the test shaft at an unknown speed, and appears as a blur on a single frame of film of the test; it was never recovered, but it likely burned up in the atmosphere due to friction. A calculation before the event gave a predicted speed of six times Earth escape velocity, but the calculation is not likely to have been accurate. After the event, Dr. Robert R. Brownlee described the best estimate of the cover's speed from the photographic evidence as "going like a bat out of hell!"
+
+
+== Loading classification ==
+The European norm EN 124 of 1994 applies to manhole and storm drain tops with a clear opening up to 1 m for areas subjected to pedestrian or vehicular traffic (covers with a clear opening over 1 m are specified in the British Standard BS9124 for example). EN 124 specifies several weight classes depending on the application and is also being used in some countries outside the European Union. The lightest class A15 (cast iron) manhole cover can withstand a maximum weight of 1.5 tonnes. It would typically be restricted to light duty applications in pedestrian areas, gardens, patios, driveways and similar. The heaviest F900 class manhole cover would typically be used in docks, airports and other extreme heavy-duty applications.EN 124 does not apply for gratings of prefabricated drainage channels (according to EN 1433) or floor and roof gullies in buildings (specified in EN 1253-1).The Fabricated Access Covers Trade Association (FACTA) provides its own specification which came into effect in 2013. It has a similar scope as the EN 124, focuses on wheel loadings and is based on the European standards for structural steelwork.
+The FACTA specification applies to solid top covers, recessed covers designed for structural or non-structural infill and surface drainage products.
+
+
+== See also ==
+Coal hole
+List of New York City manhole cover abbreviations
+Public utility
+
+
+== References ==
+
+
+== Further reading ==
+Camerota, Remo (2010). Drainspotting: Japanese Manhole Covers. New York: Mark Batty Publisher. ISBN 9780982075470. OCLC 317463479.
+Melnick, Mimi (1999). Manhole Covers. Cambridge, Massachusetts: MIT Press. ISBN 0-262-13302-4.
+Raymond, Douglas (2007). Transylvanian Street Metal. San Francisco: Blurb Books. (No ISBN.)
+Stuart, Diana (2003). Designs Underfoot: The Art of Manhole Covers in New York City. Sharon, Conn.: Design Books. ISBN 1-58574-639-8.
+
+
+== External links ==
+The Pascal-B nuclear test
+Report by Siemens for the State of Massachusetts concerning manhole cover explosions
+Manhole Covers in Space—and Online – exhaustive article by Debbie Moorhouse
+
+
+=== Collections of photos ===
+The ultimate manhole covers web site
+manhole archives 元東京人の名古屋まち歩き (More than a hundred different kinds of manhole covers from Nagoya, Japan)

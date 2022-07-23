@@ -1,0 +1,100 @@
+A fire engine (also known in some places as a fire truck or fire lorry) is a road vehicle (usually a truck) that functions as a firefighting apparatus. The primary purposes of a fire engine include transporting firefighters and water to an incident as well as carrying equipment for firefighting operations. Some fire engines have specialized functions, such as wildfire suppression and aircraft rescue and firefighting, and may also carry equipment for technical rescue.
+Many fire engines are based on commercial vehicle chassis that are further upgraded and customised for firefighting requirements. They are normally fitted with sirens and emergency vehicle lighting, as well as communication equipment such as two-way radios and mobile computer technology.
+The terms fire engine and fire truck are often used interchangeably to a broad range of vehicles involved in firefighting; however, in some fire departments they refer to separate and specific types of vehicle.
+
+
+== Design and construction ==
+
+The design and construction of fire engines focuses greatly on the use of both active and passive warnings. Passive visual warnings involve the use of high contrast patterns to increase the noticeability of the vehicle. These types of warnings are often seen on older vehicles and those in developing countries. More modern designs make use of retroreflectors to reflect light from other vehicles. Vehicles will also often have these reflectors arranged in a chevron pattern along with the words fire or rescue. European countries commonly use a pattern known as battenburg markings. Along with the passive warnings, are active visual warnings which are usually in the form of flashing colored lights (also known as "beacons" or "lightbars"). These flash to attract the attention of other drivers as the fire truck approaches, or to provide warning to drivers approaching a parked fire truck in a dangerous position on the road. While the fire truck is headed towards the scene, the lights are always accompanied by loud audible warnings such as sirens and air horns. Some fire engines in the United States are lime yellow rather than red due to safety and ergonomics reasons. A 2009 study by the U.S. Fire Administration concluded that fluorescent colors, including yellow-green and orange, are easiest to spot in daylight.In some regions, a fire engine may be used to transport first responder firefighters, paramedics or EMTs to medical emergencies due to their proximity to the incident.
+
+
+== Types ==
+
+
+=== Conventional fire engine ===
+
+The standard fire engine transports firefighters to the scene, carries equipment needed by the firefighters for most firefighting scenarios, and may provide a limited supply of water with which to fight the fire. The tools carried on the fire engine will vary greatly based on many factors including the size of the department and the usual situations the firefighters handle. For example, departments located near large bodies of water or rivers are likely to have some sort of water rescue equipment. Standard tools found on nearly all fire engines include ladders, hydraulic rescue tools (often referred to as the jaws of life), floodlights, fire hose, fire extinguishers, self-contained breathing apparatus, and thermal imaging cameras.The exact layout of what is carried on an engine is decided by the needs of the department. For example, fire departments located in metropolitan areas will carry equipment to mitigate hazardous materials and effect technical rescues, while departments that operate in the wildland-urban interface will need the gear to deal with brush fires.
+Some fire engines have a fixed deluge gun, also known as a master stream, which directs a heavy stream of water to wherever the operator points it. An additional feature of engines are their preconnected hose lines, commonly referred to as preconnects. The preconnects are attached to the engine's onboard water supply and allow firefighters to quickly mount an aggressive attack on the fire as soon as they arrive on scene. When the onboard water supply runs out, the engine is connected to more permanent sources such as fire hydrants or water tenders and can also use natural sources such as rivers or reservoirs by drafting water.
+
+
+=== Aerial apparatus ===
+
+An aerial apparatus is a fire truck mounted with an extendable boom that enables firefighters to reach high locations. They can provide a high vantage point for spraying water and creating ventilation, an access route for firefighters and an escape route for firefighters and people they have rescued. In North America, aerial apparatuses are used for fire suppression, whereas in Europe, they are used more for rescue.
+
+
+==== Turntable ladder ====
+
+A turntable ladder (TL) is an aerial apparatus with a large ladder mounted on a pivot which resembles a turntable, giving it its name. The key functions of a turntable ladder are allowing access or egress of firefighters and fire victims at height, providing a high-level water point for firefighting (elevated master stream), and providing a platform from which tasks such as ventilation or overhaul can be executed.
+To increase its length and reach, the ladder is often telescoping. Modern telescopic ladders may be hydraulic or pneumatic. These mechanical features allow the use of ladders which are longer, sturdier, and more stable. They may also have pre-attached hoses or other equipment.
+The pivot can be mounted at the rear of the chassis or in the middle, just behind the cab. The latter is sometimes called a "mid-ship" arrangement, and it allows a lower travel height for the truck.
+While the traditional characteristic of a TL was a lack of water pumping or storage, many modern TLs have a water pumping function built in (and some have their own on-board supply reservoir). Some may have piping along the ladder to supply water to firefighters at the top of the ladder, and some of these may also have a monitor installed at the top. Other appliances may simply have a track-way to securely hold a manually-run hose reel.
+In the United States, turntable ladders with additional functions such as an onboard pump, a water tank, fire hose, aerial ladder and multiple ground ladders, are known as quad or quint engines, indicating the number of functions they perform.The highest TL in the world is the Magirus M68L, with a range of 68 meters (223.1 ft).
+
+
+==== Tiller truck ====
+
+In the United States, a tiller truck, also known as a tractor-drawn aerial, tiller ladder, or hook-and-ladder truck, is a specialized turntable ladder mounted on a semi-trailer truck. Unlike a commercial semi, the trailer and tractor are permanently combined and special tools are required to separate them. It has two drivers, with separate steering wheels for front and rear wheels.One of the main features of the tiller-truck is its enhanced maneuverability. The independent steering of the front and back wheels allow the tiller to make much sharper turns, which is particularly helpful on narrow streets and in apartment complexes with maze-like roads. An additional feature of the tiller-truck is that its overall length, over 50 feet (15 m) for most models, allows for additional storage of tools and equipment. The extreme length gives compartment capacities that range between 500 and 650 cubic feet (14 and 18 m3) in the trailer with an additional 40 and 60 cubic feet (1.1 and 1.7 m3) in the cab.Some departments elect to use tiller-quints, which are tiller trucks that have the added feature of being fitted with an on-board water tank. These are particularly useful for smaller departments that do not have enough personnel to staff both an engine company and a truck company.
+
+
+==== Platform truck ====
+
+A platform truck carries an aerial work platform, also known as a basket or bucket, on the end of a ladder or boom. These platforms can provide a secure place from which a firefighter can operate. Many platforms also allow for rescues to be performed and are outfitted with tie down clips and rappelling arms.Some booms are capable of articulating, allowing the arm to bend in one or more places. This allows the platform truck to go "up and over" an obstacle, and is an advantage over the traditional platform ladder, which can only extend in a straight line.
+
+
+=== Wildland fire engine ===
+
+A wildland fire engine is a specialised fire engine that can negotiate difficult terrain for wildfire suppression. A wildland fire engine is smaller than standard fire engines and has a higher ground clearance. They may also respond to emergencies in rough terrain where other vehicles cannot respond. Many wildland engines feature four-wheel drive capability to improve hill climbing and rough terrain capability. Some wildland apparatus can pump water while driving (compared to some traditional engines which must be stationary to pump water), allowing "mobile attacks" on vegetation fires to minimize the rate of spread.
+Fire departments that serve areas along the wildland–urban interface have to be able to tackle traditional urban fires as well as wildland fires. Departments in these areas often use a wildland-urban interface engine, which combine features of a standard fire engine with that of a wildland fire engine.
+
+
+=== Water tender ===
+
+A water tender is a specialist fire appliance with the primary purpose of transporting large amounts of water to the fire area to make it available for extinguishing operations. These are especially useful in rural areas where fire hydrants are not readily available and natural water resources are insufficient or difficult to exploit.
+Most tankers have an on-board pumping system. This pump is often not of sufficient power to fight fires (as it is designed to be attached to a fire engine), but is more often used to draw water into the tender from hydrants or other water sources. Many tankers are equipped with fast-drain valves on the sides and back of the truck. This allows firefighters to empty thousands of gallons of water into a portable water tank in just a few seconds.
+Most water tenders are designed to carry loads of 5,000–12,000 litres (1,100–2,600 imp gal).
+
+
+=== Airport crash tender ===
+
+An airport crash tender is a specialized fire engine designed for use at aerodromes in aircraft accidents. Some of the features that make the airport crash tender unique are its ability to move on rough terrain outside the runway and airport area, large water capacity as well as a foam tank, a high-capacity pump, and water/foam monitors. Newer airport crash tenders also incorporate twin agent nozzles/injection systems that add dry chemical fire retardant (such as Purple-K) to create a stream of firefighting foam which is able to stop the fire faster. Some also have gaseous fire suppression tanks for electrical fires. These features give the airport crash tenders a capability to reach an airplane rapidly, and rapidly extinguish large fires with jet fuel involved.
+
+
+=== Other vehicles ===
+Other vehicles that are used by fire departments but may not be directly involved in firefighting may include
+
+
+== History ==
+An early device used to squirt water onto a fire was known as a squirt or fire syringe. Hand squirts and hand pumps are noted before Ctesibius of Alexandria invented the first fire pump around the 2nd century B.C., and an example of a force-pump possibly used for a fire-engine is mentioned by Heron of Alexandria.
+In 1650, Hans Hautsch built a fire engine with a compressed air vessel. On each side 14 men worked a piston rod back and forth in a horizontal direction. The air vessel, a type of pressure tank, issued an even stream despite the backward motion of the piston. This was made possible by a rotating pipe mounted on the hose which allowed the jet to reach heights up to 20 m (65.6 ft). Caspar Schott observed Hautsch's fire engine in 1655 and wrote an account of it in his Magia Universalis.Colonial laws in America required each house to have a bucket of water on the front stoop in preparation for fires at night. These buckets were intended for use by the initial bucket brigade that would supply the water at fires. Philadelphia obtained a hand-pumped fire engine in 1719, years after Boston's 1654 model appeared there, made by Joseph Jenckes Sr., but before New York's two engines arrived from London.
+By 1730, Richard Newsham, in London, had made successful fire engines. He also invented those first used in New York City in 1731 where the amount of manpower and skill necessary for firefighting prompted Benjamin Franklin to found an organized fire company in 1737. Thomas Lote built the first fire engine made in America in 1743. These earliest engines are called hand tubs because they are manually (hand) powered and the water was supplied by a bucket brigade dumping it into a tub (cistern) where the pump had a permanent intake pipe.
+An important advancement around 1822 was the invention of an engine which could draft water from a water source. This rendered the bucket brigade obsolete. In 1822, a Philadelphia-based manufacturing company called Sellers and Pennock made a model called "The Hydraulion". It is said to be the first suction engine. Some models had the hard, suction hose fixed to the intake and curled up over the apparatus known as a squirrel tail engine.
+
+The earliest engines were small and were either carried by four men, or mounted on skids and dragged to a fire. As the engines grew larger they became horse-drawn and later self-propelled by steam engines. John Ericsson is credited with building the first American steam-powered fire engine. John Braithwaite built the first steam fire-engine in Britain.
+
+Until the mid-19th century, most fire engines were maneuvered by men, but the introduction of horse-drawn fire engines considerably improved the response time to incidents. The first self-propelled steam pumper fire engine was built in New York in 1841. Unfortunately for the manufacturers, some firefighters sabotaged the device and its use of the first engine was discontinued. However, the need and the utility of power equipment ensured the success of the steam pumper well into the twentieth century. Many cities and towns around the world bought the steam fire engines.
+Motorised fire engines date back to January 1897, when the Prefect of Police in Paris applied for funds to purchase "a machine worked by petroleum for the traction of a fire-engine, ladders, and so forth and for the conveyance of the necessary staff of pompiers". With great prescience the report states "If the experiment prove successful, as is anticipated, horses will eventually be entirely replaced by automobiles". This was, indeed, the case and motorised fire engines became commonplace by the early 20th century. By 1905, the idea of combining gas engine motor trucks into fire engines was attracting great attention; according to a Popular Mechanics article in that year, such trucks were rapidly gaining popularity in England. That same year, the Knox Automobile Company of Springfield, Massachusetts, began selling what some have described as the world's first modern fire engine. A year later, the city of Springfield, Illinois, had filled their fire department with Knox engines. Another early motorized fire engine was developed by Peter Pirsch and Sons of Kenosha, Wisconsin.For many years firefighters sat on the sides of the fire engines, or even stood on the rear of the vehicles, exposed to the elements. This arrangement was uncomfortable and dangerous (some firefighters were thrown to their deaths when their fire engines made sharp turns on the road), and today nearly all fire engines have fully enclosed seating areas for their crews.
+
+
+=== Early pumpers ===
+Early pumpers used cisterns as a source of water. Water was later put into wooden pipes under the streets and a "fire plug" was pulled out of the top of the pipe when a suction hose was to be inserted. Later systems incorporated pressurized fire hydrants, where the pressure was increased when a fire alarm was sounded. This was found to be harmful to the system and unreliable. Today's valved hydrant systems are kept under pressure at all times, although additional pressure may be added when needed. Pressurized hydrants eliminate much of the work in obtaining water for pumping through the engine and into the attack hoses. Many rural fire engines still rely upon cisterns or other sources for drafting water into the pumps. Steam pumper came in to use in the 1850s.
+
+
+=== Early aerials ===
+In the late 19th century, means of reaching tall structures were devised. At first, manually extendable ladders were used; as these grew in length (and weight), they were put onto two large wheels. When carried by fire engines these wheeled escape ladders had the wheels suspended behind the rear of the vehicle, making them a distinctive sight. Before long, turntable ladders—which were even longer, mechanically extendable, and installed directly onto fire trucks—made their appearances.
+After the Second World War turntable ladders were supplemented by the aerial work platform (sometimes called "cherry picker"), a platform or bucket attached onto a mechanically bending arm (or "snorkel") installed onto a fire truck.  While these could not reach the height of similar turntable ladders, the platforms could extend into previously unreachable "dead corners" of a burning building.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+The development of United States fire engines
+Detailed examination of two fire trucks
+Large image library and forum with thousands of photos of old and modern fire engines / trucks
+Handtub Junction, USA Website about handtubs in the U.S. including a database of all known apparatus.
+A brief, concise history of fire fighting apparatus
+Video of slowly setting up to pump a restored 1868 Button hand pumper
+Fire engines staffed by 1 or 2 people

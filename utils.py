@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import torch
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, precision_score, recall_score
 import torch.nn.functional as F
 import importlib
 import pdb
@@ -117,47 +117,17 @@ def shot_acc(
     if len(low_shot) == 0:
         low_shot.append(0)
 
+    class_accs = [c / cnt for c, cnt in zip(class_correct, test_class_count)]
     if acc_per_cls:
-        class_accs = [c / cnt for c, cnt in zip(class_correct, test_class_count)]
-        return np.mean(many_shot), np.mean(median_shot), np.mean(low_shot), class_accs
+        return (
+            np.mean(many_shot),
+            np.mean(median_shot),
+            np.mean(low_shot),
+            class_accs,
+            np.mean(class_accs),
+        )
     else:
         return np.mean(many_shot), np.mean(median_shot), np.mean(low_shot)
-
-
-def weighted_shot_acc(
-    preds, labels, ws, train_data, many_shot_thr=100, low_shot_thr=20
-):
-
-    training_labels = np.array(train_data.dataset.labels).astype(int)
-
-    if isinstance(preds, torch.Tensor):
-        preds = preds.detach().cpu().numpy()
-        labels = labels.detach().cpu().numpy()
-    elif isinstance(preds, np.ndarray):
-        pass
-    else:
-        raise TypeError("Type ({}) of preds not supported".format(type(preds)))
-    train_class_count = []
-    test_class_count = []
-    class_correct = []
-    for l in np.unique(labels):
-        train_class_count.append(len(training_labels[training_labels == l]))
-        test_class_count.append(ws[labels == l].sum())
-        class_correct.append(
-            ((preds[labels == l] == labels[labels == l]) * ws[labels == l]).sum()
-        )
-
-    many_shot = []
-    median_shot = []
-    low_shot = []
-    for i in range(len(train_class_count)):
-        if train_class_count[i] > many_shot_thr:
-            many_shot.append((class_correct[i] / test_class_count[i]))
-        elif train_class_count[i] < low_shot_thr:
-            low_shot.append((class_correct[i] / test_class_count[i]))
-        else:
-            median_shot.append((class_correct[i] / test_class_count[i]))
-    return np.mean(many_shot), np.mean(median_shot), np.mean(low_shot)
 
 
 def F_measure(preds, labels, openset=False, theta=None):
@@ -180,8 +150,22 @@ def F_measure(preds, labels, openset=False, theta=None):
         return 2 * ((precision * recall) / (precision + recall + 1e-12))
     else:
         # Regular f1 score
-        return f1_score(
-            labels.detach().cpu().numpy(), preds.detach().cpu().numpy(), average="macro"
+        return (
+            precision_score(
+                labels.detach().cpu().numpy(),
+                preds.detach().cpu().numpy(),
+                average="macro",
+            ),
+            recall_score(
+                labels.detach().cpu().numpy(),
+                preds.detach().cpu().numpy(),
+                average="macro",
+            ),
+            f1_score(
+                labels.detach().cpu().numpy(),
+                preds.detach().cpu().numpy(),
+                average="macro",
+            ),
         )
 
 

@@ -1,0 +1,78 @@
+A space heater is a device used to heat a single, small to medium sized area; central heating is used to heat many connected areas, such as the rooms of a house. Space heaters are powered by electricity or a burnable fuel, such as natural gas, propane, fuel oil, or wood pellets. Portable space heaters are usually electric, because a permanent exhaust is needed for heaters which burn fuel.
+
+
+== Operation ==
+Space heaters are powered by electricity or the combustion of flammable fuel. Combustion space heaters burn flammable fuel, such as natural gas, kerosene, propane, or wood.
+Electric space heaters fall into three main categories:
+Convection heaters pass electricity through a heating element, causing the element to become hot. The elements are either metal or ceramic, and the process is known as joule heating. Heat is transferred to the air in the room by convection. Some heaters have a fan to increase air circulation, but oil-filled space heaters do not have fans.
+Infrared heaters also pass electricity through a conductive wire, heating it. Most of the heat is radiant heating, rather than convection. The hot wire emits infrared rays, which transfer heat to a solid surface rather than the surrounding air.
+Heat pumps use the same process as refrigerators and air conditioners, but in reverse. While convective and infrared heaters make heat from electricity, heat pumps move the location of heat. Heat pumps move heat from outside a room to inside, warming it. Many are reversible, able to cool the room by pumping heat out.
+
+
+== Convective heaters ==
+Many residential space heaters use convective heating. They can be divided into two categories: those with a fan (to distribute warmth), and those without a fan. Convective heaters provide constant, diffuse heat to well-insulated rooms.
+
+
+=== With a fan ===
+
+Some convective heaters use a fan to help circulate warm air throughout a room. Their heating elements are metal or ceramic and are in direct contact with room air, allowing fan heaters to warm a room quickly.
+
+
+=== Without a fan ===
+In convective heaters without a fan, the heating element is surrounded by oil or water. These heaters warm a room more slowly, because the liquid must be heated before the heat can reach the surrounding air. They produce more heat after being turned off, however, because of the hot liquid inside the heater. The risk of fire (and burns) is sometimes less with oil-filled heaters than those with fans, but some fan-assisted heaters have a lower risk of fire (and burns) than other oil-filled heaters.
+
+
+== Radiant heaters ==
+
+The main advantage of radiant heaters is that the infrared radiation they produce is absorbed directly by clothing and skin, without first heating the air in a space. This makes them suitable for warming people in poorly insulated rooms or outdoors, and allows more distance between people and the heater.
+Some of the earliest electric heaters were radiant, consisting of nichrome heating wires held by ceramic or mica insulation at the focal point of a (usually) polished metal reflector. The cost was very low since nothing else, not even a switch, was needed. Later models included a wire guard to prevent accidental contact with the heating wires or the hot ceramic.
+The metal reflectors needed to be fairly thick, however; a thin metal housing would get too hot to be safe. Inexpensive mid-20th century heaters were radiant, with the heating wires stretched relatively closely across a larger, thin, metal reflector separated from a thin metal housing. A small fan blew just enough air between the housing and the reflector to cool them, and the main output to the room was radiant heat (not heated air). Stretching the heating wires across a larger area required fewer (expensive) ceramic insulators, and a small fan was cheaper than a larger (or heavier) housing.
+Quartz heaters are radiant heaters which are more efficient in the amount and direction of heat, with coiled heating wire inside unsealed quartz tubing. The wires could be thinner (or operate at a higher temperature) than ceramic-supported wires. If the heating elements are at a higher temperature, proportionally more energy is radiated than open-wire heaters.
+Halogen heaters have tungsten filaments in sealed quartz envelopes, mounted in front of a metal reflector in a plastic case. They operate at a higher temperature than nichrome-wire heaters but not as high as incandescent light bulbs, radiating primarily in the infrared spectrum. They convert up to 86 percent of their input power to radiant energy, losing the remainder to conductive and convective heat. The halogen cycle reduces darkening of the quartz envelope, extending filament life.
+
+
+== Power sources ==
+Many space heaters (including oil-filled radiators and natural stone heaters) are plugged into an electric power source, most commonly a two-prong – for older models – or three-prong outlet. Appliance power is measured in kilowatts (kW), which permits simple estimation of operating cost per hour (since electricity is billed in kilowatt hours, or kWh). Most common convection space heaters will use around 1200-1500 watts. 
+
+
+== Safety ==
+Fire, burns, and carbon monoxide poisoning are the main risks of space heaters. About 25,000 fires are caused by space heaters in the United States each year, resulting in about 300 deaths. Roughly 6,000 hospital emergency department visits annually in the US are caused by space heaters, mainly from burns.
+
+
+=== Operation ===
+Improper use can increase the risk of fire and burns. Safe operation includes:
+Plugging space heaters directly into a wall outlet and not an extension cord (except for heavy duty extension cords (14-gauge wire or larger) or relocatable power tap, as they can overheat and cause fires.
+Inspecting plugs and cords periodically for cracks or damage, and replacing them if needed.
+Keeping flammable materials, such as curtains, furniture, and bedding, at least 3 feet (0.91 m) away from the heater.
+Turning off the heater when the last adult leaves the room or goes to sleep and keeping children and pets three feet away from the heater.
+Placing heaters on a flat, hard, nonflammable surface.
+Avoiding the use of heaters near flammable materials such as paint or gasoline.
+Installing smoke alarms and carbon monoxide detectors nearby.
+
+
+=== Features ===
+No one type of heater is safer than any other type. The risk of fire and burns can vary, depending on model and manufacturer. However, lower surface temperatures generally reduce the risk of fire and burns. Safety features have been added to some space heaters. Safety switches will shut off the heater if a dangerous situation is detected:
+
+Tip-over sensors detect if the device is no longer upright (often found in the bases of halogen heaters).
+Thermal shut-off switches detect if the heating element becomes too hot.
+Airflow sensors detect if an object is blocking the heater exhaust.
+
+
+=== Certifications ===
+In the United States, Underwriters Laboratories' UL 1278 (for portable electric space heaters) and UL 1042 standards (for portable and fixed baseboard electric heaters) certify heater safety. Although the General Services Administration had Specification W-H-193
+for electric space heaters, it was replaced in 1995 by the UL standards. Additional information on portable-heater safety may be found at the Department of Energy Energy Efficiency website.
+
+
+== Efficiency ==
+The U.S. Environmental Protection Agency has evaluated a number of space heaters, but none have received its Energy Star label.
+
+
+== See also ==
+Central heating
+District heating
+Electric heating
+Radiator
+Solar combisystem
+
+
+== References ==

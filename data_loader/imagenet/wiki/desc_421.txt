@@ -1,0 +1,54 @@
+A handrail is a rail that is designed to be grasped by the hand so as to provide stability or support. Handrails are commonly used while ascending or descending stairways and escalators in order to prevent injurious falls. Handrails are typically supported by balusters or attached to walls.
+Similar items not covered in this article include bathroom handrails—which help to prevent falls on slippery, wet floors—other grab bars, used, for instance, in ships' galleys, and barres, which serve as training aids for ballet dancers. Guard rails and balustrades line drop-offs and other dangerous areas, keeping people and vehicles out.
+
+
+== British specifications ==
+British Standard and British Standard Code of Practice are harmonized to European Normal (EN) series. Handrail height is set between 0.9 and 1 metre (35+3⁄8 and 39+3⁄8 in).
+
+
+== US specifications ==
+
+
+=== Dimensions ===
+Various model codes—The International Code Council (ICC) and National Fire Protection Association (NFPA)—and accessibility standards—ANSI A117.1 and the Americans With Disabilities Act Standards for Accessible Design (ADASAD)—refer to handrail dimensions. Current versions of these codes and standards now agree that handrail is defined as either a circular cross section with an outside diameter of 1+1⁄4 inches (32 mm) minimum and 2 inches (51 mm) maximum or a non-circular cross section with a perimeter dimension of 4 inches (102 mm) minimum and 6+1⁄4 inches (159 mm) maximum and a cross section dimension of 2+1⁄4 inches (57 mm)) maximum. In addition, the International Residential Code (IRC) includes a definition of a "Type II" handrail that allows for handrail with a perimeter dimension greater than 6+1⁄4 inches (159 mm).
+The IRC and residential portion of the 2009 IBC define Type II handrail as follows:
+
+Type II. Handrails with a perimeter greater than 6+1⁄4 inches (159 mm) shall provide a graspable finger recess area on both sides of the profile. The finger recess shall begin within a distance of 3⁄4 inch (19 mm) measured vertically from the tallest portion of the profile and achieve a depth of at least 5⁄16 inch (8 mm) within 7⁄8 inch (22 mm) below the widest portion of the profile. This required depth shall continue for at least 3⁄8 inch (10 mm) to a level that is not less than 1+3⁄4 inches (45 mm) below the tallest portion of the profile. The minimum width of the handrail above the recess shall be 1+1⁄4 inches (32 mm) to a maximum of 2+3⁄4 inches (70 mm). Edges shall have a minimum radius of 0.01 inches (0.25 mm).
+Handrails are located at a height between 34 and 38 inches (864 and 965 mm). In areas where children are the principal users of a building or facility, the 2010 ADASAD recommends that a second set of handrails at a maximum height of 28 inches (711 mm) measured to the top of the gripping surface from the ramp surface or stair nosing can assist in preventing accidents.
+
+
+=== Clearance ===
+
+The distance between the wall and handrail gripping surface is also governed by local code with the most common requirement being 1+1⁄2 inches (38 mm) minimum. The National Fire Protection Agency (NFPA) and the Occupational Safety and Health Administration (OSHA) require that the distance between the wall and handrail be a minimum of 2+1⁄4 inches (57 mm).
+The 1992 Americans With Disabilities Act Accessibility Guidelines (ADAAG) stated that there was to be an absolute dimension of 1+1⁄2 inches (38 mm) between a handrail and a wall. This was actually a "grab bar" dimension which was part of the 1986 ANSI A117.1. ANSI changed the notation to 1+1⁄2 inches (38 mm) minimum in 1990. This was not corrected in 2010 with the approval of the new ADASAD which now calls for a 1+1⁄2 inches (38 mm) minimum clearance.
+Codes also generally require that there be a 1+1⁄2 inches (38 mm) clearance between the underside of the handrail and any obstruction—including the horizontal bracket arm. There is an allowance however for variations in the handrail size—for every 1⁄2 inch (13 mm) of additional perimeter dimension over 4 inches (102 mm), 1⁄8 inch (3.2 mm) may be subtracted from the clearance requirement.
+
+
+=== Strength ===
+Handrails are to support a continuous load of 50 pounds per foot (74 kg/m) or a concentrated load of 200 pounds (91 kg) applied at the top of the handrail.
+
+
+=== ADA height notations ===
+ADA Handrail height requirements are issued to create a safe enjoyable space to enjoy for everyone. The ADA height of handrail requirements that will primarily be used by children have their own unique requirements.   
+The top of gripping surfaces of handrails shall be 34 inches minimum and 38 inches  maximum vertically above walking surfaces, stair nosing, and ramp surfaces. Handrails shall be at a consistent height above walking surfaces, stair nosing, and ramp surfaces.
+When children are the principal users in a building or facility (e.g., elementary schools), a second set of handrails at an appropriate height can assist them and aid in preventing accidents. A maximum height of 28 inches measured to the top of the gripping surface from the ramp surface or stair nosing.  Sufficient vertical clearance between upper and lower handrails, 9 inches minimum, should be provided to help prevent entrapment.
+
+
+==== Adult requirements ====
+Top of gripping surfaces of handrails shall be between 34 and 38 inches (864 and 965 mm) vertically above walking surfaces, stair nosings, and ramp surfaces.  Handrails shall be at a consistent height above walking surfaces, stair nosings, and ramp surfaces.
+
+
+==== Child recommendation ====
+When children are the principal users in a building or facility (e.g., elementary schools), a second set of handrails at an appropriate height can assist them and aid in preventing accidents.  A maximum height of 28 inches (711 mm) measured to the top of the gripping surface from the ramp surface or stair nosing is recommended for handrails designed for children. Sufficient vertical clearance between upper and lower handrails, 9 inches (229 mm) minimum, should be provided to help prevent entrapment.
+
+
+== See also ==
+Guard rail
+Hanging strap
+Mobile safety steps
+
+
+== References ==
+
+
+== External links ==

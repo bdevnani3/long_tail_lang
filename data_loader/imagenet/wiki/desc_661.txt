@@ -1,0 +1,215 @@
+The Ford Model T (colloquially known as the "tin Lizzie," "leaping Lena," "jitney" or "flivver") is an automobile produced by Ford Motor Company from October 1, 1908, to May 26, 1927. It is generally regarded as the first affordable automobile, which made car travel available to middle-class Americans. The relatively low price was partly the result of Ford's efficient fabrication, including assembly line production instead of individual handcrafting.The Ford Model T was named the most influential car of the 20th century in the 1999 Car of the Century competition, ahead of the BMC Mini, Citroën DS, and Volkswagen Beetle. Ford's Model T was successful not only because it provided inexpensive transportation on a massive scale, but also because the car signified innovation for the rising middle class and became a powerful symbol of the United States' age of modernization. With 15 million sold, it was the most sold car in history before being surpassed by the Volkswagen Beetle in 1972, and still stood eighth on the top-ten list, as of 2012.
+
+
+== Introduction ==
+Although automobiles had been produced from the 1880s, until the Model T was introduced in 1908, they were mostly scarce, expensive, and often unreliable. Positioned as reliable, easily maintained, mass-market transportation, the Model T was a great success.  In a matter of days after the release, 15,000 orders had been placed. The first production Model T was built on August 12, 1908 and left the factory on September 27, 1908, at the Ford Piquette Avenue Plant in Detroit, Michigan. On May 26, 1927, Henry Ford watched the 15 millionth Model T Ford roll off the assembly line at his factory in Highland Park, Michigan.Henry Ford conceived a series of cars between the founding of the company in 1903 and the introduction of the Model T. Ford named his first car the Model A and proceeded through the alphabet up through the Model T, twenty models in all. Not all the models went into production. The production model immediately before the Model T was the Model S, an upgraded version of the company's largest success to that point, the Model N. The follow-up to the Model T was the Ford Model A, rather than the "Model U." The company publicity said this was because the new car was such a departure from the old that Ford wanted to start all over again with the letter A.
+The Model T was Ford's first automobile mass-produced on moving assembly lines with completely interchangeable parts, marketed to the middle class. Henry Ford said of the vehicle:
+
+I will build a motor car for the great multitude. It will be large enough for the family, but small enough for the individual to run and care for. It will be constructed of the best materials, by the best men to be hired, after the simplest designs that modern engineering can devise. But it will be so low in price that no man making a good salary will be unable to own one – and enjoy with his family the blessing of hours of pleasure in God's great open spaces.
+
+Although credit for the development of the assembly line belongs to Ransom E. Olds, with the first mass-produced automobile, the Oldsmobile Curved Dash, having begun in 1901, the tremendous advances in the efficiency of the system over the life of the Model T can be credited almost entirely to Ford and his engineers.
+
+
+== Characteristics ==
+
+The Model T was designed by Childe Harold Wills, and Hungarian immigrants Joseph A. Galamb and Eugene Farkas. Henry Love, C. J. Smith, Gus Degner and Peter E. Martin were also part of the team. Production of the Model T began in the third quarter of 1908. Collectors today sometimes classify Model Ts by build years and refer to these as "model years," thus labeling the first Model Ts as 1909 models. This is a retroactive classification scheme; the concept of model years as understood today did not exist at the time. The nominal model designation was "Model T," although design revisions did occur during the car's two decades of production.
+
+
+=== Engine ===
+
+The Model T has a front-mounted 177-cubic-inch (2.9 L) inline four-cylinder engine, producing 20 hp (15 kW), for a top speed of 42 mph (68 km/h). According to Ford Motor Company, the Model T had fuel economy on the order of 13–21 mpg‑US (16–25 mpg‑imp; 18–11 L/100 km). The engine was capable of running on gasoline, kerosene, or ethanol, although the decreasing cost of gasoline and the later introduction of Prohibition made ethanol an impractical fuel for most users. The engines of the first 2,447 units were cooled with water pumps; the engines of unit 2,448 and onward, with a few exceptions prior to around unit 2,500, were cooled by thermosiphon action.The ignition system used in the Model T was an unusual one, with a low-voltage magneto incorporated in the flywheel, supplying alternating current to trembler coils to drive the spark plugs. This was closer to that used for stationary gas engines than the expensive high-voltage ignition magnetos that were used on some other cars. This ignition also made the Model T more flexible as to the quality or type of fuel it used. The system did not need a starting battery, since proper hand-cranking would generate enough current for starting. Electric lighting powered by the magneto was adopted in 1915, replacing acetylene and oil lamps, but electric starting was not offered until 1919.
+
+The Model T engine was produced for replacement needs as well as stationary and marine applications until 1941, well after production of the Model T had ended.
+The Fordson Model F tractor engine, that was designed about a decade later, was very similar to, but larger than, the Model T engine.
+
+
+=== Transmission and drive train ===
+
+The Model T is a rear-wheel drive vehicle. Its transmission is a planetary gear type billed as "three speed." In today's terms it is considered a two-speed, because one of the three speeds is reverse.
+The Model T's transmission is controlled with three floor-mounted pedals and a lever mounted to the road side of the driver's seat. The throttle is controlled with a lever on the steering wheel. The left-hand pedal is used to engage the transmission. With the floor lever in either the mid position or fully forward and the pedal pressed and held forward, the car enters low gear. When held in an intermediate position, the car is in neutral. If the left pedal is released, the Model T enters high gear, but only when the lever is fully forward – in any other position, the pedal only moves up as far as the central neutral position. This allows the car to be held in neutral while the driver cranks the engine by hand. The car can thus cruise without the driver having to press any of the pedals.
+In the first 800 units, reverse is engaged with a lever; all units after that use the central pedal, which is used to engage reverse gear when the car is in neutral. The right-hand pedal operates the transmission brake – there are no brakes on the wheels. The floor lever also controls the parking brake, which is activated by pulling the lever all the way back. This doubles as an emergency brake.
+
+Although it was uncommon, the drive bands could fall out of adjustment, allowing the car to creep, particularly when cold, adding another hazard to attempting to start the car: a person cranking the engine could be forced backward while still holding the crank as the car crept forward, although it was nominally in neutral. As the car utilizes a wet clutch, this condition could also occur in cold weather, when the thickened oil prevents the clutch discs from slipping freely. Power reaches the differential through a single universal joint attached to a torque tube which drives the rear axle; some models (typically trucks, but available for cars, as well) could be equipped with an optional two-speed rear Ruckstell axle, shifted by a floor-mounted lever which provides an underdrive gear for easier hill climbing.
+
+
+==== Chassis / frame ====
+The heavy-duty Model TT truck chassis came with a special worm gear rear differential with lower gearing than the normal car and truck, giving more pulling power but a lower top speed (the frame is also stronger; the cab and engine are the same). A Model TT is easily identifiable by the cylindrical housing for the worm-drive over the axle differential. All gears are vanadium steel running in an oil bath.
+
+
+==== Transmission bands and linings ====
+Two main types of band lining material were used:
+Cotton – Cotton woven linings were the original type fitted and specified by Ford.  Generally, the cotton lining is "kinder" to the drum surface, with damage to the drum caused only by the retaining rivets scoring the drum surface. Although this in itself did not pose a problem, a dragging band resulting from improper adjustment caused overheating of the transmission and engine, diminished power, and – in the case of cotton linings – rapid destruction of the band lining.
+Wood – Wooden linings were originally offered as a "longer life" accessory part during the life of the Model T. They were a single piece of steam-bent wood and metal wire, fitted to the normal Model T transmission band. These bands give a very different feel to the pedals, with much more of a "bite" feel. The sensation is of a definite "grip" of the drum and seemed to noticeably increase the feel, in particular of the brake drum.
+
+
+=== Suspension and wheels ===
+
+Model T suspension employed a transversely mounted semi-elliptical spring for each of the front and rear beam axles which allowed a great deal of wheel movement to cope with the dirt roads of the time.
+The front axle was drop forged as a single piece of vanadium steel. Ford twisted many axles through eight full rotations (2880 degrees) and sent them to dealers to be put on display to demonstrate its superiority.
+The Model T did not have a modern service brake. The right foot pedal applied a band around a drum in the transmission, thus stopping the rear wheels from turning. The previously mentioned parking brake lever operated band brakes acting on the inside of the rear brake drums, which were an integral part of the rear wheel hubs. Optional brakes that acted on the outside of the brake drums were available from aftermarket suppliers.
+Wheels were wooden artillery wheels, with steel welded-spoke wheels available in 1926 and 1927.
+Tires were pneumatic clincher type, 30 in (762 mm) in diameter, 3.5 in (89 mm) wide in the rear,  3 in (76 mm) in the front. Clinchers needed much higher pressure than today's tires, typically 60 psi (410 kPa), to prevent them from leaving the rim at speed. Flat tires were a common problem.
+Balloon tires became available in 1925. They were 21 in × 4.5 in (530 mm × 110 mm) all around. Balloon tires were closer in design to today's tires, with steel wires reinforcing the tire bead, making lower pressure possible – typically 35 psi (240 kPa) – giving a softer ride. The steering gear ratio was changed from 4:1 to 5:1 with the introduction of balloon tires. The old nomenclature for tire size changed from measuring the outer diameter to measuring the rim diameter so 21 in (530 mm) (rim diameter) × 4.5 in (110 mm) (tire width) wheels has about the same outer diameter as 30 in (760 mm) clincher tires. All tires in this time period used an inner tube to hold the pressurized air; tubeless tires were not generally in use until much later.
+Wheelbase is 100 in (254 cm) and standard track width was 56 in (142 cm) – 60 in (152 cm) track could be obtained on special order, "for Southern roads", identical to the pre-Civil War track gauge for many railroads in the former Confederacy. The standard 56-inch track being very near the 4 ft 8+1⁄2 in (143.5 cm) inch standard railroad track gauge, meant that Model Ts could be and frequently were, fitted with flanged wheels and used as motorized railway vehicles or "speeders". The availability of a 60 in (152 cm) version meant the same could be done on the few remaining Southern 5 ft (152 cm) railways – these being the only nonstandard lines remaining, except for a few narrow-gauge lines of various sizes.  Although a Model T could be adapted to run on track as narrow as 2 ft (61 cm) gauge (Wiscasset, Waterville and Farmington RR, Maine has one), this was a more complex alteration.
+
+
+=== Colors ===
+By 1918, half of all the cars in the U.S. were Model Ts. In his autobiography, Ford reported that in 1909 he told his management team, "Any customer can have a car painted any color that he wants so long as it is black."However, in the first years of production from 1908 to 1913, the Model T was not available in black, but rather only in gray, green, blue, and red.  Green was available for the touring cars, town cars, coupes, and Landaulets. Gray was only available for the town cars, and red only for the touring cars. By 1912, all cars were being painted midnight blue with black fenders. Only in 1914 was the "any color so long as it is black" policy finally implemented. It is often stated Ford suggested the use of black from 1914 to 1925 due to the low cost, durability, and faster drying time of black paint in that era. However, there is no evidence that black dried any faster than any other dark varnishes used at the time for painting. Paint choices in the American automotive industry, as well as in others (including locomotives, furniture, bicycles, and the rapidly expanding field of electrical appliances), were shaped by the development of the chemical industry. These included the disruption of dye sources during World War I and the advent, in the mid-1920s, of new nitrocellulose lacquers that were faster-drying and more scratch-resistant, and obviated the need for multiple coats;: 261–301  understanding the choice of paints for the Model T era and the years immediately following requires an understanding of the contemporaneous chemical industry.During the lifetime production of the Model T, over 30 types of black paint were used on various parts of the car. These were formulated to satisfy the different means of applying the paint to the various parts, and had distinct drying times, depending on the part, paint, and method of drying.
+
+
+=== Body ===
+
+Although Ford classified the Model T with a single letter designation throughout its entire life and made no distinction by model years, enough significant changes to the body were made over the production life that the car may be classified into several style generations.  The most immediately visible and identifiable changes were in the hood and cowl areas, although many other modifications were made to the vehicle.
+
+1909–1914 – Characterized by a nearly straight, five-sided hood, with a flat top containing a center hinge and two side sloping sections containing the folding hinges. The firewall is flat from the windshield down with no distinct cowl.
+1915–1916 – The hood design is nearly the same five-sided design with the only obvious change being the addition of louvers to the vertical sides.  A significant change to the cowl area occurred with the windshield relocated significantly behind the firewall and joined with a compound-contoured cowl panel. In these years electric headlights replaced carbide headlights.
+1917–1923 – The hood design was changed to a tapered design with a curved top. The folding hinges were now located at the joint between the flat sides and the curved top. This is sometimes referred to as the "low hood" to distinguish it from the later hoods. The back edge of the hood now met the front edge of the cowl panel so that no part of the flat firewall was visible outside of the hood.  This design was used the longest and during the highest production years, accounting for about half of the total number of Model Ts built.
+1923–1925 – This change was made during the 1923 calendar year, so models built earlier in the year have the older design, while later vehicles have the newer design.  The taper of the hood was increased and the rear section at the firewall is about an inch taller and several inches wider than the previous design.  While this is a relatively minor change, the parts between the third and fourth generations are not interchangeable.
+1926–1927 – This design change made the greatest difference in the appearance of the car.  The hood was again enlarged, with the cowl panel no longer a compound curve and blended much more with the line of the hood.  The distance between the firewall and the windshield was also increased significantly.  This style is sometimes referred to as the "high hood".The styling on the last "generation" was a preview for the following Model A, but the two models are visually quite different, as the body on the A is much wider and has curved doors as opposed to the flat doors on the T.
+
+
+=== Diverse applications ===
+
+When the Model T was designed and introduced, the infrastructure of the world was quite different from today's. Pavement was a rarity except for sidewalks and a few big-city streets. (The sense of the term "pavement" as equivalent with "sidewalk" comes from that era, when streets and roads were generally dirt and sidewalks were a paved way to walk along them.) Agriculture was the occupation of many people. Power tools were scarce outside factories, as were power sources for them; electrification, like pavement, was found usually only in larger towns. Rural electrification and motorized mechanization were embryonic in some regions and nonexistent in most. Henry Ford oversaw the requirements and design of the Model T based on contemporary realities. Consequently, the Model T was (intentionally) almost as much a tractor and portable engine as it was an automobile. It has always been well regarded for its all-terrain abilities and ruggedness. It could travel a rocky, muddy farm lane, cross a shallow stream, climb a steep hill, and be parked on the other side to have one of its wheels removed and a pulley fastened to the hub for a flat belt to drive a bucksaw, thresher, silo blower, conveyor for filling corn cribs or haylofts, baler, water pump, electrical generator, and many other applications. One unique application of the Model T was shown in the October 1922 issue of Fordson Farmer magazine. It showed a minister who had transformed his Model T into a mobile church, complete with small organ.During this era, entire automobiles (including thousands of Model Ts) were hacked apart by their owners and reconfigured into custom machinery permanently dedicated to a purpose, such as homemade tractors and ice saws. Dozens of aftermarket companies sold prefab kits to facilitate the T's conversion from car to tractor. The Model T had been around for a decade before the Fordson tractor became available (1917–18), and many Ts had been converted for field use. (For example, Harry Ferguson, later famous for his hitches and tractors, worked on Eros Model T tractor conversions before he worked with Fordsons and others.) During the next decade, Model T tractor conversion kits were harder to sell, as the Fordson and then the Farmall (1924), as well as other light and affordable tractors, served the farm market. But during the Depression (1930s), Model T tractor conversion kits had a resurgence, because by then used Model Ts and junkyard parts for them were plentiful and cheap.Like many popular car engines of the era, the Model T engine was also used on home-built aircraft (such as the Pietenpol Sky Scout) and motorboats.
+An armored-car variant (called the "FT-B") was developed in Poland in 1920 due to the high demand during the Polish-Soviet war in 1920.
+Many Model Ts were converted into vehicles that could travel across heavy snows with kits on the rear wheels (sometimes with an extra pair of rear-mounted wheels and two sets of continuous track to mount on the now-tandemed rear wheels, essentially making it a half-track) and skis replacing the front wheels. They were popular for rural mail delivery for a time.  The common name for these conversions of cars and small trucks was "snowflyers". These vehicles were extremely popular in the northern reaches of Canada, where factories were set up to produce them.A number of companies built Model T–based railcars. In The Great Railway Bazaar, Paul Theroux mentions a rail journey in India on such a railcar. The New Zealand Railways Department's RM class included a few.
+The American LaFrance company modified more than 900 Model Ts for use in firefighting, adding tanks, hoses, tools and a bell.  Model T fire engines were in service in North America, Europe, and Australia. A 1919 Model T equipped to fight chemical fires has been restored and is on display at the North Charleston Fire Museum in South Carolina.
+
+
+== Production ==
+
+
+=== Mass production ===
+
+The knowledge and skills needed by a factory worker were reduced to 84 areas. When introduced, the T used the building methods typical at the time, assembly by hand, and production was small. The Ford Piquette Avenue Plant could not keep up with demand for the Model T, and only 11 cars were built there during the first full month of production. More and more machines were used to reduce the complexity within the 84 defined areas. In 1910, after assembling nearly 12,000 Model Ts, Henry Ford moved the company to the new Highland Park complex. During this time the Model T production system (including the supply chain) transitioned into an iconic example of assembly-line production. In subsequent decades it would also come to be viewed as the classic example of the rigid, first-generation version of assembly line production, as opposed to flexible mass production of higher quality products.As a result, Ford's cars came off the line in three-minute intervals, much faster than previous methods, reducing production time from 12.5 hours before to 93 minutes by 1914, while using less manpower. In 1914, Ford produced more cars than all other automakers combined. The Model T was a great commercial success, and by the time Ford made its 10 millionth car, half of all cars in the world were Fords. It was so successful Ford did not purchase any advertising between 1917 and 1923; instead, the Model T became so famous, people considered it a norm. More than 15 million Model Ts were manufactured in all, reaching a rate of 9,000 to 10,000 cars a day in 1925, or 2 million annually, more than any other model of its day, at a price of just $260 ($3,837 today). Total Model T production was finally surpassed by the Volkswagen Beetle on February 17, 1972, while the Ford F-Series (itself directly descended from the Model T roadster pickup) has surpassed the Model T as Ford's all-time best-selling model.
+
+Henry Ford's ideological approach to Model T design was one of getting it right and then keeping it the same; he believed the Model T was all the car a person would, or could, ever need. As other companies offered comfort and styling advantages, at competitive prices, the Model T lost market share and became barely profitable. Design changes were not as few as the public perceived, but the idea of an unchanging model was kept intact. Eventually, on May 26, 1927, Ford Motor Company ceased US production and began the changeovers required to produce the Model A. Some of the other Model T factories in the world continued a short while, with the final Model T produced at the Cork, Ireland plant in December 1928.Model T engines continued to be produced until August 4, 1941. Almost 170,000 were built after car production stopped, as replacement engines were required to service already produced vehicles. Racers and enthusiasts, forerunners of modern hot rodders, used the Model Ts' blocks to build popular and cheap racing engines, including Cragar, Navarro, and, famously, the Frontenacs ("Fronty Fords") of the Chevrolet brothers, among many others.
+The Model T employed some advanced technology, for example, its use of vanadium steel alloy. Its durability was phenomenal, and some Model Ts and their parts are in running order over a century later. Although Henry Ford resisted some kinds of change, he always championed the advancement of materials engineering, and often mechanical engineering and industrial engineering.
+In 2002, Ford built a final batch of six Model Ts as part of their 2003 centenary celebrations. These cars were assembled from remaining new components and other parts produced from the original drawings. The last of the six was used for publicity purposes in the UK.
+Although Ford no longer manufactures parts for the Model T, many parts are still manufactured through private companies as replicas to service the thousands of Model Ts still in operation today.
+On May 26, 1927, Henry Ford and his son Edsel drove the 15-millionth Model T out of the factory. This marked the famous automobile's official last day of production at the main factory.
+
+
+=== Price and production ===
+
+The moving assembly line system, which started on October 7, 1913, allowed Ford to reduce the price of his cars. As he continued to fine-tune the system, Ford was able to keep reducing costs significantly. As volume increased, he was able to also lower the prices due to some of the fixed costs being spread over a larger number of vehicles as large supply chain investments increased assets per vehicle. Other factors reduced the price such as material costs and design changes. As Ford had market dominance in North America during the 1910s, other competitors reduced their prices to stay competitive, while offering features that weren't available on the Model T such as a wide choice of colors, body styles and interior appearance and choices, and competitors also benefited from the reduced costs of raw materials and infrastructure benefits to supply chain and ancillary manufacturing businesses.
+In current equivalent dollars, the cost of the Runabout started at $825 in 1909 ($23,763 in today's dollars) and bottomed out at $260 in 1925 ($3,837 in today's dollars).
+The figures below are US production numbers compiled by R.E. Houston, Ford Production Department, August 3, 1927. The figures between 1909 and 1920 are for Ford's fiscal year. From 1909 to 1913, the fiscal year was from October 1 to September 30 the following calendar year with the year number being the year in which it ended. For the 1914 fiscal year, the year was October 1, 1913, through July 31, 1914. Starting in August 1914, and through the end of the Model T era, the fiscal year was August 1 through July 31. Beginning with January 1920, the figures are for the calendar year.
+
+The above tally includes a total of 14,689,525 vehicles. Ford said the last Model T was the 15 millionth vehicle produced.
+
+
+=== Recycling ===
+Henry Ford used wood scraps from the production of Model Ts to make charcoal briquettes. Originally named Ford Charcoal, the name was changed to Kingsford Charcoal after the Iron Mountain Ford Plant closed in 1951 and the Kingsford Chemical Company was formed and continued the wood distillation process. E. G. Kingsford, Ford's cousin by marriage, brokered the selection of the new sawmill and wood distillation plant site. Lumber for production of the Model T came from the same location, built in 1920 called the Iron Mountain Ford which incorporated a sawmill where lumber from Ford purchased land in the Upper Peninsula of Michigan was cut and dried. Scrap wood was distilled at the Iron Mountain plant for its wood chemicals, with the end by-product being lump charcoal. This lump charcoal was modified and pressed into briquettes and mass-marketed by Ford.
+
+
+=== First global car ===
+
+The Ford Model T was the first automobile built by various countries simultaneously, since they were being produced in Walkerville, Canada, and in Trafford Park, Greater Manchester, England, starting in 1911 and were later assembled in Germany, Argentina, France, Spain, Denmark, Norway, Belgium, Brazil, Mexico, and Japan, as well as several locations throughout the US. Ford made use of the knock-down kit concept almost from the beginning of the company as freight and production costs from Detroit had Ford assembling vehicles in major metropolitan centers of the US.
+The Aeroford was an English automobile manufactured in Bayswater, London, from 1920 to 1925.  It was a Model T with a distinct hood and grille to make it appear to be a totally different design, what later was called badge engineering. The Aeroford sold from £288 in 1920, dropping to £168–214 by 1925. It was available as a two-seater, four-seater, or coupé.
+
+
+== Advertising and marketing ==
+Ford created a massive publicity machine in Detroit to ensure every newspaper carried stories and advertisements about the new product. Ford's network of local dealers made the car ubiquitous in virtually every city in North America. A large part of the success of Ford's Model T stems from the innovative strategy which introduced a large network of sales hubs making it easy to purchase the car. As independent dealers, the franchises grew rich and publicized not just the Ford but the very concept of automobiling; local motor clubs sprang up to help new drivers and to explore the countryside. Ford was always eager to sell to farmers, who looked on the vehicle as a commercial device to help their business. Sales skyrocketed – several years posted around 100 percent gains on the previous year.
+
+
+== 24 Hours of Le Mans ==
+Parisian Ford dealer Charles Montier and his brother-in-law Albert Ouriou entered a heavily modified version of the Model T (the "Montier Special") in the first three 24 Hours of Le Mans. They finished 14th in the inaugural 1923 race.
+
+
+== Car clubs ==
+
+Today, four main clubs exist to support the preservation and restoration of these cars: the Model T Ford Club International, the Model T Ford Club of America and the combined clubs of Australia. With many chapters of clubs around the world, the Model T Ford Club of Victoria has a membership with a considerable number of uniquely Australian cars. (Australia produced its own car bodies, and therefore many differences occurred between the Australian bodied tourers and the US/Canadian cars.) In the UK, the Model T Ford Register of Great Britain celebrated its 50th anniversary in 2010. Many steel Model T parts are still manufactured today, and even fiberglass replicas of their distinctive bodies are produced, which are popular for T-bucket style hot rods (as immortalized in the Jan and Dean surf music song "Bucket T", which was later recorded by The Who). In 1949, more than twenty years after the end of production, 200,000 Model Ts were registered in the United States. In 2008, it was estimated that about 50,000 to 60,000 Ford Model Ts remain roadworthy.
+
+
+== In popular media ==
+A 1920 Ford Model T is featured in the 1920 Harold Lloyd comedy short Get Out and Get Under.
+The Ford Model T was the car of choice for comedy duo Stan Laurel and Oliver Hardy. It was used in most of their short and feature films.
+In 1966, Belgian comic book authors Maurice Tillieux and Francis created the comic adventures of a character named Marc Lebut and his Model T.
+Another Belgian comic strip, Piet Pienter en Bert Bibber, has the protagonists driving a model T in the earliest stories; they later move with the times and change into more recent cars, but always by Ford.
+The phrase to "go the way of the Tin Lizzie" is a colloquialism referring to the decline and elimination of a popular product, habit, belief, or behavior as a now outdated historical relic that has been replaced by something new.
+In Aldous Huxley's Brave New World, Henry Ford is regarded as a messianic figure, Christian crosses have been truncated to Ts, and vehicles are called "flivvers" (from a slang reference to the Model T). Moreover, the calendar is converted to an A.F. ("After Ford") system, wherein the calendar begins (AF 1) with the introduction of the Model T (AD 1908). The well-known phrase God is in his heaven, all is right with the world (originating from Robert Browning's Pippa Passes) is changed into Ford is in his flivver, all is right with the world.
+In 1953, The Ford 50th Anniversary Show was broadcast live on NBC and CBS attracting an audience of 50 million. Edward R. Murrow introduced a comic sketch featuring puppets "Kukla, Fran and Ollie" driving and singing in a Ford Model T automobile. The segment also includes clips of the Model T in silent movies, including Harold Lloyd and Keystone Cops comedies. Murrow then reviewed the history of the Model T and Ford's development of the assembly line. Forty years after the broadcast, television critic Tom Shales recalled the 1953 broadcast as both "a landmark in television" and "a milestone in the cultural life of the '50s".
+The Model T has a featured role in the Walt Disney sci-fi comedy The Absent-Minded Professor, in which the classic car flies.
+In a 1964 episode of Hazel, sponsored by Ford and featuring the company's current models in the stories, Hazel acquires a 1920 Model T.
+For the 1965–66 sitcom My Mother the Car, a 1924 Model T was modified to represent the show's fictional "1928 Porter" touring car.
+Lizzie from the Cars franchise is based on a 1923 Ford Model T coupe.
+In the alternate history series Southern Victory by Harry Turtledove, the Model T was the most popular car in the United States before the Great War. It was so desirable that it was even exported to the Confederate States, which won the American Civil War in 1862. However, Model Ts in the Confederacy proved difficult to maintain as none had been built locally. During the Great War, many Model Ts served as staff cars for US generals and officers.
+Archie Andrews from the Archie Comics drove a 1916 Model T from 1941 (when such a car would have been 25 years old) until 1983.
+In the 1947 Donald Duck cartoon, Wide Open Spaces, Donald's car (based on a 1947 Buick Roadmaster) is crushed by a large boulder and is somehow molded into a Model T.
+In Gerry Anderson's The Secret Service, a Ford Model T was used regularly in the show.
+
+
+== Gallery ==
+Model T chronology
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+
+New Zealand RM class (Model T Ford) – a 1925 experimental railcar based on a Model T powertrain
+Piper J-3 Cub, the 1930s/40s American light aircraft that developed a similar degree of ubiquity in general aviation circles to the Model T
+Lakeside Foundry
+
+
+== Notes and references ==
+
+
+== Bibliography ==
+Clymer, Floyd (1955). "Henry's wonderful Model T, 1908–1927". New York, NY, U.S.: McGraw-Hill. LCCN 55010405. 
+Clymer, Floyd (1950). "Treasury of Early American Automobiles, 1877–1925". New York, NY, U.S.: McGraw-Hill. LCCN 50010680. 
+Dutton, William S. (1942), Du Pont: One Hundred and Forty Years, Charles Scribner's Sons, LCCN 42011897.
+Ford, Henry; Crowther, Samuel (1922), My Life and Work, Garden City, New York, USA: Garden City Publishing Company, Inc. Various republications, including ISBN 9781406500189. Original is public domain in U.S. Also available at Google Books.
+Georgano, G. N. (1985). "Cars: Early and Vintage, 1886–1930". London, UK: Grange-Universal. 
+Hounshell, David A. (1984), From the American System to Mass Production, 1800–1932: The Development of Manufacturing Technology in the United States, Baltimore, Maryland: Johns Hopkins University Press, ISBN 978-0-8018-2975-8, LCCN 83016269, OCLC 1104810110
+Kimes, Beverly Rae; Clark Jr., Henry Austin (1989). Standard Catalog of America Cars: 1805–1942 (2nd ed.). Krause Publications. ISBN 9780873411110.
+Lacey, Robert (1986). Ford: The Men and the Machine. Boston, MA, U.S.: Little, Brown. ISBN 978-0-316-51166-7.
+Leffingwell, Randy (2002) [1998], Ford Tractors, Borders, ISBN 0-681-87878-9.
+Lewis, David (1976). The Public Image of Henry Ford: An American Folk Hero and His Company. Detroit, MI, U.S.: Wayne State University Press. ISBN 978-0-8143-1553-8.
+Manly, Harold P. (1919). The Ford Motor Car and Truck; Fordson Tractor: Their Construction, Care and Operation. Chicago, IL, USA: Frederick J. Drake & Co.
+McCalley, Bruce W. (1994). Model T Ford: The Car That Changed the World. Iola, WI, U.S.: Krause Publications. ISBN 0-87341-293-1.
+Pripps, Robert N.; Morland, Andrew (photographer) (1993). Farmall Tractors: History of International McCormick-Deering Farmall Tractors. Farm Tractor Color History Series. Osceola, WI, U.S.: MBI. ISBN 978-0-87938-763-1.
+Reynolds, David (2009). America, Empire of Liberty: A New History of the United States. Basic Books. ISBN 978-1-84614-056-3.
+Ross, Irwin (November 1974). "Ford's Fabulous Flivver". Gas Engine Magazine. Retrieved August 11, 2016.
+Sedgwick, Michael (1972) [1962]. Early Cars. Octopus Books. ISBN 0-7064-0058-5.
+Ward, Ian, ed. (1974). "The World of Automobiles". 13. London, UK: Orbis. 
+Wik, Reynold M. (1972). Henry Ford and Grass-Roots America. Ann Arbor, MI, U.S.: University of Michigan Press. ISBN 978-0-472-97200-5.
+
+
+== External links ==
+FordModelT.net – Resource for Model T Owners and Enthusiasts
+Model T Ford Club of America (USA)
+Model T Ford Club International
+Ford Model T at the Internet Movie Cars Database
+First and second web pages of Old Rhinebeck Aerodrome's vintage vehicle collection, featuring five Model T-based vehicles

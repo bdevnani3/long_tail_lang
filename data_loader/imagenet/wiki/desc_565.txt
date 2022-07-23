@@ -1,0 +1,80 @@
+Goods wagons or freight wagons (North America: freight cars), also known as goods carriages, goods trucks, freight carriages or freight trucks, are unpowered railway vehicles that are used for the transportation of cargo. A variety of wagon types are in use to handle different types of goods, but all goods wagons in a regional network typically have standardized couplers and other fittings, such as hoses for air brakes, allowing different wagon types to be assembled into trains. For tracking and identification purposes, goods wagons are generally assigned a unique identifier, typically a UIC wagon number, or in North America, a company reporting mark plus a company specific serial number.
+
+
+== Development ==
+At the beginning of the railway era, the vast majority of goods wagons were four-wheeled (two wheelset) vehicles of simple construction. These were almost exclusively small covered wagons, open wagons with side-boards, and flat wagons with or without stakes. Over the course of time, an increasing number of specialised wagons were developed.
+Special wagons for specific purposes or wagons with special features were already being introduced around 1850 by private companies. Amongst these were tank wagons and numerous refrigerated vans. In countries like Germany, wagon hire firms procured large numbers of these wagons and hired them to the end users.
+In the early days of the railway, goods trains still ran at top speeds of only about 20 mph (32 km/h). However, the introduction of through brakes using air pipes (such as the Kunze-Knorr brakes in Germany) from the 1920s enabled higher speeds to be safely achieved. Modern goods wagons are authorised for speeds up to around 75 mph (121 km/h) and in certain countries, wagons are increasingly equipped with GPS receivers and transponders which provide location monitoring as required. The Deutsche Bahn (DB) even has goods wagons cleared for high-speed rail travel at up to 100 mph (160 km/h). Because the braking distance of fast goods trains is longer than the separation between distant and home signals (as are Express Passenger trains), they may only run at high speeds of 150 mph (240 km/h) with locos on routes with early signalling systems in the driver's cab (LZB, FZB and ETCS).
+
+
+=== German wagon history ===
+In Europe, the first agreements were struck very early on between the national state railways (Länderbahnen) and private companies for the mutual use of each other's goods wagons. Around 1850, the Union of German Railway Administrations (Verein Deutscher Eisenbahnverwaltungen) drew up regulations for the standardisation of dimensions and fittings. The formation of the Prussian State Railway Union in 1881 encouraged the emergence of wagon classes built to standard norms.
+One further European milestone was the formation of the German State Railway Wagon Association on 1 April 1909. With the participation of all the German state railways, it created a common pool of goods wagons, which by the end of 1911 had no less than 560,000 wagons. In addition, they all had standardised inscriptions and red-brown livery. In order to standardise future procurements, a total of 11 wagon classes were defined (Sheet nos. A1 to A11). These wagons of the so-called standard class (Verbandsbauart) and subsequent developments from them (the Austauschbauart class with interchangeable parts) dominated goods traffic in Germany up to the Second World War and had a significant impact in many other countries which acquired these wagons either through war reparations or simply because they were left behind by the Germans after the two world wars.
+From 1939, wagons were developed primarily from a military point of view and were known as wartime classes (Kriegsbauart). After the war, in East Germany, some pre-war goods wagon classes were given a new lease of life as ‘reconstructed goods wagons’ (Reko-Güterwagen) and continued in service for several more decades.
+Since the Union of Private Goods Wagon Companies (Vereinigung der Privatgüterwagen-Interessenten (VPI)) was founded in 1921, the interests of private transport organisations in Germany (including wagon hire firms, goods wagon builders and repair firms, and owners of private sidings) has been jointly represented. The Union has around 100 members who own 50,000 goods wagons. In 2007, they transported 361,000,000 t (355,298,556 long tons; 397,934,383 short tons) of goods. Other countries have similar organisations.
+
+
+=== European wagon history ===
+Since 1922, the agreement for the mutual use of goods wagons in international traffic (RIV) has regulated the exchange of goods wagons in Europe and the Middle East. In addition, international goods wagon fleets were created in 1953 in Western Europe with the Europ-Verband and in 1965 in Eastern Europe with the Common Goods Wagon Park (OPW). During the second half of the 20th century, national goods wagon classes in Europe were increasingly replaced by Union internationale des chemins de fer (UIC) standard wagons. Since 1964, all goods wagons in Germany, for example, have had to be classified using the UIC goods wagon classification system.
+
+
+=== North American history ===
+Freight railroads in North American have always been almost entirely privately owned. The separate northern and southern U.S. track gauges were unified on June 1, 1886, allowing freight cars to be interchanged throughout the continent. The Safety Appliance Act of 1893 made air brakes and automatic couplers mandatory on all trains in the United States, effective 1900. The Association of American Railroads (AAR) had its origins in 1872 as the American Railway Association, initially to coordinate time tables. The AAR has developed various standards for freight cars over the years, including couplers, loading gauges, reporting marks, interchange rules, and information systems, through its Manual of Standards and Recommended Practices publications.
+
+
+== Types of goods wagon ==
+The numerous types of goods wagon are categorised here based on their main design features and in accordance with the international UIC classification system:
+
+Open wagons (US/Canada: gondolas) were formerly referred to in Germany as O wagons; today the international standard types are:
+Open wagons of standard design (UIC Class E) with at least 85 cm (33.5 in) high walls, with side-doors, and without self-discharging equipment
+Open wagons of special design (UIC Class F) – especially self-discharging wagons (see photo) of type Fcs092.
+Lowmacs
+Bogie bolster wagon
+Well wagons
+Covered wagons or vans (US/Canada: boxcars) have a fixed roof and are mainly used for the transportation of part-load goods or parcels. Today these are divided into:
+Ordinary classes (UIC Class G)
+Special classes (UIC Class H), which are often distinguished by their large loading volumes.
+Livestock vans (US/Canada:stock cars) for transporting cattle are no longer used. In Germany they were called V wagons and were counted as a special class.
+Refrigerated vans (Class I wagons), formerly known in Germany as T wagons (T = "Thermos") – are insulated covered vans which are either cooled by a cooling medium such as water or dry ice like conventional refrigerated vans, or are machine-cooled wagons with their own cooling system.
+Flat wagons (US: Flatcars) have no walls or low walls no higher than 60 cm (23.6 in). Today these include wagons with individual axles in UIC Classes K (standard) or L (special), bogie wagons of UIC Classes R (standard) or S (special).
+Conflats
+Wagon with opening roof
+Wagons with sliding roof (UIC Class T) either have a flat wagon floor or equipment for self-discharging.
+Special wagons of UIC Class U include powder wagons and low-loading wagons
+Tank wagons (UIC Class Z) are suitable for a wide variety of fluids and gases.
+Spine cars to carry intermodal containers.Goods wagons for special purposes include:
+
+Departmental wagons  are used by railway administrations exclusively for their own internal purposes (such as the slag wagons of Class X in Germany which were mainly based on old open wagons of Class O),
+Ferry wagons with smaller loading gauges for traffic travelling to Great Britain, which were designated with a lower case letter f.
+the rarely mixed open, flat wagons of UIC Class O,  which are equipped with folding sides or stakes and can be used either as flats or as open goods wagons.
+Mineral wagons
+Kiruna Wagons
+Railway post vans (Mobile post offices) are not counted as goods wagons.The UIC's instructions were sometimes interpreted differently by the various railway administrations, so that it could happen that almost identical wagons were grouped into different classes. In addition wagons had occasionally to be reclassified after slight modifications. For example, an E Class wagon can become an F Class simply through welding on a door.
+
+
+=== Gallery ===
+Goods wagon gallery
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+
+
+== References ==
+
+
+== Sources ==
+The original source for this article is the German Wikipedia:Güterwagen
+
+
+== External links ==
+DB goods wagons with Railion
+Comprehensive goods wagon photo archive
+German goods wagons from 1910 to 1945

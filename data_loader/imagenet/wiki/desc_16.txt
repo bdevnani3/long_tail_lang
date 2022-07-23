@@ -1,0 +1,76 @@
+The bulbuls are a family, Pycnonotidae, of medium-sized passerine songbirds, and includes the greenbul, brownbul, leaflove, and bristlebill. The family is distributed across most of Africa and into the Middle East, tropical Asia to Indonesia, and north as far as Japan. A few insular species occur on the tropical islands of the Indian Ocean. There are over 150 species in 32 genera. While different species are found in a wide range of habitats, the African species are predominantly found in rainforest, whereas Asian bulbuls are predominantly found in more open areas.
+
+
+== Taxonomy ==
+The family Pycnonotidae was introduced by the English zoologist George Robert Gray in 1840 as a subfamily Pycnonotinae of the thrush family Turdidae.The word bulbul derives from Hindi (बुलबुल) or Persian or Arabic (بلبل), meaning nightingale, but in English, bulbul refers to passerine birds of a different family.A few species that were previously considered to be members of the Pycnonotidae have been moved to other families. Several Malagasy species that were formerly placed in the genus Phyllastrephus are now placed in the family Bernieridae. In addition, the genus Nicator containing three African species is now placed in a separate family Nicatoridae.A study by Ulf Johansson and colleagues using three nuclear markers published in 2007 found that the genus Andropadus was non-monophyletic. In the subsequent revision, species were moved to three resurrected genera: Arizelocichla, Stelgidillas and Eurillas. Only the sombre greenbul (Andropadus importunus), was retained in Andropadus. A study by Subir Shakya and Frederick Shelden published in 2017 found that species in the large genus  Pycnonotus formed several deeply divergent clades. The genus was split and six genera were resurrected to accommodate these clades.The family forms two main clades. One clade contains species that are only found to Africa, many of these have greenbul in the common name. The second clade contains mostly Asian species but includes a few species that are found in Africa.
+
+
+=== List of genera ===
+
+Currently, there are 158 recognized species in 32 genera:
+Genus Andropadus – sombre greenbul (formerly contained many species)
+Genus Stelgidillas – slender-billed greenbul (formerly in Andropadus)
+Genus Calyptocichla – golden greenbul
+Genus Neolestes – black-collared bulbul
+Genus Bleda – bristlebills (5 species)
+Genus Atimastillas – yellow-throated leaflove
+Genus Ixonotus  – spotted greenbul
+Genus Thescelocichla – swamp palm bulbul
+Genus Chlorocichla – greenbuls (5 species)
+Genus Baeopogon – greenbuls (2 species)
+Genus Arizelocichla – greenbuls (12 species) (formerly in Andropadus)
+Genus Criniger – greenbuls (5 species)
+Genus Eurillas – greenbuls (5 species) (formerly in Andropadus)
+Genus Phyllastrephus – greenbuls and brownbuls (20 species)
+Genus Tricholestes – hairy-backed bulbul
+Genus Setornis – hook-billed bulbul
+Genus Alophoixus – 8 species (formerly in Criniger)
+Genus Alcurus – 2 species (formerly in Pycnonotus)
+Genus Iole – 7 species
+Genus Hemixos – 4 species
+Genus Acritillas – yellow-browed bulbul
+Genus Ixos – 5 species
+Genus Hypsipetes – 19 species (includes 3 species formerly in Thapsinillas, one formerly in Cerasophila and one formerly in Microscelis)
+Genus Euptilotus – puff-backed bulbul (formerly in Pycnonotus)
+Genus Microtarsus – black-and-white bulbul (formerly in Pycnonotus)
+Genus Poliolophus  – yellow-wattled bulbul (formerly in Pycnonotus)
+Genus Brachypodius – 4 species (formerly in Pycnonotus)
+Genus Ixodia – 3 species (formerly in Pycnonotus)
+Genus Rubigula – 5 species (formerly in Pycnonotus)
+Genus Nok – bare-faced bulbul (genus introduced in 2017)
+Genus Spizixos – finchbills (2 species)
+Genus Pycnonotus – 32 species (substantially reduced from earlier classification)
+
+
+=== Cladogram ===
+
+
+== Description ==
+Bulbuls are short-necked slender passerines. The tails are long and the wings short and rounded. In almost all species the bill is slightly elongated and slightly hooked at the end. They vary in length from 13 cm and 13.3 g (0.47 oz) for the tiny greenbul to 29 cm and 93 g (3.3 oz) in the straw-headed bulbul. Overall the sexes are alike, although the females tend to be slightly smaller. In a few species the differences are so great that they have been described as functionally different species. The soft plumage of some species is colorful with yellow, red or orange vents, cheeks, throat or supercilia, but most are drab, with uniform olive-brown to black plumage. Species with dull coloured eyes often sport contrasting eyerings. Some have very distinct crests. Bulbuls are highly vocal, with the calls of most species being described as nasal or gravelly. One author described the song of the brown-eared bulbul as "the most unattractive noises made by any bird".
+
+
+== Behaviour and ecology ==
+
+
+=== Breeding ===
+The bulbuls are generally monogamous. One unusual exception is the yellow-whiskered greenbul which at least over part of its range appears to be polygamous and engage in a lekking system. Some species also have alloparenting arrangements, where non-breeders, usually the young from earlier clutches, help raise the young of a dominant breeding pair.  Up to five speckled eggs are laid in an open tree nests and incubated by the female. Incubation usually lasts between 11–14 days, and chicks fledge after 12–16 days.
+
+
+=== Feeding ===
+Bulbuls eat a wide range of foods, ranging from fruit to seeds, nectar, small insects and other arthropods and even small vertebrates. The majority of species are frugivorous and supplement their diet with some insects, although there is a significant minority of specialists, particularly in Africa. Open country species in particular are generalists. Bulbuls in the genus Criniger and bristlebills in the genus Bleda will join mixed-species feeding flocks.
+
+
+== Relationship to humans ==
+The red-whiskered bulbuls and red-vented bulbuls have been captured for the pet trade in great numbers and have been widely introduced to tropical and subtropical areas, for example southern Florida, Fiji, Australia and Hawaii. Some species are regarded as crop pests, particularly in orchards.In general bulbuls and greenbuls are resistant to human pressures on the environment and are tolerant of disturbed habitat. Around 13 species are considered threatened by human activities, mostly specialised forest species threatened by habitat loss.
+
+
+== References ==
+
+
+== Sources ==
+Fishpool, L.D.C.; Tobias, J.A. (2005). "Family Pycnonotidae (Bulbuls)".  In del Hoyo, J.; Elliott, A.; Christie, D.A. (eds.). Handbook of the Birds of the World. Volume 10: Cuckoo-shrikes to Thrushes. Barcelona, Spain: Lynx Edicions. pp. 124–250. ISBN 978-84-87334-72-6. 
+
+
+== External links ==
+Bulbul photos and videos on the Internet Bird Collection
+Family characters

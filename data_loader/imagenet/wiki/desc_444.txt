@@ -1,0 +1,162 @@
+A tandem bicycle or twin is a form of bicycle (occasionally a tricycle) designed to be ridden by more than one person. The term tandem refers to the seating arrangement (fore to aft, not side by side), not the number of riders. Patents related to tandem bicycles date from the mid 1880s. Tandems can reach higher speeds than the same riders on single bicycles, and tandem bicycle racing exists. As with bicycles for single riders, there are many variations that have been developed over the years.
+
+
+== Terminology ==
+The term tandem refers to the seating arrangement (fore to aft, not side by side), not the number of riders. A bike with two riders side by side is called a sociable.
+Tandem bicycles are sometimes called "Daisy Bells". This is in reference to "Daisy Bell (Bicycle Built for Two)" which is a popular song, written in 1892 by British songwriter Harry Dacre, with the well-known chorus, "Daisy, Daisy / Give me your answer, do. / I'm half crazy / all for the love of you", ending with the words, "a bicycle built for two".
+On conventional tandems, the front rider steers as well as pedals the bicycle and is known as the captain, pilot, or steersman; the rear rider only pedals and is known as the stoker, navigator or rear admiral. On most tandems the two sets of cranks are mechanically linked by a timing chain and turn at the same rate.
+
+
+== History ==
+Patents related to tandem bicycles date from the mid 1880s.  In approximately 1898, Mikael Pedersen developed a two-rider tandem version of his Pedersen bicycle that weighed 24 pounds, and a four-rider, or "quad", that weighed 64 pounds. They were also used in the Second Anglo-Boer War. Tandem popularity began to decline after World War II until a revival started in the late 1960s.  In the UK The Tandem Club was founded in 1971, new tandems came on to the market from the French companies Lejeune and Gitane, and in the USA Bill McCready founded Santana Cycles in 1976. Modern technology has improved component and frame designs, and many tandems are as well-built as modern high-end road and off-road bikes.
+
+
+== Performance ==
+Compared to a conventional bicycle, a tandem has double the pedalling power, without necessarily doubling the speed, and with only slightly more frictional loss in the drivetrain. It has about the same wind resistance as a conventional bicycle. High-performance tandems may weigh less than twice as much as a single bike, so the power-to-weight ratio may be slightly better than that of a single bike and rider.  On flat terrain and downhill, most of the power produced by cyclists is used to overcome wind resistance, so tandems can reach higher speeds than the same riders on single bicycles.  They are not necessarily slower on climbs, but are perceived as such, in part due to the need for a high level of coordination between the riders, especially if the physical abilities of the two riders are very different, requiring a compromise on cadence.
+
+
+== Uses ==
+Tandem bicycles are used in competitions such as the Paralympics with blind and visually impaired cyclists riding as stokers with fully sighted captains.
+Cycling at the Summer Olympics featured a men's tandem event in 1908 and from 1920 to 1972.
+
+Tandems may also be used for bicycle touring and may provide a solution to the problem of riders with different abilities that wish to tour together. Each rider may exert themselves as they wish and all riders travel at the same speed.
+The UK has specialist time trial events that have National competition records over 10, 25, 50 and 100-mile events against the clock. There are also 12 and 24 hour time trials ran by the CTT and VTTA riders. There are also place to place records that are run by the RRA
+
+
+== Variations ==
+
+
+=== More than two riders ===
+Tandems can have more than two riders – tandem refers to the arrangement of the riders one behind the other rather than the number of riders. Bicycles for three, four, or five riders are referred to as "triples" or "triplets", "quads" or "quadruplets", and "quints" or "quintuplets" respectively. One such familiar to UK TV viewers was the "trandem" ridden by The Goodies. Originally a two-rider tandem with an extra "dummy" seat attached, a full three-rider version was built for them by Raleigh.
+A marching band in Bruges, Belgium, uses a six-place tandem bicycle fitted to carry certain of their instruments in a way that allows them to play music while underway. In the '80s or '90s, an eight-seat tandem bicycle was built and demonstrated in Philadelphia.
+
+
+=== Independent pedaling ===
+Some designs such as the DaVinci can allow independent pedaling through the use of multiple freewheels.
+ In another design, the rear rider steers and propels the rear wheel with pedals, and the front rider propels the front wheel with both hands and feet.
+
+
+=== Seating arrangements ===
+Tandems come with both upright and recumbent seating.
+The Bilenky ViewPoint and the Hase Pino are hybrid upright/recumbent tandems steered by the captain who sits upright in the rear, while the stoker rides in a recumbent position in the front. Both also feature independent stoker pedaling.
+The "Buddy Bike" is designed to allow a child to sit on the front saddle with an adult on the rear saddle and steering with extra-long handlebars.
+
+
+=== Double steering ===
+Both riders, in the case of just two, may be able to steer. The Star Cycle Company, of Wolverhampton, England, marketed its "Combination Roadster tandem" in 1896. It had a link from the second set of handlebars to the front fork. Others include the 1897 Geneva, and the 1898 Stearns.
+
+
+=== Tricycles ===
+Tandems are also available as tricycles; the conventional tandem trike has a small but devoted following in the United Kingdom and is available in one-wheel and two-wheel drive designs. Recumbent tandem tricycles are also gaining popularity throughout the world [1].
+
+
+=== Short wheelbase ===
+There are short wheelbase models, with the rear rider sitting over the rear wheel, either just in front of or even behind the rear axle.
+
+
+=== Folding ===
+Several manufacturers offer folding tandems, either with small wheels or not, to facilitate packing and travelling.
+
+
+=== Couplers ===
+It is possible to add couplers either during manufacturing or as a retrofit so that the frame can be disassembled into smaller pieces to facilitate packing and travel. Santana manufactures a "triplet" (or quad) that can be transformed into a tandem by simply removing the center section of the frame."
+
+
+== Tandem specific components ==
+Tandems are subjected to unique stresses caused by additional riders and weight requiring solutions specific to tandem construction. The phrase "Tandem Specific" was popularized by its use in Santana tandem catalogs during the 1990s.
+
+
+=== Drive train ===
+To transfer power from all pedals to the rear wheel requires a drive train. Typically, the forward crankset is connected by a left-side timing chain to the rear crankset, which in turn is connected by a right-side chain to the rear wheel. This configuration is called crossover rear drive, and requires both of the rear cranks to have chainrings. To work reliably, both of the left-side cranks must be tandem- or left-drive specific to accept the left-hand threading used on left pedals.
+The second most popular solution, due to not requiring tandem-specific cranks, is called single side rear drive. The forward crankset is connected by a right-side timing chain to the rear crankset, which in turn is connected by a right-side chain to the rear wheel. This requires that one of the rear chainrings be devoted to the timing chain and limits shifting options.
+The least popular solution is to run a drive chain from the forward crankset all the way to the rear wheel, and also run a timing chain from the front crankset to the rear crankset. This is less popular because it requires considerably more chain than the first two arrangements. Such a setup is called a crossover front drive.
+A rare solution to the requirement of coordinated pedaling is the use of a jackshaft plus two freehubs, thus allowing one rider to coast while the other continues to pedal.  This also allows riders to select different crank positions, such as inphase (IP), or Out-Of-Phase (OOP), while pedaling together.  Davinci Tandems use a unique "Independent Drive" whereby the intermediate shaft transfers the power from the stoker and captain cranks into a converter which allows up to four chainrings.  This variant also allows stoker and captain cranks to freewheel (coast) independently.
+
+
+=== Crankset ===
+The front crankset typically has only one chainring. The rear crankset typically has many chainrings, sometimes on both sides. On a tandem where the pedaling is designed to be in sync, both cranksets will use a chainring for the timing chain of the same size. The drive chain chainrings can be single gear or use a derailleur.
+To maintain the necessary tension on the timing chain, many tandems use an eccentric that is placed in the front rider's bottom bracket shell. An alternate solution is to implement a pulley, or idler, on the bottom of the timing chain to take up slack. Idlers add friction and a potential point of failure to the drive train.
+
+
+=== Fork ===
+Tandems have very different weight distribution and loads on wheels, brakes, and forks. A tandem-specific fork is designed to handle this. Custom tandem makers such as Co-Motion make specific forks for tandem, triple, and quad-bikes. Brake forces can be substantial. On any bicycle, the front brake (and thus fork) are critical to safe and efficient braking. On disc brakes tandems, it is important that heat transfer and dissipation has been engineered properly. In particular, carbon tandem forks can provide all the benefits of comfort and control, but are also designed to handle the increased heat load.
+
+
+=== Handle bars and stem ===
+Stoker handlebars are typically connected to a stoker stem that is clamped around the captain's seatpost.  The stoker handlebars are typically bullhorns or drop bars with "dummy levers" instead of brake levers for gripping.
+
+
+=== Wheels ===
+Because of the extra weight and stresses, tandem wheels may use a higher spoke count, sturdier rims, higher pressure tires, a stronger freewheel, dishless spoke configuration, or asymmetric wheels. Tandems wear out rear wheels faster than front wheels; therefore, they may use non-symmetrical wheel setups, such as more spokes or a sturdier rim on the rear wheel.
+The dish of a wheel measures the amount of asymmetry between the rim and the hub flanges. To accommodate a large cassette, more space is needed on the drive side of the axle; this increases the complexity of manufacturing and truing the wheel. Tandem rear wheels tend to run a wider hub/axle to allow the right-side hub flange to be further right of wheel center and thus reduce the total dish of the wheel.  Some modern tandems use a 160-mm-wide axle that allows a wheel that is completely "dishless" (i.e. symmetric). The disadvantage is this may increase the Q-factor of the stoker's cranks and may also cause "heel-strike" of the stoker's shoes on the chain stays.  Others use shorter axles (often 145mm wide) thereby trading a little decrease in the strength of the wheel for the advantage of a similar decrease in the bending moment of the axle spindle. Rear hubs may also be threaded on the left side to allow the use of a drum brake.
+Specialty wheels such as Aerospoke or Shimano "Sweet-16" may build "tandem certified" racing wheelsets.  The Aerospoke tandem wheelset is built up more than their roadset with special tandem hubs that can be removed and which facilitates stacking the rims flat into a travel case.
+
+
+=== Brakes ===
+A tandem bicycle has about twice the kinetic energy as a single bicycle traveling at the same forward speed. This may be more than can be handled by the same brakes, especially rim brakes, as a single bicycle. Two alternatives have been employed to solve this problem: drum brakes and disc brakes.
+The Arai drum brake is used during long downhill descents where a rim brake might overheat the tire and possibly cause it to fail. The drum of the brake screws onto the left side of the tandem hub, which must be threaded for the drum. The shoe plate slips over the axle and a small reaction arm from the shoe plate engages with the bicycle frame to prevent the plate from turning. The drum brake is typically controlled by a friction shift lever like a BARCON or similar. The brake is designed to be engaged continuously during a descent to maintain a steady speed. The standard brakes can be used in addition as necessary.
+Some modern tandems use disc brakes, with all the advantages and disadvantages that entails.
+
+
+== Riding techniques ==
+
+The rear rider starts clipped in while the front rider holds the tandem upright. For those who can get accustomed to the rear rider always being clipped in, the distinct advantage to this technique will become obvious when trying to start at the foot of a bridge or on a hill. If the tandem team does not practice this, then they often reserve this type of start for when they are faced with a bridge or hill. This technique allows the rear rider to apply continuous power as the front rider steadies the tandem during the initial take-off. This reduces the risk of the tandem toppling over due to starting on an incline. The rear rider will continue to pedal as the front rider attempts to get the foot used for steadying the tandem clipped into the pedal.
+
+
+=== Crank phase ===
+Riders may choose to synchronise their pedalling through in-phase (IP) or out-of-phase (OOP) pedalling. In in-phase pedalling, each rider's cranks are the same or opposite clock positions at any point in time. In out-of-phase pedalling, both riders have their cranks in differing non-opposite positions. This has the potential for a wide range of variation. Some tandem riders arrange their cranks so that they are 90° out of phase to produce what is called the "4 banger arrangement".  In practice, OOP setups range from a mere two-tooth phase difference between cranks to a full 90° phase difference. Generally, OOP provides the greatest benefits to the tandem team that has disparate leg-strength. When the tandem is pedalled IP it is possible, and often happens, that the stronger rider literally drops the pedals out from beneath the feet of the weaker rider and cause the latter to be unable to contribute meaningfully. Using OOP makes a significant difference in gearing choice as each rider has the full mass of the tandem in their power stroke, so lower gears are preferred. However, using OOP can help develop leg strength for the very same reason. Some argue that this produces a smoother power stroke, or that it reduces stress on the drive train because the point of maximum power is reduced to roughly half and distributed over the chainrings.
+
+
+== Manufacturers ==
+
+Since the market for tandem bicycles is significantly smaller than the market for single bikes, there are far fewer tandem bicycle manufacturers than single-bicycle manufacturers.  There are a few builders who specialize in tandems, as well as single-bike makers who offer tandem models.  Current notable tandem bicycle manufacturers include:
+
+Bike Friday
+Bilenky Cycle Works
+Bohemian Bicycles
+Burley Design (now out of production)
+Calfee Design
+Cannondale Bicycle Corporation
+Co-Motion Cycles
+Cyfac International
+Dawes Cycles
+Gazelle
+Hase Spezialräder (Hase Bikes)
+KHS Bicycles
+Órbita bicycles
+Santana Cycles
+Schwinn Bicycle Company
+Torker
+Trek Bicycles
+
+
+== See also ==
+Outline of cycling
+Sociable
+Trailer bike
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== External links ==
+Designing tandems on BikeCAD - BikeCAD bicycle design software can be used to model a tandem bicycle
+The Tandem Experience - the original try before you buy and training company
+The Tandem Club — the original tandem club, UK-based with Dutch, other European and international members
+The Tandem Club of America — a U.S.-based club
+The Bishops Castle Tandem Triathlon
+Tandem Bike News and Info — an interactive community for tandem bike fanatics. Includes information on road tandems, mountain tandems, and tandem specific routes. US centric
+daVinci Designs - Tandem manufacturer offering independent coasting system
+Totally-Bikes.com - Tandem renting in the UK
+Bikeforums.net Tandem-Cycling - Discussions on tandems (buying, trips, servicing, all other aspects)
+TandemMag.com - Great site to start with on tandems, though many sections were not updated recently. The Classifieds section is alive.
+Tandemclub.nl - Tandem club in The Netherlands
+Tandem Maniac - French tandem club
+Tandem VTT - French tandem club for mountainbikes
+TheTandemLink Learning Center - Collection of links for starters

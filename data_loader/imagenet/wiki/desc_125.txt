@@ -1,0 +1,52 @@
+Hermit crabs are anomuran decapod crustaceans of the superfamily Paguroidea that have adapted to occupy empty scavenged mollusc shells to protect their fragile exoskeletons. There are over 800 species of hermit crab, most of which possess an asymmetric abdomen concealed by a snug-fitting shell. Hermit crabs' non-calcified abdominal exoskeleton makes their exogenous shelter system obligatory. Hermit crabs must occupy shelter produced by other organisms, or risk being defenseless.
+The strong association between hermit crabs and their shelters has significantly influenced their biology. Almost 800 species carry mobile shelters (most often calcified snail shells); this protective mobility contributes to the diversity and multitude of crustaceans found in almost all marine environments. In most species, development involves metamorphosis from symmetric, free-swimming larvae to morphologically asymmetric, benthic-dwelling, shell-seeking crabs. Such physiological and behavioral extremes facilitate a transition to a sheltered lifestyle, revealing the extensive evolutionary lengths that led to their superfamily success.
+
+
+== Biological description ==
+
+Most species have long, spirally curved abdomens, which are soft, unlike the hard, calcified abdomens seen in related crustaceans. The vulnerable abdomen is protected from predators by a salvaged empty seashell carried by the hermit crab, into which its whole body can retract. Most frequently, hermit crabs use the shells of sea snails (although the shells of bivalves and scaphopods and even hollow pieces of wood and stone are used by some species). The tip of the hermit crab's abdomen is adapted to clasp strongly onto the columella of the snail shell. Most hermit crabs are nocturnal.
+
+
+=== Environment ===
+Hermit crabs can be divided into two groups:
+
+The first group is the marine hermit crabs (with a single species, Clibanarius fonticola, in freshwater). These crabs spend most of their lives underwater as aquatic animals, living in depths of saltwater that range from shallow reefs and shorelines to deep sea bottoms, rarely leaving the water for land. As pets, several marine species of hermit crabs are common in the marine aquarium trade. They are commonly kept in reef fish tanks. They breathe through gills but don't have to carry around their water to do so, and most can survive briefly out of water as long as their gills are damp. However, this ability is not as developed as it is in land hermit crabs. A few species do not use a "mobile home" and inhabit immobile structures left by polychaete worms, vermetid gastropods, corals, and sponges.
+The second group, the land hermit crabs, spend most of their life on land as terrestrial species in tropical areas, though even they require access to both freshwater and saltwater to keep their gills damp or wet to survive and to reproduce. They belong to the family Coenobitidae. Of the approximately 15 terrestrial species of genus Coenobita in the world, the following are commonly kept as pets: Caribbean hermit crab (Coenobita clypeatus), Australian land hermit crab (Coenobita variabilis), and the Ecuadorian hermit crab (Coenobita compressus). Other species, such as Coenobita brevimanus, Coenobita rugosus, Coenobita perlatus or Coenobita cavipes, are less common but growing in availability and popularity as pets.
+
+
+=== Shells and shell competition ===
+
+As hermit crabs grow, they require larger shells. Since suitable intact gastropod shells are sometimes a limited resource, vigorous competition often occurs among hermit crabs for shells. The availability of empty shells at any given place depends on the relative abundance of gastropods and hermit crabs, matched for size. An equally important issue is the population of organisms that prey upon gastropods and leave the shells intact. Hermit crabs kept together may fight or kill a competitor to gain access to the shell they favour. However, if the crabs vary significantly in size, the occurrence of fights over empty shells will decrease or remain nonexistent. Hermit crabs with too-small shells cannot grow as fast as those with well-fitting shells, and are more likely to be eaten if they cannot retract completely into the shell.
+
+As the hermit crab grows in size, it must find a larger shell and abandon the previous one. Several hermit crab species, both terrestrial and marine, have been observed forming a vacancy chain to exchange shells.   When an individual crab finds a new empty shell it will leave its own shell and inspect the vacant shell for size. If the shell is found to be too large, the crab goes back to its own shell and then waits by the vacant shell for up to 8 hours. As new crabs arrive they also inspect the shell and, if it is too big, wait with the others, forming a group of up to 20 individuals, holding onto each other in a line from the largest to the smallest crab. As soon as a crab arrives that is the right size for the vacant shell and claims it, leaving its old shell vacant, then all the crabs in the queue swiftly exchange shells in sequence, each one moving up to the next size. Hermit crabs often "gang up" on one of their species with what they perceive to be a better shell, and pry its shell away from it before competing for it until one takes it over.There are cases when seashells are not available and hermit crabs will use alternatives such as tin cans, custom-made shells, or any other types of debris, which often proves fatal to the hermit crabs (as they can climb into, but not out of, slippery plastic debris). This can even create a chain reaction of fatality, because a dead hermit crab will release a signal to tell others that a shell is available, luring more hermit crabs to their deaths.
+For some larger marine species, supporting one or more sea anemones on the shell can scare away predators. The sea anemone benefits, because it is in position to consume fragments of the hermit crab's meals. Other very close symbiotic relationships are known from encrusting bryozoans and hermit crabs forming
+bryoliths.
+
+
+=== Development and reproduction ===
+Hermit crab species range in size and shape, from species with a carapace only a few millimetres long to Coenobita brevimanus, which can live 12–70 years and can approach the size of a coconut. The shell-less hermit crab Birgus latro (coconut crab) is the world's largest terrestrial invertebrate.The young develop in stages, with the first two (the nauplius and protozoea) occurring inside the egg. Most hermit crab larvae hatch at the third stage, the zoea. In this larval stage, the crab has several long spines, a long, narrow abdomen, and large fringed antennae. Several zoeal moults are followed by the final larval stage, the megalopa.Hermit crabs are often seen as a ‘throwaway pet’ that would live only a few months, but species such as Coenobita clypeatus have a 20 year lifespan if properly cared for, and some have lived longer than 32 years.
+
+
+== Classification ==
+Hermit crabs are more closely related to squat lobsters and porcelain crabs than they are to true crabs (Brachyura). However, the relationship of king crabs to the rest of Paguroidea has been a highly contentious topic. Many studies based on their physical characteristics, genetic information, and combined data demonstrate the longstanding hypothesis that the king crabs in the family Lithodidae are derived hermit crabs descended from pagurids and should be classified as a family within Paguroidea. The molecular data has disproven an alternate view based on morphological arguments that the Lithodidae (king crabs) nest with the Hapalogastridae in a separate superfamily, Lithodoidea. Six families are formally recognized in the superfamily Paguroidea, containing around 1100 species in total in 120 genera.
+Coenobitidae Dana, 1851 – two genera: terrestrial hermit crabs and the coconut crab
+Diogenidae Ortmann, 1892 – 20 genera of "left-handed hermit crabs"
+Paguridae Latreille, 1802 – 76 genera
+Parapaguridae Smith, 1882 – 10 genera
+Parapylochelidae Fraaije et al., 2012 – two genera
+Pylochelidae Bate, 1888 – 9 genera of "symmetrical hermit crabs"
+Pylojacquesidae McLaughlin & Lemaitre, 2001 – two genera
+
+
+== Fossil record ==
+The fossil record of in situ hermit crabs using gastropod shells stretches back to the Late Cretaceous. Before that time, at least some hermit crabs used ammonites' shells instead, as shown by a specimen of Palaeopagurus vandenengeli from the Speeton Clay, Yorkshire, UK from the Lower Cretaceous, as well as from the Upper Jurassic of Russia. The oldest record of the superfamily extends back to the earliest part of the Jurassic, with the oldest species being Schobertella hoelderi from the late Hettangian of Germany.
+
+
+== References ==
+
+
+== External links ==
+
+ Media related to Paguroidea at Wikimedia Commons
+ Animal Care/Land hermit crab at Wikibooks
+ Animal Care/Land hermit crab at Wikibooks

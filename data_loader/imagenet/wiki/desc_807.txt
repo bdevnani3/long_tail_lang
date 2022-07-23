@@ -1,0 +1,38 @@
+A solar furnace is a structure that uses concentrated solar power to produce high temperatures, usually for industry. Parabolic mirrors or heliostats concentrate light (Insolation) onto a focal point.  The temperature at the focal point may reach 3,500 °C (6,330 °F), and this heat can be used to generate electricity, melt steel, make hydrogen fuel or nanomaterials.
+The largest solar furnace is at Odeillo in the Pyrénées-Orientales in France, opened in 1970.  It employs an array of plane mirrors to gather sunlight, reflecting it onto a larger curved mirror.
+
+
+== History ==
+The ancient Greek / Latin term heliocaminus literally means "solar furnace" and refers to a glass-enclosed sunroom intentionally designed to become hotter than the outside air temperature.During the Second Punic War (218–202 BC), the Greek scientist Archimedes is said to have repelled the attacking Roman ships by setting them on fire with a "burning glass" that may have been an array of mirrors. An experiment to test this theory was carried out by a group at the Massachusetts Institute of Technology in 2005. It concluded that although the theory was sound for stationary objects, the mirrors would not likely have been able to concentrate sufficient solar energy to set a ship on fire under battle conditions.The first modern solar furnace is believed to have been built in France in 1949 by Professor Félix Trombe. The device, the Mont-Louis Solar Furnace is still in place at Mont-Louis. The Pyrenees were chosen as the site because the area experiences clear skies up to 300 days a year.The Odeillo Solar Furnace is a larger and more powerful solar furnace. It was built between 1962 and 1968, and started operating in 1969. It's currently the most powerful, based on an achievable temperature of 3500 °C.
+The Solar Furnace of Uzbekistan was built in Uzbekistan and opened in 1981 as a part of a Soviet Union "Sun" Complex Research Facility.
+
+
+== Uses ==
+The rays are focused onto an area the size of a cooking pot and can reach 4,000 °C (7,230 °F), depending on the process installed, for example:
+
+about 1,000 °C (1,830 °F) for metallic receivers producing hot air for the next generation solar towers as it will be tested at the Themis plant with the Pegase project
+about 1,400 °C (2,550 °F) to produce hydrogen by cracking methane molecules
+up to 2,500 °C (4,530 °F) to test materials for extreme environment such as nuclear reactors or space vehicle atmospheric reentry
+up to 3,500 °C (6,330 °F) to produce nanomaterials by solar induced sublimation and controlled cooling, such as carbon nanotubes or zinc nanoparticlesIt has been suggested that solar furnaces could be used in space to provide energy for manufacturing purposes.
+Their reliance on sunny weather is a limiting factor as a source of renewable energy on Earth but could be tied to thermal energy storage systems for energy production through these periods and into the night.
+
+
+== Smaller-scale devices ==
+The solar furnace principle is being used to make inexpensive solar cookers and solar-powered barbecues, and for solar water pasteurization. A prototype Scheffler reflector is being constructed in India for use in a solar crematorium. This 50 m2 reflector will generate temperatures of 700 °C (1,292 °F) and displace 200–300 kg of firewood used per cremation.
+
+
+== See also ==
+Solar power tower
+Solar thermal energy
+Solar furnace of Uzbekistan
+
+
+== References ==
+
+
+== External links ==
+Article about the Odeillo and Mont Louis solar furnaces
+Hochflussdichte Sonnenofen des DLR, Köln
+Page including an animation of a solar furnace
+BBC News article about the solar power station serving Seville, Spain
+Build a solar furnace

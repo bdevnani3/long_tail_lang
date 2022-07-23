@@ -1,12 +1,14 @@
-import os
 import argparse
+import os
 import pprint
+import warnings
+from datetime import datetime
+
+import yaml
+
 from data_loader import dataloaders as dataloader
 from train import model
-import warnings
-import yaml
 from utils import *
-from datetime import datetime
 
 ##change your data root here
 data_root = {"ImageNet": "./datasets/ImageNet/", "Places": "./datasets/Places/"}
@@ -55,6 +57,8 @@ def update(config, args):
         config["networks"]["classifier"] = classifier
 
     config["model_dir"] = args.model_dir
+    if "eval_type" not in config["training_opt"]:
+        config["training_opt"]["eval_type"] = "image"
 
     return config
 
@@ -159,8 +163,6 @@ if not test_mode:
         if x == "train":
             data[x + "_ltcount"] = d[1]
 
-    training_model = model(config, data, test=False)
-
     # CLIP dataloader
     # data = {
     #     x: dataloader.load_data(
@@ -171,6 +173,26 @@ if not test_mode:
     #     )
     #     for x in splits
     # }
+    many_shot_thr = 100
+    low_shot_thr = 20
+    data["label_categorization"] = {"few": [], "many": [], "medium": []}
+    for i in data["train_ltcount"]:
+        if data["train_ltcount"][i] > many_shot_thr:
+            data["label_categorization"]["many"].append(i)
+        elif data["train_ltcount"][i] < low_shot_thr:
+            data["label_categorization"]["few"].append(i)
+        else:
+            data["label_categorization"]["medium"].append(i)
+
+    print(
+        "Label categorization: \n Few: {} \n Medium: {} \n Many: {}".format(
+            len(data["label_categorization"]["few"]),
+            len(data["label_categorization"]["medium"]),
+            len(data["label_categorization"]["many"]),
+        )
+    )
+
+    training_model = model(config, data, test=False)
 
     training_model.train()
 

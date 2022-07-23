@@ -1,28 +1,31 @@
+import copy
 import enum
 import os
-import copy
+import pdb
 import pickle
+import random
+import time
+import warnings
 from re import X, template
 from readline import set_pre_input_hook
-from matplotlib.pyplot import phase_spectrum
-from numpy.core.fromnumeric import cumprod
+
+import numpy as np
 import torch
 import torch.nn as nn
-import torch.optim as optim
 import torch.nn.functional as F
-from tqdm import tqdm
-from utils import *
-from logger import Logger
-import time
-import numpy as np
-import warnings
-import pdb
-from diffgrad import diffgrad
-
+import torch.optim as optim
 # import clip
 from clip import clip
-from classes import CLASSES, CUSTOM_TEMPLATES, GENERIC_PROMPT_COLLECTIONS
+from matplotlib.pyplot import phase_spectrum
+from numpy.core.fromnumeric import cumprod
+from pytz import NonExistentTimeError
 from torch.utils.tensorboard import SummaryWriter
+from tqdm import tqdm
+
+from classes import CLASSES, CUSTOM_TEMPLATES, GENERIC_PROMPT_COLLECTIONS
+from diffgrad import diffgrad
+from logger import Logger
+from utils import *
 
 
 def load_clip_to_cpu(visual_backbone):
@@ -287,6 +290,8 @@ class model:
             self.image_dot_text(inputs, labels, phase=phase)
         elif variation == "image_linear_probe_boosted":
             self.image_linear_probe_boosted(inputs, labels, phase=phase, paths=paths)
+        elif variation == "image_concat_text":
+            self.image_concat_text(inputs, labels, phase=phase)
 
     ###########################################################################
     ### Forward pass variations
@@ -403,7 +408,9 @@ class model:
 
             self.logits = self.fusion(x)
 
-    def image_linear_probe_boosted(self, inputs, labels, phase="train", paths=None):
+    def image_linear_probe_boosted_wiki(
+        self, inputs, labels, phase="train", paths=None
+    ):
         """
         Linear layer of dimension 1024x1000 on top of image embeddings,
         no text used.  To work in tandem with boosted dataset.
@@ -452,6 +459,8 @@ class model:
 
         if phase == "train":
 
+            only_med_and_few = check_config(self.training_opt, "only_med_and_few")
+
             lam = float(self.training_opt["image_emb_weight"]) if lam == None else lam
             classnames = np.array(CLASSES)
             templates = CUSTOM_TEMPLATES["ImageNet"]
@@ -470,22 +479,64 @@ class model:
             x = self.visual_model(inputs.half()).float()
             x = x / x.norm(dim=-1, keepdim=True)
 
+            if only_med_and_few:
+                mask = torch.isin(
+                    labels,
+                    torch.tensor(self.data["label_categorization"]["many"]).cuda(),
+                )
+                indices = torch.argwhere(mask)
+                zeroshot_weights[indices] = x[indices]
+
             fused = ((lam) * x) + ((1 - lam) * zeroshot_weights)
 
             self.logits = self.fusion(fused)
         else:
+            # self.training_opt["eval_type"] = "image_and_text"
+            if self.training_opt["eval_type"] == "image_and_text":
 
-            x = self.visual_model(inputs.half()).float()
-            x = x / x.norm(dim=-1, keepdim=True)
+                m = nn.Softmax(dim=-1)
+                lam = (
+                    float(self.training_opt["image_emb_weight"]) if lam == None else lam
+                )
+                batch_size = inputs.shape[0]
+                classnames = np.array(CLASSES)
+                templates = CUSTOM_TEMPLATES["ImageNet"]
+                texts = torch.cat(
+                    [clip.tokenize(templates.format(c)) for c in classnames]
+                ).cuda()
+                zeroshot_weights = self.text_model(texts).float()
+                zeroshot_weights = zeroshot_weights / zeroshot_weights.norm(
+                    dim=-1, keepdim=True
+                )  # 1000 x 1024
 
-            self.logits = self.fusion(x)
+                x = self.visual_model(inputs.half()).float()
+                x = x / x.norm(dim=-1, keepdim=True)  # batch_size x 1024
+
+                # import pdb; pdb.set_trace()
+                y = x.unsqueeze(-1).repeat(1, 1, 1000)  # batch_size x 1024 x 1000
+                z = zeroshot_weights.T.unsqueeze(0).repeat(
+                    batch_size, 1, 1
+                )  # batch_size x 1024 x 1000
+
+                y = y.permute(0, 2, 1)  # batch_size x 1000 x 1024
+                z = z.permute(0, 2, 1)  # batch_size x 1000 x 1024
+                fused = ((lam) * y) + ((1 - lam) * z)  # batch_size x 1024 x 1000
+                # fused = fused.reshape(batch_size*1000, 1024)  # batch_size*1000 x 2048
+                out = m(self.fusion(fused))  # batch_size*1000 x 1000
+                # out = out.reshape(batch_size, 1000, 1000) # batch_size x 1000 x 1000
+                # out = out * torch.eye(1000,1000).cuda() # batch_size x 1000 x 1000
+                out = out.sum(dim=1)  # batch_size x 1000
+                self.logits = out
+            else:
+                x = self.visual_model(inputs.half()).float()
+                x = x / x.norm(dim=-1, keepdim=True)
+
+                self.logits = self.fusion(x)
 
     def image_dot_text(self, inputs, labels, phase="train"):
         """
         Multiply every image embedding to the text embedding to "a photo of a".
         This is the simplest phrase and thus we refer to it as the default.
-
-        inputs: batch_size x 1 x 1024
         """
 
         if phase == "train":
@@ -511,10 +562,97 @@ class model:
             self.logits = self.fusion(fused)
         else:
 
+            if self.training_opt["eval_type"] == "image_and_text":
+                m = nn.Softmax(dim=-1)
+                batch_size = inputs.shape[0]
+                classnames = np.array(CLASSES)
+                templates = CUSTOM_TEMPLATES["ImageNet"]
+                texts = torch.cat(
+                    [clip.tokenize(templates.format(c)) for c in classnames]
+                ).cuda()
+                zeroshot_weights = self.text_model(texts).float()
+                zeroshot_weights = zeroshot_weights / zeroshot_weights.norm(
+                    dim=-1, keepdim=True
+                )  # 1000 x 1024
+
+                x = self.visual_model(inputs.half()).float()
+                x = x / x.norm(dim=-1, keepdim=True)  # batch_size x 1024
+
+                y = x.unsqueeze(-1).repeat(1, 1, 1000)  # batch_size x 1024 x 1000
+                z = zeroshot_weights.T.unsqueeze(0).repeat(
+                    batch_size, 1, 1
+                )  # batch_size x 1024 x 1000
+                fused = y * z  # batch_size x 1000 x 2048
+                fused = fused.reshape(batch_size * 1000, 1024)  # batch_size*1000 x 2048
+                out = self.fusion(fused)  # batch_size*1000 x 1000
+                out = out.reshape(batch_size, 1000, 1000)  # batch_size x 1000 x 1000
+                out = out * torch.eye(1000, 1000).cuda()  # batch_size x 1000 x 1000
+                out = m(out).sum(dim=1)  # batch_size x 1000
+                self.logits = out
+
+            else:
+
+                x = self.visual_model(inputs.half()).float()
+                x = x / x.norm(dim=-1, keepdim=True)
+
+                self.logits = self.fusion(x)
+
+    def image_concat_text(self, inputs, labels, phase="train"):
+        """
+        Multiply every image embedding to the text embedding to "a photo of a".
+        This is the simplest phrase and thus we refer to it as the default.
+        """
+
+        if phase == "train":
+            classnames = np.array(CLASSES)
+            templates = CUSTOM_TEMPLATES["ImageNet"]
+
+            classnames_for_labels = classnames[labels.cpu()]
+
+            texts = torch.cat(
+                [clip.tokenize(templates.format(c)) for c in classnames_for_labels]
+            )
+            texts = texts.cuda()
+            zeroshot_weights = self.text_model(texts).float()
+            zeroshot_weights = zeroshot_weights / zeroshot_weights.norm(
+                dim=-1, keepdim=True
+            )
+
             x = self.visual_model(inputs.half()).float()
             x = x / x.norm(dim=-1, keepdim=True)
 
-            self.logits = self.fusion(x)
+            fused = torch.cat([x, zeroshot_weights], dim=-1)
+
+            self.logits = self.fusion(fused)
+        else:
+            m = nn.Softmax(dim=-1)
+            batch_size = inputs.shape[0]
+            classnames = np.array(CLASSES)
+            templates = CUSTOM_TEMPLATES["ImageNet"]
+            texts = torch.cat(
+                [clip.tokenize(templates.format(c)) for c in classnames]
+            ).cuda()
+            zeroshot_weights = self.text_model(texts).float()
+            zeroshot_weights = zeroshot_weights / zeroshot_weights.norm(
+                dim=-1, keepdim=True
+            )  # 1000 x 1024
+
+            x = self.visual_model(inputs.half()).float()
+            x = x / x.norm(dim=-1, keepdim=True)  # batch_size x 1024
+
+            # import pdb; pdb.set_trace()
+            y = x.unsqueeze(-1).repeat(1, 1, 1000)  # batch_size x 1024 x 1000
+            z = zeroshot_weights.T.unsqueeze(0).repeat(
+                batch_size, 1, 1
+            )  # batch_size x 1024 x 1000
+
+            y = y.permute(0, 2, 1)  # batch_size x 1000 x 1024
+            z = z.permute(0, 2, 1)  # batch_size x 1000 x 1024
+            fused = torch.cat([y, z], dim=-1)  # batch_size x 1024 x 1000
+            out = m(self.fusion(fused))  # batch_size*1000 x 1000
+            # out = out * torch.eye(1000,1000).cuda() # batch_size x 1000 x 1000
+            out = out.sum(dim=1)  # batch_size x 1000
+            self.logits = out
 
     ###########################################################################
     ###########################################################################
@@ -650,6 +788,7 @@ class model:
             minibatch_acc = mic_acc_cal(preds, labels)
 
             print_str = [
+                "Config {}".format(self.training_opt["tf_folder"]),
                 "Epoch: [%d/%d]" % (epoch, self.training_opt["num_epochs"]),
                 "Step: %5d" % (step),
                 "Minibatch_loss_feature: %.3f" % (minibatch_loss_feat)
@@ -688,12 +827,26 @@ class model:
         self.total_labels = []
 
         self.epoch_loss = 0.0
-        for step, (inputs, labels, indexes, t) in enumerate(self.data["train"]):
 
+        def call_train_step(step, epoch, inputs, labels, indexes, t):
             if self.optimizer_variant == "LBFGS":
                 self.train_step_LBFGS(step, epoch, inputs, labels, indexes, t)
             else:
                 self.train_step(step, epoch, inputs, labels, indexes, t)
+
+        for step, (inputs, labels, indexes, t) in enumerate(self.data["train"]):
+
+            if self.training_opt["variation"] == "image_text_all_operations":
+                self.training_opt["variation"] = "image_plus_text"
+                self.training_opt["image_emb_weight"] = 0
+                call_train_step(step, epoch, inputs, labels, indexes, t)
+                self.training_opt["image_emb_weight"] = 1
+                call_train_step(step, epoch, inputs, labels, indexes, t)
+                self.training_opt["image_emb_weight"] = 0.5
+                call_train_step(step, epoch, inputs, labels, indexes, t)
+
+            else:
+                call_train_step(step, epoch, inputs, labels, indexes, t)
 
             # Update priority weights if using PrioritizedSampler
             # if self.training_opt['sampler'] and \
@@ -874,24 +1027,6 @@ class model:
             rsl["train_median"] += len(normal_preds) / n_total * n_top1_median
             rsl["train_low"] += len(normal_preds) / n_total * n_top1_low
 
-        # Calculate mixup prediction accuracy
-        if len(mixup_preds) > 0:
-            mixup_preds, mixup_labels, mixup_ws = list(
-                map(
-                    np.concatenate,
-                    [mixup_preds * 2, mixup_labels1 + mixup_labels2, mixup_ws],
-                )
-            )
-            mixup_ws = np.concatenate([mixup_ws, 1 - mixup_ws])
-            n_top1 = weighted_mic_acc_cal(mixup_preds, mixup_labels, mixup_ws)
-            n_top1_many, n_top1_median, n_top1_low, = weighted_shot_acc(
-                mixup_preds, mixup_labels, mixup_ws, self.data["train_ltcount"]
-            )
-            rsl["train_all"] += len(mixup_preds) / 2 / n_total * n_top1
-            rsl["train_many"] += len(mixup_preds) / 2 / n_total * n_top1_many
-            rsl["train_median"] += len(mixup_preds) / 2 / n_total * n_top1_median
-            rsl["train_low"] += len(mixup_preds) / 2 / n_total * n_top1_low
-
         # Top-1 accuracy and additional string
         print_str = [
             "\n Training acc Top1: %.3f \n" % (rsl["train_all"]),
@@ -981,7 +1116,7 @@ class model:
         self.eval_acc_mic_top1 = mic_acc_cal(
             preds[self.total_labels != -1], self.total_labels[self.total_labels != -1]
         )
-        self.eval_f_measure = F_measure(
+        self.precision, self.recall, self.eval_f_measure = F_measure(
             preds,
             self.total_labels,
             openset=openset,
@@ -992,6 +1127,7 @@ class model:
             self.median_acc_top1,
             self.low_acc_top1,
             self.cls_accs,
+            self.cls_accs_avg,
         ) = shot_acc(
             preds[self.total_labels != -1],
             self.total_labels[self.total_labels != -1],
@@ -1004,6 +1140,12 @@ class model:
             "Phase: %s" % (phase),
             "\n\n",
             "Evaluation_accuracy_micro_top1: %.5f" % (self.eval_acc_mic_top1),
+            "\n",
+            "Evaluation_accuracy_micro_top1_avg_class: %.5f" % (self.cls_accs_avg),
+            "\n",
+            "Averaged Precision: %.5f" % (self.precision),
+            "\n",
+            "Averaged Recall: %.5f" % (self.recall),
             "\n",
             "Averaged F-measure: %.5f" % (self.eval_f_measure),
             "\n",
@@ -1025,7 +1167,7 @@ class model:
             print_write(print_str, self.log_file)
         else:
             acc_str = [
-                "{:.1f} \t {:.1f} \t {:.1f} \t {:.1f}".format(
+                "{:.3f} \t {:.3f} \t {:.3f} \t {:.3f}".format(
                     self.many_acc_top1 * 100,
                     self.median_acc_top1 * 100,
                     self.low_acc_top1 * 100,
@@ -1123,3 +1265,9 @@ class model:
             labels=self.total_labels.detach().cpu().numpy(),
             paths=self.total_paths,
         )
+
+
+def check_config(conf, field):
+    if field not in conf:
+        return NonExistentTimeError
+    return conf[field]

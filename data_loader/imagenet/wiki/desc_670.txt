@@ -1,0 +1,196 @@
+A scooter or motor scooter is a  motorcycle with a step-through frame and a platform for the rider's feet, emphasizing comfort and fuel economy. Elements of scooter design were present in some of the earliest motorcycles, and scooters have been made since at least 1914. Scooter development continued in Europe and the United States between the World Wars.
+The global popularity of motor scooters dates from the post-World War II introductions of the Vespa and Lambretta models in Italy. These scooters were intended to provide economical personal transportation (engines from 50 to 150 cc or 3.1 to 9.2 cu in). The original layout is still widely used in this application. Maxi-scooters, with larger engines from 200 to 850 cc (12 to 52 cu in) have been developed for Western markets.
+Scooters are popular for personal transportation partly due to being more affordable, easier to operate, and more convenient to park and store than a car. Licensing requirements for scooters are easier and cheaper than for cars in most parts of the world, and insurance is usually cheaper. The term motor scooter is sometimes used to avoid confusion with kick scooter, but can then be confused with motorized scooters, another distinct kind of scooter.
+
+
+== Description ==
+The Shorter Oxford English Dictionary defines a motor scooter as a motorcycle similar to a kick scooter with a seat, a floorboard, and small or low wheels. The US Department of Transportation defines a scooter as a motorcycle that has a platform for the operator's feet or has integrated footrests and has a step-through architecture.The classic scooter design features a step-through frame and a flat floorboard for the rider's feet. This design is possible because most scooter engines and drive systems are attached to the rear axle or under the seat. Unlike a conventional motorcycle, in which the engine is mounted on the frame, most modern scooters allow the engine to swing with the rear wheel, while most vintage scooters and some newer retro models have an axle-mounted engine. Modern scooters starting from the late-1980s generally use a continuously variable transmission (CVT), while older ones use a manual transmission with the gearshift and clutch control built into the left handlebar.
+Scooters usually feature bodywork, including a front leg shield and body that conceals all or most of the mechanicals. There is often some integral storage space, either under the seat, built into the front leg shield, or both. Scooters have varying engine displacements and configurations ranging from 50 cc single-cylinder to 850 cc twin-cylinder models.
+Traditionally, scooter wheels are smaller than conventional motorcycle wheels and are made of pressed steel or cast aluminum alloy, bolt on easily, and often are interchangeable between front and rear. Some scooters carry a spare wheel. Many recent scooters use conventional front forks with the front axle fastened at both ends.
+
+
+== Regulatory classification ==
+Some jurisdictions do not differentiate between scooters and motorcycles. Though some jurisdictions classify smaller engine scooters (typically 50cc maximum) as moped class vehicles rather than motorcycles, meaning these scooters often have less stringent regulations (for example, 50cc scooters can be driven with a normal car drivers license in many jurisdictions, and might pay less road-tax and be subject to less stringent roadworthiness testing).
+For all legal purposes in the United States of America, the National Highway Traffic Safety Administration (NHTSA) recommends using the term motorcycle for all of these vehicles. However, while NHTSA excludes the term motor scooter from legal definition, it proceeds, in the same document, to give detailed instructions on how to import a small motor scooter.
+
+
+=== United States ===
+As of 2020 the US state of California has a regulatory system for 2- and 3-wheeled vehicles. It classifies vehicles with fewer than four wheels into the following categories:
+Motorcycle: a motorcycle is any 2- or 3-wheeled gas operated vehicle weighing under 1,500 lbs. with an engine displacement greater than or equal to 150ccs. Operation requires an M1 class license, and such vehicles must be registered with the state and carry mandatory insurance as well as bear a motorcycle license plate. Motorcycles may travel on any public roadway, including freeways, and may carry a single passenger in addition to the driver. Helmets are mandatory.
+Motor-driven cycle: a motor-driven cycle is 2-wheeled gas operated vehicle with an engine displacement of 149ccs or less that does not qualify as a moped (see below) and is capable of traveling greater than 30 mph. It has the same licensing, registration, insurance, license plating, and helmet requirements as a motorcycle, though it may not travel on freeways. Such vehicles are commonly referred to as "scooters".
+Moped: a moped (or "motorized bicycle") is a 2- or 3-wheeled device with an automatic transmission capable of traveling no more than 30 mph, with either a gas engine displacement of less than 50ccs (i.e., 49ccs or less) with built-in pedals like a bicycle for human operation, OR, if powered only by electricity, it must not produce more than four gross brake horsepower (bicycle pedals are optional for electric mopeds). There are no registration or insurance requirements for the device, but the operator him- or herself must have an M1 or M2 class license and must personally carry the minimum state automobile insurance and the moped itself must bear a special moped license plate. A single passenger is permitted if the vehicle is fitted with a specific seat and footrests for same.
+Motorized tricycle/ quadricycie: a motorized tricycle or quadricycle is a 3- or 4-wheeled vehicle propelled by a gas motor not capable of traveling greater than 30 mph and with a gross brake horsepower of 2 or less.
+Motorized scooter: a motorized scooter is a 2-wheeled vehicle not capable of traveling greater than 15 mph with a floorboard designed to be stood upon while operating. They do not require a license plate or insurance, and may not be driven on a roadway with a posted speed limit greater than 25 mph. A valid class C driver license is required, as is a bicycle helmet. Passengers are prohibited. They may be operated on a bikepath or bikeway but not on a sidewalk. If a given roadway has a bicycle lane, the motorized scooter must travel within it, and can only make a left-hand turn by dismounting and crossing an intersection as a pedestrian.
+Electric bicycle: California recognizes three classes of electric bicycle. A class 1 electric bicycle is a bicycle with pedals whose electric motor only provides assistance to the rider when using the pedals and stops assisting when the bicycle reaches 20 mph; a class 2 electric bicycle is a bicycle with pedals whose motor can drive the bicycle entirely on its own, but will not assist the rider above 20 mph; a class 3 electric bicycle is identical to a class 1 electric bicycle, but is capable of traveling up 28 mph before the engine stops assisting the rider AND is equipped with a speedometer. No electric bicycle requires insurance, a license, or any form of registration or license plate as it is not considered a "motor vehicle" by the state.
+
+
+== Emissions ==
+
+The emissions of mopeds and scooters have been the subject of multiple studies. Studies have found that two-stroke 50 cc mopeds, with and without catalytic converters, emit ten to thirty times more hydrocarbons and particulate emissions than the outdated Euro 3 automobile standards. In the same study, four-stroke mopeds, with and without catalytic converters, emitted three to eight times more hydrocarbons and particulate emissions than the Euro 3 automobile standards. Approximate parity with automobiles was achieved with NOx emissions in these studies. Emissions performance was tested on a g/km basis and was unaffected by fuel economy. In 2011 the United States Environmental Protection Agency allowed motorcycles, scooters, and mopeds with engine displacements less than 280 cc to emit ten times the NOx and six times the CO than the median Tier II bin 5 automobile regulations. An additional air quality challenge can also arise from the use of moped and scooter transportation over automobiles, as a higher density of two-wheeled vehicles can be supported by existing transportation infrastructure.In Genoa, 2-stroke engine scooters made before 1999 are banned since 2019.In some cities, such as Shanghai, petrol scooters/mopeds are banned and only LPG or electric scooters are allowed to be used in the city due to air pollution.
+
+
+== History ==
+
+
+=== Predecessors ===
+Scooter-like traits began to develop in motorcycle designs around the 1900s. In 1894, Hildebrand & Wolfmüller in Munich, Germany produced the first motorcycle that was available for purchase. Their motorcycle had a step-through frame, with its fuel tank mounted on the down tube, its parallel two-cylinder engine mounted low on the frame, and its cylinders mounted in line with the frame. It was water-cooled and had a radiator built into the top of the rear fender. It became the first mass-produced and publicly sold powered two-wheel vehicle, and among the first powered mainly by its engine rather than foot pedals. Maximum speed was 40 km/h (25 mph). The rear wheel was driven directly by rods from the pistons in a manner similar to the drive wheels of steam locomotives. Only a few hundred such bikes were built, and the high price and technical difficulties made the venture a financial failure for both Wolfmüller and his financial backer, Hildebrand.In France, the Auto-Fauteuil was introduced in 1902. This was basically a step-through motorcycle with an armchair instead of a traditional saddle. Production continued until 1922.
+Predecessors to the scooter
+		
+		
+
+
+=== First generation (1915–1930) ===
+The Motoped entered production in 1915, and is believed to be the first motor scooter. They were followed that year by the Autoped, whose engine was engaged by pushing the handlebar column forward and whose brake was engaged by pulling the column back. Autopeds were made in Long Island, New York from 1915 to 1921, and were also made under license by Krupp in Germany from 1919 to 1922, following World War I.The number of scooter manufacturers and designs increased after World War I. The British - ABC Motors Skootamota, the Kenilworth, and the Reynolds Runabout debuted in 1919, with Gloucestershire Aircraft Company following with its Unibus in 1920. The Skootamota was noted for being practical, popular, and economical, the Kenilworth for its electric lights, and the Reynolds Runabout for its advanced specifications, including front suspension, a two-speed gearbox, leg shields, and a seat sprung with leaf springs and coil springs. The Unibus also had a two-speed gearbox, but it is more notable for its full bodywork, similar to that which would appear of second- and third-generation scooters.The reputation of first-generation scooters was damaged by a glut of unstable machines with flexible frames, and more substantial examples like the Reynolds Runabout and the Unibus were too expensive to be competitive. The first generation had ended by the mid-1920s.
+First generation scooters, 1915–1930
+		
+		
+		
+		
+		
+
+
+=== Second generation (1936–1968) ===
+E. Foster Salsbury and Austin Elmore developed the Salsbury Motor Glide, which was a division of Northrop Aircraft, a scooter with a seat above an enclosed drivetrain, and began production in 1936 in California. In 1938, Salsbury introduced a more powerful scooter with a continuously variable transmission (CVT). This was the first use of a CVT on a scooter. It was such a success that Salsbury attempted to license the design to several European manufacturers including Piaggio. The Motor Glide set the standards for all later models. It inspired production of motor scooters by Powell, Moto-scoot, Cushman, Rock-Ola, and others.The Cushman Company produced motor scooters from 1936 to 1965. Cushman was an engine manufacturer that started making scooters after Salsbury found their offer to supply engines to be unacceptable. Cushman and Salsbury competed against each other, with both companies advertising the economy of their scooters. Cushman claimed an efficiency of 120 mpg‑US (2.0 L/100 km; 140 mpg‑imp) at 30 mph (48 km/h). Cushman introduced a centrifugal clutch to their scooters in 1940. The Cushman Auto Glide Model 53 was designed to be dropped by parachute with Army Airborne troops, and was eventually called the "Cushman Airborne". Cushman scooters were also used around military bases for messenger service.Salsbury continued manufacturing scooters until 1948, while Cushman continued until 1965.Small numbers of the 165 cc (10.1 cu in) Harley-Davidson Topper scooter were produced from 1960 to 1965 using the engine from their line of light motorcycles based on the DKW RT 125. It had a fiberglass body, a continuously variable transmission, and a pull-cord starting mechanism.
+Second generation scooters, United States, 1936–1965
+		
+		
+		
+
+
+==== Early postwar Japan ====
+After World War II, wartime aircraft manufacturers were forbidden from making aircraft, and had to find other products to make in order to stay in business. Fuji Sangyo, a part of the former Nakajima Aircraft Company, began production of the Fuji Rabbit S-1 scooter in June 1946. Inspired by Powell scooters used by American servicemen, the S1 was designed to use surplus military parts, including the tailwheel of a Nakajima bomber, re-purposed as the front wheel of the S1. Later that year, Mitsubishi introduced the C10, the first of its line of Silver Pigeon scooters. This was inspired by a Salsbury Motor Glide that had been brought to Japan by a Japanese man who had lived in the United States.Production of the Mitsubishi Silver Pigeon and the Fuji Rabbit continued through several series until the 1960s. Some series of the Fuji Rabbit were developed to a high level of technological content; the S-601 Rabbit Superflow had an automatic transmission with a torque converter, an electric starter, and pneumatic suspension. Mitsubishi ended scooter production with the C140 Silver Pigeon, while Fuji continued production of the Rabbit until the last of the S-211 series was built in June 1968.
+Second generation scooters, Japan, 1946–1968
+		
+		
+
+
+=== Third generation (1946–1964) and beyond ===
+
+
+==== Italy - Vespa and Lambretta ====
+
+In post-World War II Italy the Piaggio Vespa became the standard for scooters, and has remained so for over 60 years. Patented in April 1946, it used aircraft design and materials. D'Ascanio's 98 cc (6.0 cu in) scooter had various new design concepts, including a stress-bearing structure. The gear shift lever was moved to the handlebars for easier riding. The engine was placed near the rear wheel, eliminating the belt drive. The typical fork support was replaced by an arm similar to an aircraft carriage for easier tire-changing. The body design protected the driver from wind and road dirt. The smaller wheels and shorter wheelbase provide improved maneuverability through narrow streets and congested traffic. The name originated when Piaggio's president, upon seeing the prototype, remarked "Sembra una vespa", "It looks like a wasp".Months after the Vespa, in 1947, Innocenti introduced the Lambretta, beginning a rivalry with Vespa. The scooter was designed by Innocenti, his General Director Giuseppe Lauro and engineer Pierluigi Torre. The Lambretta was named after Lambrate, the Milanese neighborhood where the factory stood. It debuted in 1947 at the Paris Motor Show. The Lambretta 'A' went on sale on December 23, 1947, and sold 9,000 units in one year. It was efficient, at a time when fuel was severely rationed. It had a top speed of 45 mph (72 km/h) from a fan-cooled engine of 123 cc (7.5 cu in). The first Lambretta designs had shaft drive and no rear suspension, later designs used various drive and suspension systems until Lambretta settled on a swingarm-mounted engine with chain drive.Also other Italian firms manufactured scooters in 1950s and 1960s, like Italjet and Iso.
+
+
+==== Germany ====
+Germany's aviation industry was also dismantled after World War II. Heinkel stayed in business by making bicycles and mopeds, while Messerschmitt made sewing machines and automobile parts. Messerschmitt took over the German license to manufacture Vespa scooters from Hoffman in 1954 and built Vespas under from 1954 to 1964. Heinkel designed and built its own scooters. The Heinkel Tourist was a large and relatively heavy touring scooter produced in the 1960s. It provided good weather protection with a full fairing, and the front wheel turned under a fixed nose extension. It had effective streamlining, perhaps thanks to its aircraft ancestry. Although it had only a 175 cc (10.7 cu in) four stroke motor, it could sustain speeds of 70 mph (110 km/h). Heinkel scooters were known for their reliability.Glas, a manufacturer of agricultural machinery, made the Goggo scooter from 1951 to 1955. Glas discontinued scooter production to concentrate on its Goggomobil microcar.Several manufacturers in the German motorcycle industry made scooters. NSU made Lambrettas under license from 1950 to 1955, during which they developed their Prima scooter. Production of the Prima began when NSU's license to build Lambrettas ran out. Zündapp made the popular Bella scooter in the 1950s and 1960s. It was in production for about ten years, in three engine sizes, 150 cc (9.2 cu in), 175 cc (10.7 cu in) and 200 cc (12 cu in). They could perform all day at a steady speed of 60 mph (97 km/h). Extremely reliable and very well made, many of these scooters still exist today. Maico built the large Maicoletta scooter in the 1950s. It had a single cylinder piston-port two-stroke engine, with four foot-operated gears and centrifugal fan cooling. The Maicoletta had a choice of engine sizes, approximately 175 cc (10.7 cu in), 250 cc (15 cu in), or 275 cc (16.8 cu in), The tubular frame was built on motorcycle principles, with long-travel telescopic forks and 14-inch (356 mm) wheels. The Maicoletta had a top speed of 70 mph (110 km/h) which was comparable with most 250 cc (15 cu in) motorcycles of the time. Other German scooters made by motorcycle manufacturers included the DKW Hobby, the Dürkopp Diana, and the TWN Contessa.
+Classic German scooters
+		
+		
+		
+		
+		
+		
+		
+
+
+==== United Kingdom ====
+In the United Kingdom, Douglas manufactured the Vespa under license from 1951 to 1961 and assembled them from 1961 to 1965. BSA and Triumph made several models of scooter including the BSA Dandy 70, the Triumph Tina, and the Triumph Tigress. The Tigress was made from 1959 to 1964 and was sold with a 175 cc 2-stroke single engine or a 250 cc 4-stroke twin; both versions used a foot-operated four-speed gearbox. The 250 twin had a top speed of 70 mph (110 km/h). The BSA Sunbeam was a badge engineered version of the Tigress.
+The early 2000's saw the small scale production of the Scomadi scooter, a retro styled UK designed and manufactured scooter. Scomadis were styled after classic Lambrettas. A number of different models at different capacity was produced. Production was later moved to Thailand.
+
+
+==== Eastern Bloc ====
+In Eastern Bloc countries scooters also became popular in the second half of 1950s, but their production was a result of planned economy rather than market competition. The Soviet Union started in 1957 with producing reverse engineered copies of 150 cc Vespa and 200 cc Glas Goggo as Vyatka and Tula T-200 respectively. They and their developments were manufactured in big numbers into the 1980s. In East Germany, IWL manufactured several own design 125 cc and 150 cc scooters (most notably SR 59 Berlin) from 1955 to 1964, when the authorities decided to switch the production to trucks. There were also produced small 50 cc Simson scooters, manufactured into the 1990s. From 1959 until 1965 there was produced the only Polish scooter, 150 cc to 175 cc WFM Osa. In Czechoslovakia, there was produced a unique 175 cc scooter Čezeta at the outbreak of 1950s/1960s, then there remained only small 50 cc Jawa scooter-style mopeds.
+Eastern Bloc scooters
+		
+		
+		
+		
+		
+		
+
+
+==== India ====
+In India, Bajaj Auto manufactured its line of scooters from 1972 to 2009, which included the Chetak, Legend, Super and Priya. The Chetak and Legend were based on the Italian Vespa Sprint. It was discontinued in 2009.
+Another Vespa partner in India was LML Motors. Beginning as a joint-venture with Piaggio in 1983, LML, in addition to being a large parts supplier for Piaggio, produced the P-Series scooters for the Indian market. In 1999, after protracted dispute with Piaggio, LML bought back Piaggio's stake in the company and the partnership ceased. LML continues to produce (and also exports) the P-Series variant known as the Stella in the U.S. market and by other names in different markets.
+
+Indian scooters
+		
+		
+
+
+==== East Asia ====
+Since the 1980s Japan, and latterly China and Taiwan, have become world leaders in the mass production of plastic bodied scooters, most often with "twist-and-go" type transmissions (where gear selection and clutch operation are fully automatic). A popular early model being the Honda Spree/Nifty Fifty. Advertising campaigns in the USA featured popular stars like Michael Jackson (Suzuki), and Grace Jones and Lou Reed (Honda), and sales of Japanese scooters peaked there in the 1980s. Both 2-stroke and 4-stroke plastic bodied scooters have been mass-produced in East Asia, with engine and transmission designs being either local designs or license built versions of European engines (eg Minarelli or Morini). A popular 4-stroke engine in Chinese production is the GY6 engine, but electric motor-scooters are constantly increasing in the Chinese home market share.
+
+East Asian plastic bodied scooters
+		
+		
+		
+		
+		
+		
+
+
+== Developments ==
+Trends around the world have seen new developments of the classic scooter, some with larger engines and tires. High-end scooter models now include comprehensive technological features, including cast aluminium frames, engines with integral counterbalancing, and cross-linked brake systems. Some of these scooters have comfort features such as an alarm, start button, radio, windshield, heated hand grips and full instrumentation (including clock or outside temperature gauge).
+
+
+=== Three-wheeled scooter ===
+
+During World War II, Cushman made the Model 39, a three-wheeled utility scooter with a large storage bin between the front wheels. They sold 606 to the US military during the war.The Piaggio MP3 is a modern tilting three-wheeled scooter. Unlike most motorcycle trikes, it is a reverse trike, with two front wheels which steer, and a single driven rear wheel. The front suspension allows both front wheels to tilt independently, so that all three wheels remain in contact with the ground as it leans when cornering.
+
+
+=== Maxi-scooter ===
+
+A maxi-scooter or touring scooter is a large scooter, with engines ranging in size from 150 to 850 cc (9.2 to 51.9 cu in), and using larger frames than normal scooters with longer wheelbases. Typically, the dash is fixed & is not mounted on the handlebars
+The trend toward maxi-scooters began in 1986 when Honda introduced the CN250 Helix / Fusion / Spazio. Many years later, Suzuki launched the Burgman 400 and 650 models. Honda (600 cc or 37 cu in), Aprilia/Gilera (839 cc or 51.2 cu in), Yamaha (530 cc or 32 cu in), Kymco (700 cc or 43 cu in) and others have also introduced scooters with engine displacements ranging from 400 to 850 cc (24 to 52 cu in). Honda's PS250 (also known as Big Ruckus) features a motorcycle-like exoskeleton instead of bodywork.
+A new direction in maxi-scooters has the engine fixed to the frame. This arrangement improves handling by allowing bigger wheels and less unsprung weight, also tending to move the centre of gravity forwards. The trend toward larger, more powerful scooters with fully automatic transmissions converges with an emerging trend in motorcycle design that foreshadows automatic transmission motorcycles with on-board storage. Examples include the Aprilia Mana 850 automatic-transmission motorcycle and the Honda NC700D Integra, which is a scooter built on a motorcycle platform.
+
+
+=== Enclosed scooter ===
+
+Some scooters, including the BMW C1 and the Honda Gyro Canopy, have a windscreen and a roof. The Piaggio MP3 offered a tall windscreen with roof as an option.
+
+
+=== Four-stroke engines and fuel-injection ===
+
+With increasingly strict environmental laws, including United States emission standards and European emission standards, more scooters are using four-stroke engines again.
+
+ 
+In 2001, Aprilia released the SR50 Ditech with direct injection. The SR50 has a listed fuel consumption of 2 litres per 100 kilometres (120 mpg‑US) and meets the Euro 3 standard with a two-stroke engine. Later on, more brands, including Derbi and Peugeot, started using direct injection systems for their scooters. Catalytic converters are now common in two-stroke and four-stroke engines sold in the E.U. and the U.S.
+
+
+=== Electric scooter ===
+
+Generally, the source of power for the electric motor has been batteries, but development in fuel cell technology has created several prototypes. Some examples are: the ENV from Intelligent Energy, Honda's scooter using the Honda FC Stack, and the Yamaha FC-AQEL. Also, petroleum hybrid-electric motorcycles are available. Some examples are the Ecycle, and Yamaha's Gen-RYU. Electric motorcycles and scooters are rising in popularity because of higher gasoline prices. Battery technology is gradually improving making this form of transportation more practical.
+
+
+== Underbone ==
+
+An underbone is a motorcycle built on a chassis consisting mostly of a single large diameter tube. An underbone differs from a conventional motorcycle mainly by not having a structural member connecting the head stock to the structure under the front of the seat and by not having a fuel tank or similarly styled appendage in the space between the riders knees. Underbones are commonly referred to as "step-throughs" and appeal to both genders in much the same way as scooters.
+Underbones are often mistaken for scooters and are sometimes marketed as such. However, an underbone does not have a footboard, and is therefore not a scooter.
+The engine of an underbone is usually fixed to the chassis under the downtube, while a scooter usually has its engine mounted on its swingarm. As a result, underbone engines are usually further forwards than those of scooters. A typical underbone therefore has a more central centre of gravity than a typical scooter. Furthermore, having an engine mounted on the swingarm gives a typical scooter more unsprung mass than a typical underbone. These factors give a typical underbone better handling than a typical scooter.
+The engine of an underbone typically drives the rear wheel by a chain of the kind used on a conventional motorcycle. This final drive is often concealed by a chain enclosure to keep the chain clean and reduce wear. The final drive of a scooter with a swingarm-mounted engine runs in a sealed oil bath and is shorter.
+An underbone is usually fitted with near full-size motorcycle wheels, which are often spoked. Scooter wheels are usually small, and made from pressed steel. In both cases, more recent examples often have cast alloy wheels. The bigger wheels of an underbone allow more ventilation and better cooling for the brakes than the smaller wheels of a scooter.
+While the engine and suspension layouts described here for scooters and underbones are typical, they are not rigid definitions. There have been scooters with fixed engines and chain drive, and there have been underbones with swingarm-mounted engines. A twenty-first century example of variance from the typical scooter layout is the Suzuki Choinori, which had both its engine and its rear axle rigidly bolted to its frame.
+
+Some atypical scooters and underbones
+		
+		
+		
+
+
+== Popularity ==
+
+Motor scooters are very popular in Asia, particularly in countries such as India, Indonesia, The Philippines, Thailand, Vietnam, China, Japan and Taiwan where there is local manufacturing. They are also popular in the West, mainly in Europe (particularly Italy and the Mediterranean), but not in the US.  Parking, storage, and traffic issues in crowded cities, along with the easy driving position make them a popular form of urban transportation. In many nations, scooter (and other small motorcycle) sales exceed those of automobiles, and a motor scooter is often the family transport.
+
+In Taiwan, road infrastructure has been built specifically with two wheelers in mind, with separate lanes and intersection turn boxes. In Thailand, scooters are used for street to door taxi services, as well as for navigating through heavy traffic. The extensive range of cycle tracks in the Netherlands extends into parts of Belgium and Germany and is open to all small powered two-wheelers. Motor scooters are popular because of their size, fuel-efficiency, weight, and typically larger storage room than a motorcycle. In many localities, certain road motor scooters are considered by law to be in the same class as mopeds or small motorcycles and therefore they have fewer restrictions than do larger motorcycles.According to the Motorcycle Industry Council, sales of motor scooters in the United States have more than doubled since 2000. The motorcycle industry as a whole has seen 13 years of consecutive growth. According to council figures, 42,000 scooters were sold in 2000. By 2004, that number increased to 97,000. Scooter sales in 2008 in the United States were up 41% on 2007, and represented 9% of all powered two-wheeler sales. However, there was a decrease in US scooter sales in 2009 of 59% against 2008, compared with a 41% fall for all powered two-wheelers, while the scooter's contribution to total US powered two-wheeler sales in 2009 fell to 6%. After a two-year slump, scooter sales in the US rebounded in the first quarter of 2011.
+
+
+=== In popular culture ===
+A common reference for the glamorous image of scooters is Roman Holiday, a 1953 romantic comedy in which Gregory Peck carries Audrey Hepburn around Rome on a Vespa.
+
+In the 1960s mod subculture, some members of this British youth cult used motorscooters for transportation, usually Vespas or Lambrettas. Scooters had provided inexpensive transportation for decades before the development of the mod subculture, but the mods stood out in the way that they treated the vehicle as a fashion accessory, expressed through clubs such as the Ace of Herts. Italian scooters were preferred for their cleanlined, curving shapes and gleaming chrome. For young mods, Italian scooters were the "embodiment of continental style and a way to escape the working-class row houses of their upbringing". They customized their scooters by painting them in "two-tone and candyflake and overaccessorized [them] with luggage racks, crash bars, and scores of mirrors and fog lights", and they often put their names on the small windscreen. Engine side panels and front bumpers were taken to local electroplating workshops and plated with highly reflective chrome.
+Scooters were also a practical and accessible form of transportation for 1960s teens. In the early 1960s, public transport stopped relatively early in the night, and so having scooters allowed mods to stay out all night at dance clubs. To keep their expensive suits clean and keep warm while riding, mods often wore long army parkas. For teens with low-end jobs, scooters were cheaper than cars, and they could be bought on a payment plan through newly available hire purchase plans. After a law was passed requiring at least one mirror be attached to every motorcycle, mods were known to add four, ten, or as many as 30 mirrors to their scooters. The cover of The Who's album Quadrophenia, which includes themes related to mods and rockers, depicts a young man on a Vespa GS with four mirrors attached. The album spawned a 1979 motion picture of the same name.
+Scooterboy magazines include the British monthly magazine Scootering 
+and the American quarterly magazine Scoot!.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== External links ==
+Scooter (motorcycle) at Curlie

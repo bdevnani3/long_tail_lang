@@ -1,0 +1,81 @@
+Breakwaters are structures constructed near the coasts as part of coastal management or to protect an anchorage from the effects of both weather and longshore drift.
+
+
+== Purposes ==
+
+Breakwaters reduce the intensity of wave action in inshore waters and thereby provide safe harbourage. Breakwaters may also be small structures designed to protect a gently sloping beach to reduce coastal erosion; they are placed 100–300 feet (30–90 m) offshore in relatively shallow water.
+An anchorage is only safe if ships anchored there are protected from the force of powerful waves by some large structure which they can shelter behind. Natural harbours are formed by such barriers as headlands or reefs. Artificial harbours can be created with the help of breakwaters. Mobile harbours, such as the D-Day Mulberry harbours, were floated into position and acted as breakwaters. Some natural harbours, such as those in Plymouth Sound, Portland Harbour, and Cherbourg, have been enhanced or extended by breakwaters made of rock.
+
+
+== Types ==
+Types of breakwaters include vertical wall breakwater, mound breakwater and mound with superstructure or composite breakwater.
+
+A breakwater structure is designed to absorb the energy of the waves that hit it, either by using mass (e.g. with caissons), or by using a revetment slope (e.g. with rock or concrete armour units).
+In coastal engineering, a revetment is a land-backed structure whilst a breakwater is a sea-backed structure (i.e. water on both sides).
+
+
+=== Rubble ===
+Rubble mound breakwaters use structural voids to dissipate the wave energy. Rubble mound breakwaters consist of piles of stones more or less sorted according to their unit weight: smaller stones for the core and larger stones as an armour layer protecting the core from wave attack. Rock or concrete armour units on the outside of the structure absorb most of the energy, while gravels or sands prevent the wave energy's continuing through the breakwater core. The slopes of the revetment are typically between 1:1 and 1:2, depending upon the materials used. In shallow water, revetment breakwaters are usually relatively inexpensive. As water depth increases, the material requirements—and hence costs—increase significantly.
+
+
+=== Caisson ===
+Caisson breakwaters typically have vertical sides and are usually erected where it is desirable to berth one or more vessels on the inner face of the breakwater. They use the mass of the caisson and the fill within it to resist the overturning forces applied by waves hitting them. They are relatively expensive to construct in shallow water, but in deeper sites they can offer a significant saving over revetment breakwaters.
+An additional rubble mound is sometimes placed in front of the vertical structure in order to absorb wave energy and thus reduce wave reflection and horizontal wave pressure on the vertical wall. Such a design provides additional protection on the sea side and a quay wall on the inner side of the breakwater, but it can enhance wave overtopping.
+
+
+=== Wave absorbing caisson ===
+A similar but more sophisticated concept is a wave-absorbing caisson, including various types of perforation in the front wall.
+Such structures have been used successfully in the offshore oil-industry, but also on coastal projects requiring rather low-crested structures (e.g. on an urban promenade where the sea view is an important aspect (e.g. Beirut and Monaco)). In the latter, a project is presently ongoing at the Anse du Portier including 18 wave-absorbing 27 m (89 ft) high caissons.
+
+
+=== Wave attenuator ===
+Wave attenuators consist of concrete elements placed horizontally one foot under the free surface, positioned along a line parallel to the coast. Wave attenuators have four slabs facing the sea, one vertical slab, and two slabs facing the land; each slab is separated from the next by a space of 200 millimetres (7.9 in). The row of four sea-facing and two land-facing slabs reflects offshore wave by the action of the volume of water located under it which, made to oscillate under the effect of the incident wave, creates waves in phase opposition to the incident wave downstream from the slabs.
+
+
+== Breakwater armour units ==
+
+As design wave heights get larger, rubble mound breakwaters require larger armour units to resist the wave forces. These armour units can be formed of concrete or natural rock. The largest standard grading for rock armour units given in CIRIA 683 "The Rock Manual" is 10–15 tonnes. Larger gradings may be available, but the ultimate size is limited in practice by the natural fracture properties of locally available rock.
+Shaped concrete armour units (such as Dolos, Xbloc, Tetrapod, etc.) can be provided in up to approximately 40 tonnes (e.g. Jorf Lasfar, Morocco), before they become vulnerable to damage under self weight, wave impact and thermal cracking of the complex shapes during casting/curing. Where the very largest armour units are required for the most exposed locations in very deep water, armour units are most often formed of concrete cubes, which have been used up to ~195 tonnes for the tip of the breakwater at Punta Langosteira near La Coruña, Spain.
+Preliminary design of armour unit size is often undertaken using the Hudson Equation, Van der Meer and more recently Van Gent et al.; these methods are all described in CIRIA 683 "The Rock Manual" and the United States Army Corps of Engineers Coastal engineering manual (available for free online) and elsewhere. For detailed design the use of scaled physical hydraulic models remains the most reliable method for predicting real-life behavior of these complex structures.
+
+
+== Unintended consequences ==
+Breakwaters are subject to damage and overtopping in severe storms. Some may also have the effect of creating unique types of  waves that attract surfers, such as The Wedge at the Newport breakwater. 
+
+
+=== Sediment effects ===
+The dissipation of energy and relative calm water created in the lee of the breakwaters often encourage accretion of sediment (as per the design of the breakwater scheme). However, this can lead to excessive salient build up, resulting in tombolo formation, which reduces longshore drift shoreward of the breakwaters. This trapping of sediment can cause adverse effects down-drift of the breakwaters, leading to beach sediment starvation and increased coastal erosion. This may then lead to further engineering protection being needed down-drift of the breakwater development. Sediment accumulation in the areas surrounding breakwaters can cause flat areas with reduced depths, which changes the topographic landscape of the seabed.Salient formations as a result of breakwaters are a function of the distance the breakwaters are built from the coast, the direction at which the wave hits the breakwater, and the angle at which the breakwater is built (relative to the coast). Of these three, the angle at which the breakwater is built is most important in the engineered formation of salients. The angle at which the breakwater is built determines the new direction of the waves (after they've hit the breakwaters), and in turn the direction that sediment will flow and accumulate over time.
+
+
+=== Environmental effects ===
+The reduced heterogeneity in sea floor landscape introduced by breakwaters can lead to reduced species abundance and diversity in the surrounding ecosystems. As a result of the reduced heterogeneity and decreased depths that breakwaters produce due to sediment build up, the UV exposure and temperature in surrounding waters increase, which may disrupt surrounding ecosystems. 
+
+But as a kind of environmental friendly breakwater, pile breakwaters because of occupation of a small area is not harmful to sea wildlife.
+
+
+== Construction of detached breakwaters ==
+There are two main types of offshore breakwater (also called detached breakwater): single and multiple. Single, as the name suggests, means the breakwater consists of one unbroken barrier, while multiple breakwaters (in numbers anywhere from two to twenty) are positioned with gaps in between (160–980 feet or 50–300 metres). The length of the gap is largely governed by the interacting wavelengths. Breakwaters may be either fixed or floating, and impermeable or permeable to allow sediment transfer shoreward of the structures, the choice depending on tidal range and water depth. They usually consist of large pieces of rock (granite) weighing up to 10–15 tonnes each, or rubble-mound. Their design is influenced by the angle of wave approach and other environmental parameters. Breakwater construction can be either parallel or perpendicular to the coast, depending on the shoreline requirements.
+
+
+== Notable locations ==
+UK - The Sound, Plymouth; Sea Palling, Norfolk; Elmer, West Sussex; Brixham, Devon, South Gare
+United States - Santa Monica, California; Winthrop Beach, Massachusetts; Colonial Beach, Virginia
+Japan - Central Breakwater in Tokyo; Ishizaki (檜山石崎郵便局), Hokkaido Prefecture; Kaike, Tottori Prefecture
+
+
+== See also ==
+
+
+== References ==
+
+USACE (1984) - Shore protection manual (Volume I and II)
+N.W.H. Allsop (2002) - Breakwaters, coastal structures and coastlines.
+
+
+== External links ==
+USGS Oblique Aerial Photography — Coastal Erosion from El-Niño Winter Storms October, 1997 & April, 1998
+Channel Coastal Observatory — Breakwaters Gallery
+Shapes of breakwater armour units and year of their introduction
+SeaBull Marine, Inc. — Shoreline Erosion Reversal Systems
+WaveBrake - Wave attenuation specialists
+IAS Breakwater in Facebook

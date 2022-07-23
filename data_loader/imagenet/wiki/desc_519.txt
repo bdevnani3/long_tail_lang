@@ -1,0 +1,60 @@
+A crate is a large shipping container, often made of wood, typically used to transport or store large, heavy items. Steel and aluminium crates are also used. Specialized crates were designed for specific products, and were often made to be reusable, such as the "bottle crates" for milk and soft drinks.
+Crates can be made of wood, plastic, metal or other materials. The term crate often implies a large and strong container. Most plastic crates are smaller and are more commonly called a case or container. Metal is rarely used because of its weight. When metal is used, a crate is often constructed as an open crate and may be termed a cage. Although a crate may be made of any material, for these reasons, the term 'crate' used alone often implies one constructed of wood.
+
+
+== Wooden crates ==
+
+A wooden crate has a self-supporting structure, with or without sheathing. For a wooden container to be a crate, all six of its sides must be put in place to result in the rated strength of the container. Crates are distinct from wooden boxes. The strength of a wooden box is rated based on the weight it can carry before the top (top, ends, and sides) is installed, whereas the strength of a crate is rated with the top in place. In general conversation, the term crate is sometimes used to denote a wooden box.
+
+
+=== History ===
+
+Crates had been used for many years without a clear origin in documented history. Modern crates from the early 20th century demonstrate a very evolved technology already considering practical and economic considerations built into crate designs. Moving heavy products such as enamelled cast iron sinks, bath tubs, and lavatories was often done without any packaging prior to 1910, which lead to nearly 20% losses due to chipping of the enamel in shipping. Some manufacturers assumed that protecting the product in rugged crating would reduce their losses, however, they found that railroad and shipping workers would handle the crates much more roughly when in a heavy crate, and losses actually increased. The technological solution was to pack enameled bathware into open crates, which allowed the shipment to be lighter and cheaper, the handlers to use more precautions knowing what merchandise was being shipped, and allowed the customer to inspect the purchase at arrival before opening it.  Another early documented reference to a shipping crate in the United States is in a 1930 handbook, Technical Bulletin No. 171 written by C. A. Plaskett for the U.S. Department of Agriculture. Plaskett was known for his extensive testing and defining of various components of transport packaging.
+The USDA Forest Service revised and expanded it in 1964 as the "Wood Crate Design Manual", Handbook 252.
+
+
+=== Construction ===
+Although the definition of a wooden crate, as compared to a wooden box, is clear, construction of the two often results in a container that is not clearly a crate or a box. Both wooden crates and wooden boxes are constructed to contain unique items, the design of either a crate or box may use principles from both. In this case, the container will typically be defined by how the edges and corners of the container are constructed. If the sheathing (either plywood or lumber) can be removed, and a framed structure will remain standing, the container would likely be termed a crate. If removal of the sheathing results in no way of fastening the lumber around the edges of the container, the container would likely be termed a wooden box.
+
+
+=== Design ===
+There are many variations of wooden crate designs. By far the most common are 'closed', 'open' and 'framed'. A Closed Crate is one that is completely or nearly completely enclosed with material such as plywood or lumber boards. When lumber is used, gaps are often left between the boards to allow for expansion. An Open Crate is one that (typically) uses lumber for sheathing. The sheathing is typically gapped by at various distances. There is no strict definition of an open crate as compared to a closed crate. Typically when the gap between boards is greater than the distance required for expansion, the crate would be considered an open crate. The gap between boards would typically not be greater than the width of the sheathing boards. When the gap is larger, the boards are often considered 'cleats' rather than sheathing thus rendering the crate unsheathed. An unsheathed crate is a frame crate. A Frame Crate is one that only contains a skeletal structure and no material is added for surface or pilferage protection. Typically an open crate will be constructed of 12 pieces of lumber, each along an outer edge of the content and more lumber placed diagonally to avoid distortion from torque.
+When any type of crate reaches a certain size, more boards may be added. These boards are often called cleats. A cleat is used to provide support to a panel when that panel has reached a size that may require added support based on the method of transportation. Cleats may be placed anywhere between the edges of a given panel. On crates, cleat placement is often determined by the width of the plywood used on plywood sheathed crates. On other crates, cleats are often evenly spaced as required to strengthen the panel. Sometimes two cleats are added across the top panel of a crate placed as needed to give the top of the crate added strength where lifting chains or straps may press on the crate while lifting. When the dimensions of a crate side necessitate more than one piece of plywood be used in that crate side's construction, additional boards called 'battens' are used to cover and provide support to the seams between abutting pieces of plywood. Battens are typically wider than cleats, but do not need to be so.
+Cleats may have more specific names based on added benefit they provide. Some published standards only use those more descriptive terms and may never refer to these various lumber components as cleats. For example, lumber placed under the top of a wood container to add support for a large top are called "joists". Lumber is built into the midsection of the top of a wood container to strengthen the top are called "cleats". When the cleats are enlarged and constructed to support a large top, they may generically be termed "cleats" or more specifically be termed "joists".
+
+"Skids" or thick bottom runners, are sometimes specified to allow forklift trucks access for lifting.
+Transportation methods and storage conditions must always be considered when designing a crate. Every step of the transportation chain will result in different stresses from shock and vibration. Differences in pressure, temperature and humidity may not only adversely affect the content of the crate, but also will have an effect on the holding strength of the fasteners (mostly the nails and staples) in the crate. In some countries, any wooden crate being designed to ship overseas must be treated to ISPM 15 standards or commonly known as the “bug stamp”  to prevent the spread of disease and insects.Although the above definition almost always stands true, there are many slightly altered or 'sub-definitions' used by and in various organizations, agencies and documents. This is the result of the small size of the industry and the fact that a single, finite definition of an item that is different every time it is made can be difficult to define.
+IATA, the International Air Transport Association, for example, doesn't allow crates on airplanes because it defines a crate as an open transport container. Although a crate can be of the Open or Framed variety, having no sheathing, a Closed crate is not open and is equally as safe to ship in as a wooden box, which is allowed by IATA.
+
+
+== Other crates ==
+
+Milk crates and bottle crates are a form of reusable packaging used to ship to retail stores and to return empty bottles to the bottler or packager.  These are usually moulded plastic designs expected to make several round trip shipments.  Wood structures are also used.
+
+
+== See also ==
+Bulk box
+Case (goods)
+Container compression test
+Dog crate
+Gestation crate
+ISPM 15
+Wooden box
+Box
+
+
+== References ==
+
+
+=== Bibliography ===
+Yam, K. L., "Encyclopedia of Packaging Technology", John Wiley & Sons, 2009, ISBN 978-0-470-08704-6
+McKinlay, A. H., "Transport Packaging",IoPP, 2004
+
+
+=== ASTM Standards ===
+D6039 Standard Specification for Crates, Wood, Open and Covered
+D6179 Standard Test Methods for Rough Handling of Unitized Loads and Large Shipping Cases and Crates
+D6199 Quality of Wood Members of Containers and Pallets
+D6253 Treatment and/or Marking of Wood Packaging Materials
+D6255 Standard Specification for Steel or Aluminum Slotted Angle Crates
+D7478 Standard Specification for Heavy Duty Sheathed Wood Crates

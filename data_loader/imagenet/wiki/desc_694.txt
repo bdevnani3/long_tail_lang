@@ -1,0 +1,15 @@
+A paddle wheel is a form of waterwheel or impeller in which a number of paddles are set around the periphery of the wheel.  It has several uses, some of which are:
+
+Very low-lift water pumping, such as flooding paddy fields at no more than about 0.5 m (20 in) height above the water source.
+To move and mix algae culture in the raceway ponds used for algaculture.
+Propulsion of watercraft (as a paddlewheel)
+Low head hydro power (as a waterwheel)
+Flow sensors
+AeratorsThe paddle wheel is an ancient invention but is still used today in a wide range of industrial and agriculture applications.
+
+
+== Physics ==
+The paddle wheel is a device for converting between rotary motion of a shaft and linear motion of a fluid. In the linear-to-rotary direction, it is placed in a fluid stream to convert the linear motion of the fluid into rotation of the wheel. This rotation can be used as a source of power, or as an indication of the speed of flow. In the rotary-to-linear direction, it is driven by a prime mover such as an electric motor or steam engine and used to pump a fluid or propel a vehicle such as a paddle-wheel steamer or a steamship.
+
+
+== References ==

@@ -1,0 +1,33 @@
+A go-kart, also written as go-cart (often referred to as simply a kart), is a type of open-wheel car or quadracycle. Go-karts come in all shapes and forms, from motorless models to high-powered racing machines. Some, such as Superkarts, are able to beat racing cars or motorcycles on long circuits.
+
+
+== Etymology ==
+The exact origin of the term is unclear. One of the first appearances of the term is an 1885 painting by the Scottish artist Hugh Cameron RSA: "The Go-Cart". It is also unclear why the "C" was later changed to a "K".
+
+
+== Non Motorised ==
+
+Gravity racers, in North America usually referred to as Soap Box Derby carts, are the simplest type of go-karts. They are propelled by gravity. Go-karts without motors may also be propelled by pedal-power.
+
+
+== Motorised ==
+
+
+=== Engines ===
+Traditionally, small two-stroke and four-stroke internal combustion engines are used in motorised go-kart racing. Power is transmitted from the engine to the rear axle by way of a chain (some rentals use a belt).
+Four-stroke engines can be standard air-cooled industrial based engines, sometimes with small modifications, developing from about 5 to 20 hp (4 to 15 kW). Briggs & Stratton, Tecumseh (company closed in 2008), Kohler, Robin, and Honda are manufacturers of such engines. They are adequate for racing and fun kart applications. There are also more powerful two-stroke engines available from manufacturers like Yamaha, KTM, Biland, or Aixro (Wankel engine) offering from 15 to 48 hp (11 to 36 kW). They run at up to 11,000 rpm, and are manufactured specifically for karting. PRD makes the PRD Fireball, a two-stroke engine delivering 28.5 hp (21 kW) at 15,580 rpm.
+Electric go-karts are low maintenance, requiring only that the lead-acid or lithium-polymer batteries of the karts be plugged into an array of chargers after each run. Since they are pollution-free and emit no smoke, the racetracks can be indoors in controlled environments. Electric karts powered by lead-acid batteries can run a maximum of 20–30 minutes before the performance is affected, while those powered by lithium batteries may last up to 2 hours on a single charge. Some karts have been fitted with hydrogen fuel cells.environment. In the event of an accident or an out-of-control racer, the track attendant can remotely slow or stop all vehicles on the track via radio control. This remote speed control can also be used to limit young riders to a slow operating speed, while a race consisting only of adults is permitted a higher speed. These controls can be applied to both electric and combustion-engine karts.
+In some countries, go-karts can be licensed for use on public roads often referred to as street tracks. Typically there are some restrictions; in the European Union, a go-kart modified for use on the road must be outfitted with headlights (high/low beam), tail lights, a horn, indicators, and an engine not exceeding 20 hp (15 kW) with child by now for
+
+
+== Recreational, concession and indoor karts ==
+Besides traditional kart racing, many commercial enterprises offer karts for rent, often called "recreational" or "concession" karts. The tracks can be indoor or outdoor. Karts are rented by sessions (usually from 10 to 30 minutes) or on a day basis. They use sturdy chassis complete with dedicated bodywork, providing driver safety. Most of these enterprises use an "Arrive and Drive" format which provides customers with all the safety gear (helmets, gloves and driver outfits) necessary, and allow them to show up anytime to race at a reasonable price, without the problem of having to own their own equipment and gear.
+Outdoor tracks can offer low-speed karts strictly for amusement (dedicated chassis equipped with low powered four-stroke engines or electric motors), or faster, more powerful karts, similar to a racing kart, powered by four-stroke engines up to 15 hp (11 kW) and, more rarely, by 2-stroke engines, but designed to be more robust for rental use. Typically, outdoor tracks are also used for traditional kart races.
+Indoor kart tracks can be found in many large cities in different parts of the world. These tracks are often located in refurbished factories or warehouses, and are typically shorter than traditional outdoor tracks. Indoor karts are usually powered by a four-stroke gasoline engine producing anywhere from 5 to 13 hp (4 to 10 kW), or sometimes by an electric motor. Many tracks offer competitive races and leagues. At the top level, an Indoor Karting World Championship (IKWC) exists.
+
+
+== See also ==
+Model car
+
+
+== References ==

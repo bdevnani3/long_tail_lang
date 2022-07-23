@@ -1,0 +1,119 @@
+The football helmet is a piece of protective equipment used mainly in gridiron football. It consists of a hard plastic shell with thick padding on the inside, a face mask made of one or more plastic-coated metal bars, and a chinstrap. Each position has a different type of face mask to balance protection and visibility, and some players add polycarbonate visors to their helmets, which are used to protect their eyes from glare and impacts. Helmets are a requirement at all levels of organized football, except for non-tackle variations such as flag football. Although they are protective, players can and do still suffer head injuries such as concussions.
+Football helmets have changed dramatically with the modernization of the sport to facilitate technological changes and to improve the safety of the game. Despite lower rates of some injuries, serious traumas to the head are still common, and determining the consequences of these traumas is an active area of research. In addition to the acute concern about traumatic brain injuries, such as concussions, studies have found players increase their risk for long-term problems such as chronic traumatic encephalopathy (CTE). Football helmets present a unique design challenge because, unlike bicycle helmets, which are thrown out after a single hit, football helmets need to withstand multiple impacts.
+
+
+== History ==
+
+
+=== Invention ===
+One of the first instances of football headgear dates to 1896 when Lafayette College halfback George "Rose" Barclay began to use straps and earpieces to protect his ears. It is not certain who invented the football helmet. Many sources give credit for the creation of the helmet to James Naismith, while other sources credit U.S. Naval Academy Midshipman Joseph M. Reeves (later to become the "Father of Carrier Aviation"), who had a protective device for his head made out of mole skin to allow him to play in the 1893 Army–Navy game. Reeves had been advised by a Navy doctor that another kick to his head would result in "instant insanity" or even death, so he commissioned an Annapolis shoemaker to make him a helmet out of leather. Later, helmets were made of padded leather and resembled aviators' helmets or modern day scrum caps. At least in professional football, they were optional. Some National Football League players, notably Hall-of-Famer Bill Hewitt, played all or most of their careers without a helmet.
+
+
+=== Early years ===
+One innovation from the early 1900s period was hardened leather. 1917 marked the first time helmets were raised above the head in an attempt to direct blows away from the top of the head. Ear flaps also had their downfall during this period as they had little ventilation and made it difficult for players to hear. The 1920s marked the first time that helmets were widely used in the sport of football. These helmets were made of leather and had some padding on the inside, but the padding was insufficient and provided little protection. In addition, they lacked face masks. As a result, injuries were very common. Early helmets also absorbed a lot of heat, making them very uncomfortable to wear.
+
+In 1939, the Riddell Company of Chicago, Illinois started manufacturing plastic helmets because it felt that plastic helmets would be safer than those made of leather. Plastic was found to be more effective because it held its shape when full collision contact occurred on a play. These helmets were also much more comfortable and had more padding to cushion the head in an impact. Included with the plastic helmet came plastic face mask, which allowed the helmet to protect the entire head. By the mid-1940s, helmets were required in the NFL. They were still made of leather, but with improved manufacturing techniques had assumed their more familiar spherical shape. The NFL initially allowed either plastic or leather helmets, but in 1948 the league outlawed the plastic helmet, considering the hard-plastic material to be an injury risk. The NFL lifted the plastic helmet ban after just one year in 1949, and by 1950, the plastic helmet had become universal in that league.
+
+
+=== Introduction of advanced materials ===
+By the 1950s, the introduction of polymers ended the leather helmet era. The last leather helmet manufacturer, MacGregor, ceased production of leather helmets in the mid-1960s. The NFL also recommended face masks for players in 1955, reducing the number of broken noses and teeth, but also necessitating new rules prohibiting opposing players from grabbing the face mask. By varying accounts, either Pat Studstill or Garo Yepremian was the last to forgo the facemask; among non-kickers, Tommy McDonald was the last to do so.
+
+
+=== Recent designs ===
+In 2002, American football equipment manufacturer Riddell released a new design of helmet called the Revolution in response to a study concussions.  In addition, Riddell has recently come out with a new design of helmets, the Riddell Speed Flex. This helmet came out in 2014. This new helmet uses elements of Riddell's older helmets, the 360 and the Revolution, such as Side Impact Protection and All Points Quick Release face mask attachment system.
+Demand for a safer helmet prompted Schutt Sports to announce the arrival of a next generation helmet, the ION 4D, which included an integrated face guard.  This new face guard design features shock absorbing "Energy Wedges" that reduce the force of impacts to the face guard. College teams wearing the helmet include Air Force, Penn State and Virginia. Schutt has also distinguished between their varsity helmets and youth helmets. The varsity helmets from Schutt are made with polycarbonate, which is a very strong polymer designed to take bigger hits. The Schutt youth helmets however; are made from ABS, which is a lighter material, meant for kids who do not take as powerful of hits.Recently, a brand new type of helmet has come into play. Vicis is a new company that is producing helmets that have a softer outer layer. The softer layer absorbs more energy from impacts. In addition, the inside of the helmet also has a foam like substance which absorbs energy and improves comfort.
+
+
+== Modern helmet components ==
+
+
+=== Outer shell ===
+The outer shell of helmets have changed appreciably throughout the history of the NFL. In the 1920s, football helmets had soft leather exteriors, whereas today they have polycarbonate exteriors. The first molded polycarbonate helmet appeared in the NFL in 1986.  Today's helmets typically have polycarbonate shells on the order of 3.35 mm. The hard outer shell protects the head from local impacts by delocalizing the force, so the load can be absorbed by the other elements.Polycarbonates are ideal materials for outer shells because they are lightweight, tough and exhibit good impact strength, even in extreme temperatures.  Polycarbonates refer to a family of thermoset polymers that are wIdely used in manufacturing, for their mechanical performance and ease in manufacturing.The aesthetic design of the outer shell has become central to teams' uniform and image.
+
+
+=== Energy absorbing elements ===
+The performance of a football helmet is based on its ability to decrease the force to the head from an impact. A helmet reduces the peak force transferred to the head by temporarily storing or dissipating impact energy. 
+The primary energy absorbing elements are the compression shock and shock bonnets, while the secondary elements are comfort pads. The materials used to build these components and their dimensions vary within the helmet.  The design takes account of a player's comfort and specific position, as well as the goal of protecting the most sensitive regions of the head and areas where big hits are most common.  Because football helmets need to withstand multiple collisions, the helmet materials need to return to their original form after each hit. Padding materials need to be low density to make the helmet comfortable and practical without sacrificing energy absorption.  Most football helmets are made from polyurethane or nitrile foams, because they keep the force peak under the load recommended for head health (1.5MPa) without deforming, while being relatively lightweight and easy to manufacture. 
+
+In order to understand why these polyurethane or nitrile foams are ideal for football helmets, it is helpful to review the properties of these materials. They can all be broadly categorized as viscoelastic foams. When a stress is applied to these types of materials, there are three main regions of deformation: linear elastic, plateau and densification. In the linear elastic region a material deforms reversibly in proportion to its young's modulus, or stiffness. In the plateau region the foam begins to collapse, and this is also a type of recoverable deformation.  When the material reaches its densification region it begins to change its internal structure permanently and cannot return to its original shape. Because football helmets are used repeatedly, they needed to be designed, so the strain stays in the elastic or plateau region.  The area under the curve in stress strain curve (shown in the figure to the right) represents the energy absorbed.  Foams should be strained a precise amount, so they absorb energy without permanent densification. In viscoelastic materials, the elastic region changes its shape depending on the strain rate, meaning the speed at which the material is deformed, or more practically, the velocity of the hit. In general, when the material is strained more quickly it is stiffer, so it deforms less. The degree of protection provided by the helmet depends on the velocity of the hit, and performance is poor for the fastest and slowest hits.  Air pockets, while absorbing some energy themselves, also help the helmets perform better in very high and low velocity hits.  Air chambers have venting systems so the volume and geometry of air chambers is dynamic, helping dampen the viscoelastic effect.  
+
+The inception for air pockets came from Vin Ferrara, a former Harvard quarterback. One night, Ferrara was looking for an aspirin when he saw a squirt bottle in his medicine cabinet. As he pumped it and then punched it, he realized that the bottle withstood the blows of different forces. Ferrara came up with the idea to encase football helmets with a number of inflatable pockets in order to cushion the blows a football player receives and reduce concussions.
+The foams in football helmets break down over time, and this process is often overlooked in safety modeling. Especially for youth teams, helmets are reused over the course of many years, putting players at risk since they are less protected than otherwise anticipated.
+
+
+=== Visors ===
+A more recent addition to the football helmet is the visor or eye shield, which is affixed to the face mask to protect players from glare or eye injuries, such as pokes. It is believed that the first player to use a protective visor was Mark Mullaney of the NFL's Minnesota Vikings in 1984, in order to protect a healing eye injury. Top manufacturers of visors are Nike, Oakley, Under Armour and SHOC, with Leader being the first to come out with a visor/shield for former Chicago Bears quarterback Jim McMahon (who needed the visor because of a childhood eye injury). While Mullaney and McMahon's visors were tinted, most of the earlier visors were clear or smoked, but they are now offered in a variety of styles ranging from blue, gold, black, rainbow, silver, or amber. High-school and pee-wee leagues prohibit all but clear visors. This rule was enacted so that training staff and coaches can easily view a player's face and eyes in the case of a serious injury, to discern if the player is conscious. The NCAA banned the use of tinted visors for the same reason, and the NFL has followed suit as well. However, players with eye problems may still obtain special permission to wear tinted visors, some notable examples being LaDainian Tomlinson and Chris Canty. The XFL allows players to wear tinted and decorated visors.
+
+
+=== Sensors ===
+Helmet shock data loggers and shock detectors  monitor impacts a player receives, such as the force and direction of the impact. If the force recorded by the sensors is over 100 Gs, it signals a possible concussion. Some players will experience up to 2,000 of these potential concussion blows each season. This data is then analyzed by doctors.  
+Recently some companies have released helmets with sensors that send alerts when a player might have experienced a serious  impact. The goal is to be able to detect concussions as soon as they happen to get players immediate medical care. Controversy has surrounded the use of sensors in the NFL. While almost everyone agrees the intentions are laudable, there are concerns about the quality of the data and about privacy of personal health records.  During the 2013 season, two unnamed NFL teams tested accelerometers, but their use was suspended after the trial. The league hopes to reintroduce the sensors once the questions of privacy and data quality are addressed.Nonetheless, sensors have already been used to improve the safety of  the game. Using data that he collected during a pilot study, Kevin Guskiewicz showed that kickoff returns are the most dangerous part of the game. His results were compelling enough to convince the NFL to move the kickoff line five yards forward to the 35-yard-line, with the intention of increasing the number of touchbacks, a safer play. 
+
+
+=== Headsets ===
+Two Ohio inventors, John Campbell and George Sarles, devised a headset for Cleveland Browns coach Paul Brown so he could radio plays to quarterback George Ratterman. It was banned shortly after its first use in 1956 (after the Browns had played three preseason games with the radio). The NFL approved use of headsets for all NFL teams in 1994.NFL rules state that all helmets equipped with headsets must have a visible green dot on the back. A few times in 2006, the holder on the field goal attempt was told to pull up and throw or run at the last second because of a change the coaches saw on the field. According to the NFL, this gave teams an "unfair advantage". The new rules let each team know who is wearing a headset and hearing the plays being called.
+
+
+=== Face masks ===
+The one-bar face mask was once common but its use has been supplanted in professional and amateur sport. For example, it has been illegal in the National Football League since 2004, but a grandfather clause allowed players who wore the mask prior to 2004 to continue to do so for the remainder of their careers.  No current professional player currently wears such a face mask; the last player to do so was Scott Player, who last played professionally in 2009.
+Typically, by the mid-1980s only placekickers and punters in professional football in Canada and the United States wore the one-bar face mask, a notable exception being quarterback Joe Theismann.
+The one-bar had two different variations.  The standard one-bar was made from nylon or other hard plastic and was bolted to both side of the helmet just in front of the earholes.  There was a "snub" version that did not extend as far out in front of the helmet as the standard.
+Face masks for football helmets today are multibar, having at minimum two bars. The multibar facemasks are typically constructed out of metal, such as titanium, stainless steel, or most commonly carbon steel. Each facemask is coated with Polyarmor G17, a powder coating that is resistant to impact and corrosion.  The Polyarmor is a thermoplastic coating used on a number of surfaces. While some organizations purchase new face masks every season, others have their equipment reconditioned.
+
+
+== Regulations ==
+
+
+=== NOCSAE certification ===
+
+Rules in place for NFL, NCAA, and high school football require that all helmets be certified by the National Operating Committee on Standards for Athletic Equipment.
+Reliance on NOCSAE certification has been criticized on numerous grounds, including that organization's control by equipment manufacturers causes a conflict of interest, testing data that focuses on skull fractures instead of concussions, and failure to take into account new research.The most common NOCSAE test is the drop test (developed 1973). This test uses a 13-pound dummy head full of sensors and a gelatin material. The head and helmet is dropped from a height of 60 at one of the six NOCSAE specified locations on the helmet. These locations include the front, rear, left side, right side, right boss, and left boss. The sensors in the dummy head measure the amount of force that the head experiences. The NOCSAE has certain regulations such as the peak severity index can never more than 1200 SI. If a helmet fails to meet these requirements, they do not pass the NOCSAE drop test.
+
+
+== Current research ==
+
+
+=== Safety research ===
+There has been significant study/research regarding head injuries in football, as well as football helmet design in recent years.  Kevin Guskiewicz, a professor at The University of North Carolina and a MacArthur Fellow, has for many years been researching concussions in football of all age groups.  He has been equipping UNC football helmets with accelerometers to measure impacts and concussions.   Also, the NFL has awarded over $1.6 million in sports medical research, almost $1 million of which has been toward concussion prevention. All this concussion prevention research has led football helmet manufacturers to develop safer products.  A joint effort between Virginia Tech and Wake Forest has been testing current football helmets and giving them yearly ratings since 2011.  On a scale out of 5 stars, only one helmet was awarded a 5 in 2011. In 2012, two additional helmet designs were awarded 5 stars.Some researchers have found the counterintuitive result that wearing helmets actually increases the chance of injury, and thus they recommend players occasionally practice without helmets.  When hard shells were first introduced, the number of head injuries actually increased because players had a false sense of security and made more dangerous tackles.  University of New Hampshire participate in a study in which some players practiced twice a week without helmets. By the end of the season, those that were practicing twice a week without a helmet hit their heads 30% less.  This research suggests that modernizing the best practices of the game might have more benefits than improving the materials within the helmet. 
+
+
+=== Materials design ===
+Vijay Gupta, a professor at UCLA, has done research and produced a special polymer that if added as a layer on the inside of football helmets can produce up to a 25% decrease in the g-forces a player would experience.  This reduction of forces would produce a similar amount of reduction of the probability of a player suffering a concussion from the same hits.
+There are also ongoing efforts to improve the selection of energy absorbing materials in football helmets.  Some researchers are using computational methods to sort through libraries of known materials.  Others are developing entirely new foams or by layering existing foams to create a composite that absorbs energy better.  Foams tend to be stiffer at lower temperatures.  Researchers are currently looking into ways to minimize the impact of temperature on foam stiffness in order to give players maximal protection in all weather. One company in particular that has been making large strides is Windpact which has a new type of foam that they call “foam in an airbag”, or “Crash Cloud”, which compresses when energy is absorbed and dissipates the energy through impact vents then rapidly reinflates. Current foams are limited by certain factors the affect the usefulness of the foam which is the limited amount of space inside of a helmet. Helmets cannot be too big or be too constricting on the player so a balance must be found between performance and safety.  Another limitation is that not every hit is equal to another. Foams inside of today's helmets perform best when impacted directly and are not the best at hits coming from different angles or “rotational impacts”.
+Crash Cloud units can either replace the padding in the helmets that are already present or line the inside of the helmet alongside the padding that is already there. Crash Cloud foams can control the rate of airflow to meet certain application's needs.  This could be usefully paired with data that is being collected about the types of hits that certain positions in football experience. Different positions get hit differently and in different areas so adjusting the helmet to meet that position is where research is moving towards now.
+During testing, Windpact took one of the leading helmet football helmet manufacturers, Riddell, and took one of their helmets to implement Crash Cloud technology inside it.  Before adding Crash Cloud, the normal Riddell helmet ranked #18th in protection compared to other helmets.  With Crash Cloud it jumped to #3 overall.  This is without changing any of the design of the helmet, just by adding to what already exists.
+
+
+=== Hit simulation ===
+Recent research has begun to assess the tests specifically employed to create the safest football equipment. In 2015, David Camarillo at Stanford conducted a study that suggested football helmet tests did not account for the delay between injury-causing brain movement and stress impact.Neuroscientists  at Ohio State University launched baseballs from air cannons at football helmets in order to simulate a kick or blow to the head such as a tackle. It was found that the helmets could withstand 2,500 Newtons or about 562 pounds of force.
+Design parameters for football helmets have traditionally been based on linear-acceleration models.  This mode of impact is more straightforward to study and matches design metrics, such as cadaver skull fracture. Ongoing research is focused on understanding rotational forces on football helmets and how to design for more realistic, non-centrosymmetric forces. 
+
+
+== Logo display ==
+
+
+=== National Football League ===
+In 1948, the Los Angeles Rams were the first NFL team to put logos on their helmets; the basic "ram's horn" logo on the helmet has remained mostly the same, except for color, ever since. Through the 2019 NFL season, the Cleveland Browns are the only remaining NFL teams not using any form of a primary logo on its helmets. The Pittsburgh Steelers are the only NFL team that puts its logo on only one side of the helmet (the right side). At first, this was a temporary measure because the Steelers weren't sure they would like the look of the logo on an all-gold helmet. They wanted to test them before going all-out. Because of the interest generated by having the logo on only one side of their helmets and also due to the team's new success, the Steelers decided to leave the helmet that way permanently. The Cincinnati Bengals, after using a "Bengals" wordmark for a helmet logo through the 1980 season, have used a tiger-stripe pattern instead of a logo since 1981.
+
+
+== See also ==
+History of the football helmet
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Sources ===
+Albergotti, Reed and Wang, Shirley S. "Is it time to retire the football helmet?" The Wall Street Journal (November 11, 2009)
+Bhattacharji, Alex. "Helmet History" Sports Illustrated for Kids (October 1996)
+Copeland, Michael V. "Crash Pad" Fortune International (February 8, 2010) p.8
+Schwartz, Alan. "Concussion- New Football Helmet Design" The New York Times (October 27, 2007)
+Tucker, Andrew M. "Football players head injuries" House Judiciary FDCH Congressional Testimony (October 28, 2009)
+Zarda, Brett. "Butting Heads" Popular Science (September 2007)
+
+
+== External links ==
+The Official History of the Winged Helmet

@@ -1,0 +1,102 @@
+A billiard table or billiards table is a bounded table on which cue sports are played. In the modern era, all billiards tables (whether for carom billiards, pool, pyramid or snooker) provide a flat surface usually made of quarried slate, that is covered with cloth (usually of a tightly woven worsted wool called baize), and surrounded by vulcanized rubber cushions, with the whole thing elevated above the floor.: 115, 238  More specific terms are used for specific sports, such as snooker table and pool table, and different-sized billiard balls are used on these table types. An obsolete term is billiard board, used in the 16th and 17th centuries.: 27 
+
+
+== Parts and equipment ==
+
+
+=== Cushions ===
+Cushions (also sometimes called  "rail cushions", "cushion rubber", or rarely "bumpers") are located on the inner sides of a table's wooden rails. There are several different materials and design philosophies associated with cushion rubber. The cushions are made from an elastic material such as vulcanized rubber (gum or synthetic). The purpose of the cushion rubber is to cause the billiard balls to rebound off the rubber while minimizing the loss of kinetic energy.
+The profile of the rail cushion, which is the cushion's angle in relation to the bed of the table, varies between table types. The standard on American pool tables is the K-66 profile, which as defined by the Billiard Congress of America (BCA) has a base of 1+3⁄16 inches (30 mm) and a nose height of 1 inch (25 mm). When installed properly the distance from the nose of the cushion to the covered slate surface is 1+7⁄16 inches (37 mm) while using a regulation 2+1⁄4-inch (57 mm) ball set.
+On a carom table, the K-55 profile is used (with a somewhat sharper angle than pool cushions). K-55 cushions have cloth, usually canvas, vulcanized into the top of the rubber to adjust rebound accuracy and speed.Snooker tables use an L-shaped profile, such as the L77 profile.
+
+
+=== Bed ===
+The bed table – the cloth-covered, horizontal playing surface – is, on high-quality equipment, made of solid, smooth slabs of slate, most often from Italy, Brazil or China. Small pool tables may use only one or two pieces of slate, while carom, English billiards and tournament-size pool tables use three. Full-size snooker tables require five. The gap between slates is filled with a hard-drying putty, epoxy or resin, then sanded to produce a seamless surface, before being covered with the cloth. When several pieces of slate are joined poorly it is possible for the resin to deform and cause an uneven playing surface; it can also be difficult to move once joined.
+Tables for the home market usually use slate beds as well, but the slate is often thinner, down to about +1⁄2 inch (13 mm). The early table beds were made of cloth-covered wooden boards. Today, inexpensive but not very rigid or durable materials used for the beds of low-end tables (e.g. for children's recreation rooms) still include wood, especially medium-density fibreboard and plywood, as well as plastics and other synthetic materials under various trade names.
+
+
+=== Cloth ===
+Billiard cloth (sometimes erroneously called felt) is a specific type of cloth that covers the top of the table's "playing area". Both the rails and slate beds are covered with 21–24-ounce billiard cloth (although some less expensive 19-ounce cloths are available) which is most often green in colour (representing the grass of the original lawn games that billiards evolved from), and consists of either a woven wool or wool-nylon blend called baize.
+Most bar tables, which get much use, use the slower, thicker blended felt because it is cheaper. This type of cloth is called a woollen cloth. By contrast, high-quality pool cloth is usually made of a napless weave such as worsted wool, which gives a much faster roll to the balls. This "speed" of the cloth affects the amounts of swerve and deflection of the balls, among other aspects of game finesse. Snooker cloth traditionally has a directional nap, upon which the balls behave differently when rolling against vs. running with the direction of the nap.
+
+
+=== Markings ===
+Sights, also known as diamonds (for their traditional shape), are inlaid at precise, evenly spaced positions along the rails of some tables (not usually on snooker tables) to aid in the aiming of bank or kick shots. There are seven along each long rail (with the side pocket interfering with where the seventh one would go, on pocket billiard tables) and three along each short rail, with each of the four corners counting as another in the mathematical systems that the diamonds are used to calculate. These sights divide the playing surface into equal squares. Books, even entire series of books, have been written on geometric and algebraic systems of aiming using the diamonds.
+Spots are often used to mark the head and foot spots on the cloth. Other markings may be a line drawn across the head string (or across the balk line with the "D", in British-style pool). Another case is the outline of the triangle rack behind the foot spot where the balls are racked in straight pool, since the outline of this area is strategically important throughout the game. In artistic pool, lines may be drawn between opposite sights putting a grid on the playing surface. Other grid patterns are used in various forms of balkline billiards. A recent table marking convention, in European nine-ball, is the break box.
+
+
+== Carom billiards tables ==
+Pocketless carom billiards tables are used for such games as straight rail, balkline, one-cushion billiards, three-cushion caroms, and artistic billiards.
+
+
+=== Dimensions ===
+Regulation 10 × 5-foot carom billiards tables have a playing surface (measured between the noses of the cushions) of 2.84 metres by 1.42 metres (9.32 × 4.65 feet) with a 5-millimetre allowance. The standard height range of the table, measured from the playing surface to the ground is between 75 and 80 centimetres.
+
+
+=== Bed ===
+The slate bed of a carom billiard table must have a minimum thickness of 45 millimetres and in tournaments recommended heating temperatures is 33–37°C (91–99°F), which helps to keep moisture out of the cloth to aid the balls rolling and rebounding in a consistent manner, and generally makes a table play faster. A heated table is required under international carom rules and is an especially important requirement for the games of three-cushion billiards and artistic billiards.: 115, 238 Heating table beds is an old practice. Queen Victoria had a billiard table that was heated using zinc tubes, although the aim at that time was chiefly to keep the then-used ivory balls from warping. The first use of electric heating was for an 18.2 balkline tournament held in December 1927 between Welker Cochran and Jacob Schaefer Jr. The New York Times announced it with fanfare: "For the first time in the history of world's championship balkline billiards a heated table will be used...": 115, 238 
+
+
+== Pool tables ==
+
+A pool table, or pocket billiards table, has six pockets – one at each corner of the table (corner pockets) and one at the midpoint of each of the longer sides (side pockets or middle pockets).
+
+
+=== Dimensions ===
+
+Pool tables come in different sizes, typically referred to as 9-foot (2.7 m), 8.5 ft (2.6 m), 8 ft (2.4 m), or 7 ft (2.1 m) tables. In all cases, the table is rectangular with a 2:1 ratio (e.g. 9 × 4.5 ft).
+There are only two sizes approved for tournament play by the International Olympic Committee–recognized sport governing body of pool, the World Pool-Billiard Association (WPA), and its various regional and national affiliates; under the world standardized rules of pool, these are the 9 × 4.5 ft and 8 × 4 ft models. For a 9-ft table, the playing surface (the dimensions between the noses of the cushions) measures 100 inches (254 cm) by 50 inches (127 cm) with a +1⁄8-inch (3.2 mm) margin of error for either dimension. For an 8-ft table, the playing surface measures 92 inches (234 cm) by 46 inches (117 cm), with the same +1⁄8 inch variance allowed.
+In the UK as well as a number of other British Commonwealth and European countries, the typical pool table is a 7 × 3.5 ft (2.13 × 1.07 m), although 6-foot (1.83 m) tables for the pub and home market are also common. These are the sizes used by internationally standardized blackball and the amateur World Eightball Pool Federation, as well as informal pub pool. The 7-foot size is also frequently used in North American amateur leagues, and are common coin-operated fixtures in bars and other venues. The playing surface for a 7-foot table is 76 inches (193 cm) by 38 inches (96.5 cm).
+
+
+=== Pockets ===
+Pockets, typically rimmed at the back with leather or plastic traditionally have drop pockets, which are small receptacles below each pocket to catch the balls. Many modern pool tables may instead employ ball return pockets, a series of gutters inside the table, which channel the balls into a collection compartment on one side of the table, in a similar manner to the ball return on a bowling alley. On a coin-operated table, the object balls are deposited inside an inaccessible compartment window until the table is paid again, allowing the balls to be released into the collection chamber, while the cue ball is usually separated into its own ball return, often utilizing a different sized ball. A possible result of drop pockets is that if too many balls go into the same pocket, it will fill up the receptacle and prevent any more balls from going in that pocket, requiring that some be moved out of the pocket manually before shooting again.
+Regardless of table size, the WPA standard (sometimes informally called "American-style") table has wide, angular pockets that funnel notably inward, generally 1.75 to 2.25 times as wide at the opening as the diameter of the 2+1⁄4-inch (57 mm) balls, wider at the side (middle) pockets than the corners. WEPF pool (sometimes informally called "British-style" or "Commonwealth-style") is played with 2 to 2+1⁄8-in (51–54 mm) balls, and this type of table has smaller, narrow pockets (the width is calculated as the ball diameter multiplied by 1.6, and is consistent at all six pockets), with rounded entrances and nearly parallel sides, like those on a snooker table. One tactical consequence of this design difference is that the jaws of the WPA-type pocket are often used exactly like a horizontal version of the backboard of a basketball goal, to rebound the ball into the pocket; this technique does not work on blackball tables, and even shots down the cushion into a corner pocket are more difficult.
+
+
+=== Bed ===
+For tournament competition under WPA world-standardized rules (and league play under derived rulesets), the bed of the pocket billiard table must be made of slate no less than 1 inch (2.54 cm) thick. The flatness of the table must be divergent by no greater than 0.02 inches (0.51 mm) lengthwise and 0.01 inches (0.25 mm) across the width.
+
+
+== Snooker and English billiards tables ==
+
+A table designed for the games snooker and English billiards is usually called a snooker table or a plane today, though English billiards pre-dates snooker.
+
+
+=== Dimensions ===
+The playing area of a tournament snooker table, as standardized by the World Professional Billiards and Snooker Association (WPBSA) and the amateur International Billiards and Snooker Federation (IBSF), measures 11 feet 8.5 inches by 5 ft 10 in (3569 mm by 1778 mm) with a tolerance of ± 0.5 in (13 mm), though commonly referred to as 12 ft by 6 ft, the nominal outer dimensions including the rails. Smaller tables, approximately 10 ft by 5 ft down to half size, are also sometimes used in pubs, homes and smaller snooker halls. The height from the floor to the top of the cushion is between 2 ft 9.5 in and 2 ft 10.5 in (851 mm and 876 mm).
+
+
+=== Pockets ===
+A snooker table has six pockets, one at each corner and one at the centre of each of the longest side cushions. The pockets are around 86 mm (3.5 in), though high-class tournaments may use slightly smaller pockets to increase difficulty. The amount of undercut (trimmed underside of the rubber cushion's protruding nose at the pocket opening),: 8  if any, has a strong effect on how easily a ball is accepted by the pocket (the "pocket speed"). On snooker and English billiards tables, the pocket entries are rounded, while pool tables have sharp "knuckles". This affects how accurate shots need to be to get into a pocket, and how fast they can be when not dead-on, including shots that run along and against a cushion, making snooker more difficult to play than pool. According to the WPBSA official rule book, "the pocket openings shall conform to the templates owned and authorised by The World Professional Billiards and Snooker Association (WPBSA)". The WPBSA and IBSF rule books' equipment sections do not actually specify the measurements and shapes of these proprietary templates which change from time to time, requiring that the templates be dated. The organizations do not recognize tournament play or records (maximum breaks, etc.) if not performed on tables that conform to then-current templates.
+
+
+=== Cushions ===
+The cushions (sometimes known as rails, though that term properly applies to the wood sections to which the cushions are attached) are usually made of vulcanized rubber.
+
+
+=== Markings ===
+The baulk area is marked by a baulk line drawn on the cloth across the width of the table at 29 inches (737 mm) from and parallel to the face of the bottom cushion. A semicircle with a radius of 11.5 inches (292 mm) centred on this line within baulk forms the "D" in which the cue ball must be placed when breaking or after the cue ball has been potted or shot off the table. The position of four of the colours are marked along the long string (lengthwise centre) of the table, perpendicular to the baulk line: the black spot, 12.75 inches (324 mm) from the top cushion; the centre spot or blue spot, located at the midpoint between the bottom and top cushions; the pyramid spot or pink spot, located midway between the centre spot and the top cushion; and the baulk spot or brown spot, located at the midpoint of the baulk line (and, thus of the "D"). Due to its obviousness, the brown spot is not always marked (neither are the unmistakable green and yellow spots, at the left and right intersections, respectively, of the baulk line and the "D"'s curve.: 116, 278  The exact placing of these markings are different on smaller tables, but proportional to the full-size model.
+
+
+=== Bed ===
+The playing surface of a good quality snooker table has a bed of slate and is covered with baize cloth, traditionally green, though many other colours are now available. The thickness of this cloth determines the table's speed (lack of friction) and responsiveness to spin, thicker cloths being longer lasting but slower and less responsive. The nap of the cloth can affect the run of the balls, especially on slower shots and shots played with sidespin applied to the cue ball. A snooker table traditionally has the nap running from the baulk to the top end and is brushed and ironed in this direction.
+
+
+== Tables for other games ==
+Other types of billiard tables are used for specific games, such as Russian pyramid which uses a '12 ft by 6 ft' table (similar to a snooker table but with much smaller pockets), and Asian four ball which uses a pocketless 8 ft by 4 ft table. Games such as bagatelle often had more than six holes, including straight through the bed in the middle of the table, a feature still found in bar billiards and bumper pool.
+
+
+== Novelty and home tables ==
+There are novelty billiard tables, often for pool, that come in various shapes including zig-zag, circular, and (especially for bumper pool) hexagonal. A circular table featured prominently in the 1972 film Silent Running. For the home market, many manufacturers have produced convertible billiard tables (in the broad sense) that double as dining tables or as table tennis, foosball, or air hockey, tables, with removable hard tops. Home pool tables, which often lack a ball-return system, are commonly either 4 × 8 ft or 3.5 × 7 ft models, a medium between 3 × 6 ft. bar/pub tables and 4.5 × 9 ft tournament-size models. Low-end tables tend toward the smaller range, and may have MDF or wood beds as an alternative to slate; those with light-weight beds may be foldable for storage, as with table tennis. Miniature tables range in size from tabletop 1 × 1.6 ft to free-standing 2.5 × 5 ft models, and use scaled-down cues and balls.
+
+		
+		
+		
+		
+		
+		
+		
+
+
+== References ==

@@ -1,0 +1,64 @@
+A Petri dish (alternatively known as a Petri plate or cell-culture dish) is a shallow transparent lidded dish that biologists use to hold growth medium in which cells can be cultured, originally, cells of bacteria, fungi and small mosses. The container is named after its inventor, German bacteriologist Julius Richard Petri. It is the most common type of culture plate. The Petri dish is one of the most common items in biology laboratories and has entered popular culture. The term is sometimes written in lower case, especially in non-technical literature.What was later called Petri dish was originally developed by a German physician Robert Koch in his private laboratory in 1881, as a precursor method. Petri, as assistant to Koch, at Berlin University made the final modifications in 1887 as used today.
+Penicillin, the first antibiotic, was discovered in 1929 when Alexander Fleming noticed that mold that had contaminated a bacterial culture in a Petri dish had killed the bacteria all around it.
+
+
+== Features and variants ==
+Petri dishes are usually cylindrical, mostly with diameters ranging from 30 to 200 mm, and a height to diameter ratio ranging from 1:10 to 1:4. Squarish versions are also available.Petri dishes were traditionally meant to be reusable and made of glass; often of heat-resistant borosilicate glass for proper sterilization at 120–160 °C.Since the 2010s, plastic dishes, usually disposable, are also common.The dishes are often covered with a shallow transparent lid, resembling a slightly wider version of the dish itself.  The lids of glass dishes are usually loose-fitting.  Plastic dishes may have close-fitting covers that delay the drying of the contents.   Alternatively, some glass or plastic versions may have small holes around the rim, or ribs on the underside of the cover, to allow for air flow over the culture and prevent water condensation.Some Petri dishes, especially plastic ones, usually feature rings and/or slots on their lids and bases so that they are less prone to sliding off one another when stacked.Small dishes may have a protruding base that can be secured on a microscope stage for direct examinationSome versions may have grids printed on the bottom to help in measuring the density of cultures.A microplate is a single container with an array of flat-bottomed cavities, each being essentially a small Petri dish.  It makes it possible to inoculate and grow dozens or hundreds of independent cultures of dozens of samples at the same time.  Besides being much cheaper and convenient than separate dishes, the microplate is also more amenable to automated handling and inspection.
+
+
+== History ==
+The Petri dish was developed by German physician Julius Richard Petri (after whom the name is given) while working as an assistant to Robert Koch at Berlin University. Petri did not invent the culture dish himself; rather, it was a modified version of Koch's invention. Koch had published a precursor dish in a booklet in 1881 titled "Zur Untersuchung von Pathogenen Organismen" (Methods for the Study of Pathogenic Organisms), which has been known as the "Bible of Bacteriology." He described a new bacterial culture method that used a glass slide with agar and a container (basically a Petri dish, a circular glass dish of 20 × 5 cm with matching lid) which he called feuchte Kammer ("moist chamber"). A bacterial culture was spread on the glass slide, then placed in the moist chamber with a small wet paper. Bacterial growth was easily visible.Koch publicly demonstrated his plating method at the Seventh International Medical Congress in London in August 1881. There, Louis Pasteur exclaimed, "C'est un grand progrès, Monsieur!" ("What a great progress, Sir!") It was using this method that Koch discovered important pathogens of tuberculosis (Mycobacterium tuberculosis), anthrax (Bacillus anthracis), and cholera (Vibrio cholerae). For his research on tuberculosis, he was awarded the Nobel Prize in Physiology or Medicine in 1905. His students also made important discoveries. Friedrich Loeffler discovered the bacteria of glanders (Burkholderia mallei) in 1882 and diphtheria (Corynebacterium diphtheriae) in 1884; and Georg Theodor August Gaffky, the bacterium of typhoid (Salmonella enterica) in 1884.Petri made changes in how the circular dish was used. It is often asserted that Petri developed a new culture plate, but this is incorrect. Instead of using a separate glass slide or plate on which culture media were placed, Petri directly placed media into the glass dish, eliminating unnecessary steps such as transferring the culture media, using the wet paper, and reducing the chance of contamination. He published the improved method in 1887 as "Eine kleine Modification des Koch’schen Plattenverfahrens" ("A minor modification of the plating technique of Koch"). Although it could have been named "Koch dish," the final method was given an eponymous name Petri dish.
+
+
+== Uses ==
+
+
+=== Microbiology ===
+
+Petri dishes are widely used in biology to cultivate microorganisms such as bacteria, yeasts, and molds.  It is most suited for organisms that thrive on a solid or semisolid surface.
+The culture medium is often an agar plate, a layer a few mm thick of agar or agarose gel containing whatever nutrients the organism requires (such as blood, salts, carbohydrates, amino acids) and other desired ingredients (such as dyes, indicators, and medicinal drugs). The agar and other ingredients are dissolved in warm water and poured into the dish and left to cool down.  Once the medium solidifies, a sample of the organism is inoculated ("plated").
+The dishes are then left undisturbed for hours or days while the organism grows, possibly in an incubator.  They are usually covered, or placed upside-down, to lessen the risk of contamination from airborne spores.
+Virus or phage cultures require that a population of bacteria be grown in the dish first, which then becomes the culture medium for the viral inoculum.
+While Petri dishes are widespread in microbiological research, smaller dishes tend to be used for large-scale studies in which growing cells in Petri dishes can be relatively expensive and labor-intensive.
+
+
+=== Contamination detection and mapping ===
+Petri dishes can be used to visualize the location of contamination on surfaces, such as kitchen counters and utensils, clothing, food preparation equipment, or animal and human skin.For this application, the Petri dishes may be filled so that the culture medium protrudes slightly above the edges of the dish to make it easier to take samples on hard objects.  Shallow Petri dishes prepared in this way are called Replicate Organism Detection And Counting (RODAC) plates and are available commercially.
+
+
+=== Cell culture ===
+Petri dishes are also used for cell cultivation of isolated cells from eukaryotic organisms, such as in immunodiffusion studies, on solid agar or in a liquid medium.
+
+
+=== Botany and agriculture ===
+
+Petri dishes may be used to observe the early stages of plant germination, and to grow plants asexually from isolated cells.
+
+
+=== Entomology ===
+Petri dishes may be convenient enclosures to study the behavior of insects and other small animals.
+
+
+=== Chemistry ===
+Due to their large open surface, Petri dishes are effective containers to evaporate solvents and dry out precipitates, either at room temperature or in ovens and desiccators.
+
+
+=== Sample storage and display ===
+Petri dishes also make convenient temporary storage for samples, especially liquid, granular, or powdered ones, and small objects such as insects or seeds.  Their transparency and flat profile allows the contents to be inspected with the naked eye, magnifying glass, or low-power microscope without removing the lid.
+
+
+== In popular culture ==
+The Petri dish is one of a small number of laboratory equipment items whose name entered popular culture.  It is often used metaphorically, e.g. for a contained community that is being studied as if they were microorganisms in a biology experiment, or an environment where original ideas and enterprises may flourish.Unicode has a Petri dish emoji, "🧫", which has the code point U+1F9EB (HTML entity "&#129515;" or "&#x1F9EB;", UTF-8 "0xF0 0x9F 0xA7 0xAB").
+
+
+== See also ==
+Microbial art
+Cell spreader
+Inoculation loop
+Roux culture bottle
+
+
+== References ==
+
+
+== External links ==

@@ -1,0 +1,60 @@
+REAPER (an acronym for Rapid Environment for Audio Production, Engineering, and Recording) is a digital audio workstation and MIDI sequencer software created by Cockos. The current version is available for Microsoft Windows (XP and newer) and macOS (10.5 and newer), as well as for Linux. REAPER acts as a host to most industry-standard plug-in formats (such as VST and AU) and can import all commonly used media formats, including video. REAPER and its included plug-ins are available in 32-bit and 64-bit format.
+
+
+== Licensing ==
+REAPER provides a free, fully functional 60-day evaluation period. For further use two licenses are available – a commercial and a discounted one. They are identical in features and differ only in price and target audience, with the discount license being offered for private use, schools and small businesses. Any paid license includes the current version with all of its future updates and a free upgrade to the next major version and all of its subsequent updates, when they are released. Any license is valid for all configurations (x64 and x86) and allows for multiple installations, as long it is being run on one computer at a time.
+
+
+== Customization ==
+Extensive customization opportunities are provided through the use of ReaScript (edit, run and debug scripts within REAPER) and user-created themes and functionality extensions.
+ReaScript can be used to create anything from advanced macros to full-featured REAPER extensions. ReaScripts can be written in EEL2 (JSFX script), Lua and Python. SWS / S&M is a popular, open-source extension to REAPER, providing workflow enhancements and advanced tempo/groove manipulation functionality.REAPER's interface can be customized with user-built themes. Each previous version's default theme is included with REAPER and theming allows for complete overhauls of the GUI. REAPER has been translated into multiple languages and downloadable language packs are available. Users as well as developers can create language packs for REAPER.
+
+
+== Included software and plug-ins ==
+Reaper comes with a variety of commonly used audio production effects. They include tools such as ReaEQ, ReaVerb, ReaGate, ReaDelay, ReaPitch and ReaComp. The included Rea-plug-ins are also available as a separate download for users of other DAWs, as the ReaPlugs VST FX Suite.Also included are hundreds of JSFX plug-ins ranging from standard effects to specific applications for MIDI and audio. JSFX scripts are text files, which when loaded into REAPER (exactly like a VST or other plug-in) become full-featured plug-ins ranging from simple audio effects (e.g delay, distortion, compression) to instruments (synths, samplers) and other special purpose tools (drum triggering, surround panning). All JSFX plug-ins are editable in any text editor and thus are fully user customizable.REAPER includes no third-party software, but is fully compatible with all versions of the VST standard (currently VST3) and thus works with the vast majority of both free and commercial plug-ins available. REAPER x64 can also run 32-bit plug-ins alongside 64-bit processes. As of version 5.97, REAPER supports ARA 2 plugins.
+
+
+== Video editing ==
+While not a dedicated video editor, REAPER can be used to cut and trim video files and to edit or replace the audio within. Common video effects such as fades, wipes and cross-fades are available. REAPER aligns video files in a project, as it would an audio track, and the video part of a file can be viewed in separate video window while working on the project.
+
+
+== Control surface support ==
+REAPER has built-in support for:
+
+BCF2000 – Behringer's motorized faders control surface, USB/MIDI
+TranzPort – Frontier Design Group's wireless transport control
+AlphaTrack – Frontier Design Group's AlphaTrack control surface
+FaderPort – Presonus' FaderPort control surface
+Baby HUI – Mackie's Baby HUI control surface
+MCU – Mackie's "Mackie Control Universal" control surface
+
+
+== Version history ==
+First public release – December 23, 2005 as freeware
+1.0 – released on August 23, 2006 as shareware
+2.0 – October 10, 2007
+2.43 –  July 30, 2008: Beta Mac OS X and Windows x64 support.
+2.56 – March 2, 2009: Finalized Mac OS X and Windows x64 ports.
+3.0 – May 22, 2009
+4.0 – August 3, 2011
+Work on Linux support began.
+5.0 – August 12, 2015
+Beta-quality Linux support
+5.981 - July 22, 2019
+Cumulative improvements and enhancements, notably Notation mode MIDI Editor (new in 5.20), VST3 support, Reascript, Video support, Control Grouping, FX Parameter Automation, Envelope modes, new API functions, new Actions, and much more
+6.0 – December 3, 2019
+
+
+== See also ==
+
+Comparison of digital audio editors
+List of digital audio workstation software
+List of music software
+
+
+== References ==
+
+
+== External links ==
+REAPER home page
+REAPER en español (unofficial website, tutorials & tips)

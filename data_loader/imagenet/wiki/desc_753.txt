@@ -1,0 +1,42 @@
+Radiators are heat exchangers used to transfer thermal energy from one medium to another for the purpose of cooling and heating. The majority of radiators are constructed to function in cars, buildings, and electronics.A radiator is always a source of heat to its environment, although this may be for either the purpose of heating this environment, or for cooling the fluid or coolant supplied to it, as for automotive engine cooling and HVAC dry cooling towers. Despite the name, most radiators transfer the bulk of their heat via convection instead of thermal radiation.
+
+
+== History ==
+The Roman hypocaust is an early example of a type of radiator for building space heating. Franz San Galli, a Prussian-born Russian businessman living in St. Petersburg, is credited with inventing the heating radiator around 1855, having received a radiator patent in 1857, but American Joseph Nason developed a primitive radiator in 1841 and received a number of U.S. patents for hot water and steam heating.
+
+
+== Radiation and convection ==
+
+Heat transfer from a radiator occurs by all the usual mechanisms: thermal radiation,  convection into flowing air or liquid, and conduction into the air or liquid. A radiator may even transfer heat by phase change, for example, drying a pair of socks.  In practice, the term "radiator" refers to any of a number of devices in which a liquid circulates through exposed pipes (often with fins or other means of increasing surface area).  The term "convector" refers to a class of devices in which the source of heat is not directly exposed.
+To increase the surface area available for heat exchange with the surroundings, a radiator will have multiple fins, in contact with the tube carrying liquid pumped through the radiator. Air (or other exterior fluid) in contact with the fins carries off heat.  If air flow is obstructed by dirt or damage to the fins, that portion of the radiator is ineffective at heat transfer.
+
+
+== Heating ==
+
+Radiators are commonly used to heat buildings on the European continent. In a radiative central heating system, hot water or sometimes steam is generated in a central boiler and circulated by pumps through radiators within the building, where this heat is transferred to the surroundings.
+
+
+== HVAC ==
+
+Radiators are used in dry cooling towers and closed-loop cooling towers for cooling buildings using liquid-cooled chillers for HVAC while keeping the chiller coolant isolated from the surroundings.
+
+
+== Engine cooling ==
+
+Radiators are used for cooling internal combustion engines, mainly in automobiles but also in piston-engined aircraft, railway locomotives, motorcycles, stationary generating plants and other places where heat engines are used. 
+To cool down the heat engine, a coolant is passed through the engine block, where it absorbs heat from the engine. The hot coolant is then fed into the inlet tank of the radiator (located either on the top of the radiator, or along one side), from which it is distributed across the radiator core through tubes to another tank on the opposite end of the radiator. As the coolant passes through the radiator tubes on its way to the opposite tank, it transfers much of its heat to the tubes which, in turn, transfer the heat to the fins that are lodged between each row of tubes. The fins then release the heat to the ambient air. Fins are used to greatly increase the contact surface of the tubes to the air, thus increasing the exchange efficiency. The cooled liquid is fed back to the engine, and the cycle repeats.  Normally, the radiator does not reduce the temperature of the coolant back to ambient air temperature, but it is still sufficiently cooled to keep the engine from overheating.
+This coolant is usually water-based, with the addition of glycols to prevent freezing and other additives to limit corrosion, erosion and cavitation. However, the coolant may also be an oil. The first engines used thermosiphons to circulate the coolant; today, however, all but the smallest engines use pumps.Up to the 1980s, radiator cores were often made of copper (for fins) and brass (for tubes, headers, and side-plates, while tanks could also be made of brass or of plastic, often a polyamide). Starting in the 1970s, use of aluminium increased, eventually taking over the vast majority of vehicular radiator applications. The main inducements for aluminium are reduced weight and cost.Since air has a lower heat capacity and density than liquid coolants, a fairly large volume flow rate (relative to the coolant's) must be blown through the radiator core to capture the heat from the coolant. Radiators often have one or more fans that blow air through the radiator. To save fan power consumption in vehicles, radiators are often behind the grille at the front end of a vehicle. Ram air can give a portion or all of the necessary cooling air flow when the coolant temperature remains below the system's designed maximum temperature, and the fan remains disengaged.
+
+
+== Electronics and computers ==
+
+As electronic devices become smaller, the problem of dispersing waste heat becomes more difficult. Tiny radiators known as heat sinks are used to convey heat from the electronic components into a cooling air stream. Heatsinks do not use water, rather they conduct the heat from the source. High-performance heat sinks have copper to conduct better.  Heat is transferred to the air by conduction and convection; a relatively small proportion of heat is transferred by radiation owing to the low temperature of semiconductor devices compared to their surroundings.
+Radiators are also used in liquid cooling loops for rejecting heat.
+
+
+== Spacecraft ==
+
+Radiators are found as components of some spacecraft. These radiators work by radiating heat energy away as light (generally infrared given the temperatures at which spacecraft try to operate) because in the vacuum of space neither convection nor conduction can work to transfer heat away. On the International Space Station, these can be seen clearly as large white panels attached to the main truss. They can be found on both manned and unmanned craft.
+
+
+== References ==

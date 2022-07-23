@@ -1,0 +1,331 @@
+Binoculars or field glasses are two refracting telescopes mounted side-by-side and aligned to point in the same direction, allowing the viewer to use both eyes (binocular vision) when viewing distant objects. Most binoculars are sized to be held using both hands, although sizes vary widely from opera glasses to large pedestal-mounted military models.
+Unlike a (monocular) telescope, binoculars give users a three-dimensional image: each eyepiece presents a slightly different image to each of the viewer's eyes and the parallax allows the visual cortex to generate an impression of depth.
+
+
+== Optical designs ==
+
+
+=== Galilean ===
+
+Almost from the invention of the telescope in the 17th century the advantages of mounting two of them side by side for binocular vision seems to have been explored. Most early binoculars used Galilean optics; that is, they used a convex objective and a concave eyepiece lens. The Galilean design has the advantage of presenting an erect image but has a narrow field of view and is not capable of very high magnification. This type of construction is still used in very cheap models and in opera glasses or theater glasses. The Galilean design is also used in low magnification binocular surgical and jewelers' loupes because they can be very short and produce  an upright image without extra or unusual erecting optics, reducing expense and overall weight. They also have large exit pupils, making centering less critical, and the narrow field of view works well in those applications. These are typically mounted on an eyeglass frame or custom-fit onto eyeglasses.
+
+
+=== Keplerian optics ===
+An improved image and higher magnification is achieved in binoculars employing Keplerian optics, where the image formed by the objective lens is viewed through a positive eyepiece lens (ocular). 
+Since the Keplerian configuration produces an inverted image, different methods are used to turn the image right way up.
+
+
+==== Erecting lenses ====
+
+In aprismatic binoculars with Keplerian optics (which were sometimes called "twin telescopes") each tube has one or two additional lenses (relay lens) between the objective and the ocular. These lenses are used to erect the image. The binoculars with erecting lenses had a serious disadvantage: they are too long. Such binoculars were popular in the 1800s (for example, G.& S. Merz models), but became obsolete shortly after the Carl Zeiss company introduced improved prism binoculars in the 1890s.
+
+
+==== Prism ====
+Optical prisms added to the design enabled the display of the image the right way up without needing as many lenses, and decreasing the overall length of the instrument, typically using a Porro prism or roof-prisms.
+
+
+===== Porro =====
+
+Porro prism binoculars are named after Italian optician Ignazio Porro, who patented this image erecting system in 1854. This system was later refined by other binocular makers, notably the Carl Zeiss company in the 1890s. Binoculars of this type use a pair of Porro prisms in a Z-shaped configuration to erect the image. This results in binoculars that are wide, with objective lenses that are well separated and offset from the eyepieces, giving a better sensation of depth. Porro prism designs have the added benefit of folding the optical path so that the physical length of the binoculars is less than the focal length of the objective. Porro prism binoculars were made in such a way to erect an image in a small space, thus binoculars using prisms started in this way.
+
+
+===== Roof =====
+
+Binoculars using roof prisms may have appeared as early as the 1870s in a design by Achille Victor Emile Daubresse. In 1897 Moritz Hensoldt began marketing roof prism binoculars.  Most roof prism binoculars use either the Abbe-Koenig prism (named after Ernst Karl Abbe and Albert Koenig and patented by Carl Zeiss in 1905) or the Schmidt-Pechan prism (invented in 1899) designs to erect the image and fold the optical path. They have objective lenses that are approximately in a line with the eyepieces.
+Roof-prisms designs create an instrument that is narrower and more compact than Porro prisms. There is also a difference in image brightness. Porro-prism binoculars will inherently produce a brighter image than Schmidt-Pechan roof-prism binoculars of the same magnification, objective size, and optical quality, because this roof-prism design employs silvered surfaces that reduce light transmission by 12% to 15%. Roof-prisms designs also require tighter tolerances for alignment of their optical elements (collimation). This adds to their expense since the design requires them to use fixed elements that need to be set at a high degree of collimation at the factory. Porro prisms binoculars occasionally need their prism sets to be re-aligned to bring them into collimation. The fixed alignment in roof-prism designs means the binoculars normally will not need re-collimation.
+
+
+=== Optical parameters ===
+
+Binoculars are usually designed for specific applications. These different designs require certain optical parameters which may be listed on the prism cover plate of the binoculars. Those parameters are:
+
+
+==== Magnification ====
+Given as the first number in a binocular description (e.g., 7x35, 8x50), magnification is the ratio of the focal length of the objective divided by the focal length of the eyepiece. This gives the magnifying power of binoculars (sometimes expressed as "diameters"). A magnification factor of 7, for example, produces an image 7 times larger than the original seen from that distance. The desirable amount of magnification depends upon the intended application, and in most binoculars is a permanent, non-adjustable feature of the device (zoom binoculars are the exception). Hand-held binoculars typically have magnifications ranging from 7x to 10x, so they will be less susceptible to the effects of shaking hands. A larger magnification leads to a smaller field of view and may require a tripod for image stability. Some specialized binoculars for astronomy or military use have magnifications ranging from 15x to 25x.
+
+
+==== Objective diameter ====
+Given as the second number in a binocular description (e.g., 7x35, 8x50), the diameter of the objective lens determines the resolution (sharpness) and how much light can be gathered to form an image. When two different binoculars have equal magnification, equal quality, and produce a sufficiently matched exit pupil (see below), the larger objective diameter produces a "brighter" 
+and sharper image. An 8×40, then, will produce a "brighter" and sharper image than an 8×25, even though both enlarge the image an identical eight times. The larger front lenses in the 8×40 also produce wider beams of light (exit pupil) that leave the eyepieces. This makes it more comfortable to view with an 8×40 than an 8×25. A pair of 10x50 binoculars is better than a pair of 8x40 binoculars for magnification, sharpness and luminous flux. Objective diameter is usually expressed in millimeters. It is customary to categorize binoculars by the magnification × the objective diameter; e.g., 7×50. Smaller binoculars may have a diameter of as low as 22 mm; 35 mm and 50 mm are common diameters for field binoculars; astronomical binoculars have diameters ranging from 70 mm to 150 mm.
+
+
+==== Field of view ====
+The field of view of a pair of binoculars depends on its optical design and in general is inversely proportional to the magnifying power. It is usually notated in a linear value, such as how many feet (meters) in width will be seen at 1,000 yards (or 1,000 m), or in an angular value of how many degrees can be viewed.
+
+
+==== Exit pupil ====
+Binoculars concentrate the light gathered by the objective into a beam, of which its diameter, the exit pupil, is the objective diameter divided by the magnifying power. For maximum effective light-gathering and brightest image, and to maximize the sharpness, the exit pupil should at least equal the diameter of the pupil of the human eye: about 7 mm at night and about 3 mm in the daytime, decreasing with age. If the cone of light streaming out of the binoculars is larger than the pupil it is going into, any light larger than the pupil is wasted. In daytime use, the human pupil is typically dilated about 3 mm, which is about the exit pupil of a 7×21 binocular. Much larger 7×50 binoculars will produce a cone of light bigger than the pupil it is entering, and this light will, in the daytime, be wasted. An exit pupil that is too small also will present an observer with a dimmer view, since only a small portion of the light-gathering surface of the retina is used. For applications where equipment must be carried (birdwatching, hunting), users opt for much smaller (lighter) binoculars with an exit pupil that matches their expected iris diameter so they will have maximum resolution but are not carrying the weight of wasted aperture.A larger exit pupil makes it easier to put the eye where it can receive the light; anywhere in the large exit pupil cone of light will do. This ease of placement helps avoid, especially in large field of view binoculars, vignetting, which brings to the viewer an image with its borders darkened because the light from them is partially blocked, and it means that the image can be quickly found, which is important when looking at birds or game animals that move rapidly, or for a seafarer on the deck of a pitching boat or ship. Narrow exit pupil binoculars also may be fatiguing because the instrument must be held exactly in place in front of the eyes to provide a useful image. Finally, many people use their binoculars at dusk, in overcast conditions, and at night, when their pupils are larger. Thus, the daytime exit pupil is not a universally desirable standard. For comfort, ease of use, and flexibility in applications, larger binoculars with larger exit pupils are satisfactory choices even if their capability is not fully used by day.
+
+
+==== Eye relief ====
+Eye relief is the distance from the rear eyepiece lens to the exit pupil or eye point. It is the distance the observer must position his or her eye behind the eyepiece in order to see an unvignetted image. The longer the focal length of the eyepiece, the greater the potential eye relief. Binoculars may have eye relief ranging from a few millimeters to 2.5 centimeters or more. Eye relief can be particularly important for eyeglass wearers. The eye of an eyeglass wearer is typically farther from the eye piece which necessitates a longer eye relief in order to avoid vignetting and, in the extreme cases, to conserve the entire field of view. Binoculars with short eye relief can also be hard to use in instances where it is difficult to hold them steady.
+
+
+==== Close focus distance ====
+Close focus distance is the closest point that the binocular can focus on. This distance varies from about 0.5 m to 30 m, depending upon the design of the binoculars. If the close focus distance is short with respect to the magnification, the binocular can be used also to see particulars not visible to the naked eye.
+
+
+==== Eyepieces ====
+
+Binocular eyepieces usually consist of three or more lens elements in two or more groups.  The lens furthest from the viewer's eye is called the field lens and that closest to the eye the eye lens.  The most common configuration is that invented in 1849 by Carl Kellner.  In this arrangement, the eye lens is a plano-concave/ double convex achromatic doublet (the flat part of the former facing the eye) and the field lens is a double-convex singlet.  A reversed Kellner eyepiece was developed in 1975 and in it the field lens is a double concave/ double convex achromatic doublet and the eye lens is a double convex singlet.  The reverse Kellner provides 50% more eye relief and works better with small focal ratios as well as having a slightly wider field.Wide field binoculars typically utilize some kind of Erfle configuration, patented in 1921.  These have five or six elements in three groups.  The groups may be two achromatic doublets with a double convex singlet between them or may all be achromatic doublets.  These eyepieces tend not to perform as well as Kellner eyepieces at high power because they suffer from astigmatism and ghost images.  However they have large eye lenses, excellent eye relief, and are comfortable to use at lower powers.
+
+
+== Mechanical design ==
+
+
+=== Focus and adjustment ===
+
+Binoculars have a focusing arrangement which changes the distance between ocular and objective lenses. Normally there are two different arrangements used to provide focus, "independent focus" and "central focusing":
+
+Independent focus is an arrangement where the two telescopes are focused independently by adjusting each eyepiece. Binoculars designed for heavy field use, such as military applications, traditionally have used independent focusing.
+Central focusing is an arrangement which involves rotation of a central focusing wheel to adjust both tubes together. In addition, one of the two eyepieces can be further adjusted to compensate for differences between the viewer's eyes (usually by rotating the eyepiece in its mount). Because the focal change effected by the adjustable eyepiece can be measured in the customary unit of refractive power, the dioptre, the adjustable eyepiece itself is often called a dioptre. Once this adjustment has been made for a given viewer, the binoculars can be refocused on an object at a different distance by using the focusing wheel to adjust both tubes together without eyepiece readjustment.There are "focus-free" or "fixed-focus" binoculars that have no focusing mechanism other than the eyepiece adjustments that are meant to be set for the user's eyes and left fixed. These are considered to be compromise designs, suited for convenience, but not well suited for work that falls outside their designed range.
+Binoculars can be generally used without eyeglasses by myopic (near-sighted) or hyperopic (far-sighted) users simply by adjusting the focus a little farther. Most manufacturers leave a little extra available focal-range beyond the infinity-stop/setting to account for this when focusing for infinity. People with severe astigmatism, however, may still need to use their glasses while using binoculars. 
+
+Some binoculars have adjustable magnification, zoom binoculars, intended to give the user the flexibility of having a single pair of binoculars with a wide range of magnifications, usually by moving a "zoom" lever. This is accomplished by a complex series of adjusting lenses similar to a zoom camera lens. These designs are noted to be a compromise and even a gimmick since they add bulk, complexity and fragility to the binocular. The complex optical path also leads to a narrow field of view and a large drop in brightness at high zoom. Models also have to match the magnification for both eyes throughout the zoom range and hold collimation to avoid eye strain and fatigue.Most modern binoculars are also adjustable via a hinged construction that enables the distance between the two telescope halves to be adjusted to accommodate viewers with different eye separation or "interpupillary distance". Most are optimized for the interpupillary distance (typically 56 mm) for adults.
+
+
+=== Image stability ===
+Some binoculars use image-stabilization technology to reduce shake at higher magnifications. This is done by having a gyroscope move part of the instrument, or by powered mechanisms driven by gyroscopic or inertial detectors, or via a mount designed to oppose and damp the effect of shaking movements. Stabilization may be enabled or disabled by the user as required. These techniques allow binoculars up to 20× to be hand-held, and much improve the image stability of lower-power instruments. There are some disadvantages: the image may not be quite as good as the best unstabilized binoculars when tripod-mounted, stabilized binoculars also tend to be more expensive and heavier than similarly specified non-stabilised binoculars.
+
+
+=== Alignment ===
+The two telescopes in binoculars are aligned in parallel (collimated), to produce a single circular, apparently three-dimensional, image. Misalignment will cause the binoculars to produce a double image. Even slight misalignment will cause vague discomfort and visual fatigue as the brain tries to combine the skewed images.Alignment is performed by small movements to the prisms, by adjusting an internal support cell or by turning external set screws, or by adjusting the position of the objective via eccentric rings built into the objective cell. Alignment is usually done by a professional,  although the externally mounted adjustment features can be accessed by the end user.
+
+
+== Optical coatings ==
+
+Because a typical binocular has 6 to 10 optical elements  with special characteristics and up to 16 air-to-glass surfaces, binocular manufacturers use different types of optical coatings for technical reasons and to improve the image they produce.
+
+
+=== Anti-reflective ===
+
+Anti-reflective coatings reduce light lost at every optical surface through reflection at each surface. Reducing reflection via anti-reflective coatings also reduces the amount of "lost" light present inside the binocular which would otherwise make the image appear hazy (low contrast). A pair of binoculars with good optical coatings may yield a brighter image than uncoated binoculars with a larger objective lens, on account of superior light transmission through the assembly. A classic lens-coating material is magnesium fluoride, which reduces reflected light from 5% to 1%. Modern lens coatings consist of complex multi-layers and reflect only 0.25% or less to yield an image with maximum brightness and natural colors.
+
+
+=== Phase correction ===
+In binoculars with roof prisms the light path is split into two paths that reflect on either side of the roof prism ridge. One half of the light reflects from roof surface 1 to roof surface 2. The other half of the light reflects from roof surface 2 to roof surface 1. If the roof faces are uncoated, the mechanism of reflection is Total Internal Reflection (TIR).  In TIR, light polarized in the plane of incidence (p-polarized) and light polarized orthogonal to the plane of incidence (s-polarized) experience different phase shifts.  As a consequence, linearly polarized light emerges from a roof prism elliptically polarized.  Furthermore, the state of elliptical polarization of the two paths through the prism is different.  When the two paths recombine on the retina (or a detector) there is interference between light from the two paths causing a distortion of the Point Spread Function and a deterioration of the image.  Resolution and contrast suffer.  These unwanted interference effects can be suppressed by vapor depositing a special dielectric coating known as a phase-correction coating or p-coating on the roof surfaces of the roof prism. This coating eliminates the difference in phase shift between s- and p- polarization so both paths have the same polarization and no interference degrades the image.  A metallic coating on the roof surfaces also eliminates the phase shift (although not completely).  Metallic coatings are simpler, easier to apply, and less costly.  However, the reflectivity is lower than the near-100% reflectivity of a phase-correcting coating, so a p-coating is desirable for low-light applications.
+Binoculars using either a Schmidt–Pechan roof prism or an Abbe–Koenig roof prism benefit from phase coatings. Porro prism binoculars do not split beams and therefore they do not require any phase coatings.
+
+
+=== Metallic mirror ===
+
+In binoculars with Schmidt–Pechan roof prisms, mirror coatings are added to some surfaces of the roof prism because the light is incident at one of the prism's glass-air boundaries at an angle less than the critical angle so total internal reflection does not occur. Without a mirror coating most of that light would be lost. Schmidt–Pechan roof prism aluminum mirror coating (reflectivity of 87% to 93%) or silver mirror coating (reflectivity of 95% to 98%) is used.
+In older designs silver mirror coatings were used but these coatings oxidized and lost reflectivity over time in unsealed binoculars. Aluminum mirror coatings were used in later unsealed designs because they did not tarnish even though they have a lower reflectivity than silver. Modern designs use either aluminum or silver. Silver is used in modern high-quality designs which are sealed and filled with a nitrogen or argon inert atmosphere so that the silver mirror coating does not tarnish.Porro prism binoculars and roof prism binoculars using the Abbe–Koenig roof prism do not use mirror coatings because these prisms reflect with 100% reflectivity using total internal reflection in the prism.
+
+
+=== Dielectric mirror ===
+
+Dielectric coatings are used in Schmidt–Pechan roof prisms to cause the prism surfaces to act as a dielectric mirror. The non-metallic dielectric reflective coating is formed from several multilayers of alternating high and low refractive index materials deposited on a prism's reflective surfaces.  This multi-multilayer coating increases reflectivity from the prism surfaces by acting as a distributed Bragg reflector. A well-designed dielectric coating can provide a reflectivity of more than 99% across the visible light spectrum. This reflectivity is much improved compared to either an aluminium mirror coating (87% to 93%) or silver mirror coating (95% to 98%).
+Porro prism binoculars and roof prism binoculars using the Abbe–Koenig roof prism do not use dielectric coatings because these prisms reflect with very high reflectivity using total internal reflection in the prism rather than requiring a mirror coating.
+
+
+=== Terms ===
+
+
+==== All binoculars ====
+The presence of any coatings is typically denoted on binoculars by the following terms:
+
+coated optics: one or more surfaces are anti-reflective coated with a single-layer coating.
+fully coated: all air-to-glass surfaces are anti-reflective coated with a single-layer coating. Plastic lenses, however, if used, may not be coated.
+multi-coated: one or more surfaces have anti-reflective multi-layer coatings.
+fully multi-coated: all air-to-glass surfaces are anti-reflective multi-layer coated.
+
+
+==== Roof prisms only ====
+phase-coated or P-coating: the roof prism has a phase-correcting coating
+aluminium-coated: the roof prism mirrors are coated with an aluminium coating (the default if a mirror coating isn't mentioned).
+silver-coated: the roof prism mirrors are coated with a silver coating
+dielectric-coated: the roof prism mirrors are coated with a dielectric coating
+
+
+== Applications ==
+
+
+=== General use ===
+
+Hand-held binoculars range from small 3 × 10 Galilean opera glasses, used in theaters, to glasses with 7 to 12 times magnification and 30 to 50 mm diameter objectives for typical outdoor use.
+Many tourist attractions have installed pedestal-mounted, coin-operated binoculars to allow visitors to obtain a closer view of the attraction.
+
+
+=== Land surveys and geographic data collection ===
+Although technology has surpassed using binoculars for data collection, historically these were advanced tools used by geographers and other geoscientists. Field glasses still today can provide visual aid when surveying large areas.
+
+
+=== Bird watching ===
+Birdwatching is a very popular hobby among nature and animal lovers; a binocular is their most basic tool because most human eyes cannot resolve sufficient detail to fully appreciate and/or study small birds. Typically binoculars with a magnification of 8x to 10x are used, though many manufacturers produce models with 7x magnification for a wider field of vision. The other main consideration for birdwatching binoculars is the size of the objective that collects light. A larger (e.g. 40–45mm) objective works better in low light and for seeing into foliage, but also makes for a heavier binocular than a 30–35mm objective. Weight may not seem a primary consideration when first hefting a pair of binoculars, but birdwatching involves a lot of holding-up-in-place. Careful shopping is advised by the birdwatching community.
+
+
+=== Hunting ===
+Hunters commonly use binoculars in the field as a way to see game animals that are too far away to spot with the naked eye. Hunters most commonly use 8x binoculars with light transmission and large enough objectives to gather light in low light conditions.
+
+
+=== Range finding ===
+Some binoculars have a range finding reticle (scale) superimposed upon the view. This scale allows the distance to the object to be estimated if the object's height is known (or estimable). The common mariner 7×50 binoculars have these scales with the angle between marks equal to 5 mil. One mil is equivalent to the angle between the top and bottom of an object one meter in height at a distance of 1000 meters.
+Therefore, to estimate the distance to an object that is a known height the formula is:
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              O
+              H
+            
+            Mil
+          
+        
+        ×
+        1000
+      
+    
+    {\displaystyle D={\frac {OH}{\text{Mil}}}\times 1000}
+  where:
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the Distance to the object in meters.
+
+  
+    
+      
+        O
+        H
+      
+    
+    {\displaystyle OH}
+   is the known Object Height.
+
+  
+    
+      
+        
+          Mil
+        
+      
+    
+    {\displaystyle {\text{Mil}}}
+   is the angular height of the object in number of Mil.With the typical 5 mil scale (each mark is 5 mil), a lighthouse that is 3 marks high and known to be 120 meters tall is 8000 meters distant.
+
+  
+    
+      
+        8000
+        
+          m
+        
+        =
+        
+          
+            
+              120
+              
+                m
+              
+            
+            
+              15
+              
+                mil
+              
+            
+          
+        
+        ×
+        1000
+      
+    
+    {\displaystyle 8000{\text{m}}={\frac {120{\text{m}}}{15{\text{mil}}}}\times 1000}
+  
+
+
+=== Military ===
+
+Binoculars have a long history of military use. Galilean designs were widely used up to the end of the 19th century when they gave way to porro prism types. Binoculars constructed for general military use tend to be more rugged than their civilian counterparts. They generally avoid fragile center focus arrangements in favor of independent focus, which also makes for easier, more effective weatherproofing. Prism sets in military binoculars may have redundant aluminized coatings on their prism sets to guarantee they don't lose their reflective qualities if they get wet.
+
+One variant form was called "trench binoculars", a combination of binoculars and periscope, often used for artillery spotting purposes. It projected only a few inches above the parapet, thus keeping the viewer's head safely in the trench.
+Military binoculars of the Cold War era were sometimes fitted with passive sensors that detected active IR emissions, while modern ones usually are fitted with filters blocking laser beams used as weapons. Further, binoculars designed for military usage may include a stadiametric reticle in one ocular in order to facilitate range estimation.
+
+There are binoculars designed specifically for civilian and military use at sea. Hand held models will be 5× to 7× but with very large prism sets combined with eyepieces designed to give generous eye relief. This optical combination prevents the image vignetting or going dark when the binoculars are pitching and vibrating relative to the viewer's eye. Large, high-magnification models with large objectives are also used in fixed mountings.
+Very large binocular naval rangefinders (up to 15 meters separation of the two objective lenses, weight 10 tons, for ranging World War II naval gun targets 25 km away) have been used, although late-20th century technology made this application mostly redundant.
+
+
+=== Astronomical ===
+
+Binoculars are widely used by amateur astronomers; their wide field of view makes them useful for comet and supernova seeking (giant binoculars) and general observation (portable binoculars). Binoculars specifically geared towards astronomical viewing will have larger aperture objectives (in the 70 mm or 80 mm range) because the diameter of the objective lens increases the total amount of light captured, and therefore determines the faintest star that can be observed. Binoculars designed specifically for astronomical viewing (often 80 mm and larger) are sometimes designed without prisms in order to allow maximum light transmission. Such binoculars also usually have changeable eyepieces to vary magnification. Binoculars with high magnification and heavy weight usually require some sort of mount to stabilize the image. A magnification of 10x is generally considered the practical limit for observation with handheld binoculars. Binoculars more powerful than 15×70 require support of some type.  Much larger binoculars have been made by amateur telescope makers, essentially using two refracting or reflecting astronomical telescopes.
+Of particular relevance for low-light and astronomical viewing is the ratio between magnifying power and objective lens diameter. A lower magnification facilitates a larger field of view which is useful in viewing the Milky Way and large nebulous objects (referred to as deep sky objects) such as the nebulae and galaxies. The large (typical 7 mm using 7x50) exit pupil [objective (mm)/power] of these devices results in a small portion of the gathered light not being usable by individuals whose pupils do not sufficiently dilate. For example, the pupils of those over 50 rarely dilate over 5 mm wide. The large exit pupil also collects more light from the background sky, effectively decreasing contrast, making the detection of faint objects more difficult except perhaps in remote locations with negligible light pollution. Many astronomical objects of 8 magnitude or brighter, such as the star clusters, nebulae and galaxies listed in the Messier Catalog, are readily viewed in hand-held binoculars in the 35 to 40 mm range, as are found in many households for birding, hunting, and viewing sports events. For observing smaller star clusters, nebulae, and galaxies binocular magnification is an important factor for visibility because these objects appear tiny at typical binocular magnifications.
+
+Some open clusters, such as the bright double cluster (NGC 869 and NGC 884) in the constellation Perseus, and globular clusters, such as M13 in Hercules, are easy to spot. Among nebulae, M17 in Sagittarius and the North America Nebula (NGC 7000) in Cygnus are also readily viewed. Binoculars can show a few of the wider-split binary stars such as Albireo in the constellation Cygnus.
+A number of Solar System objects that are mostly to completely invisible to the human eye are reasonably detectable with medium-size binoculars, including larger craters on the Moon; the dim outer planets Uranus and Neptune; the inner "minor planets" Ceres, Vesta and Pallas; Saturn's largest moon Titan; and the Galilean moons of Jupiter. Although visible unaided in pollution-free skies, Uranus and Vesta require binoculars for easy detection. 10×50 binoculars are limited to an apparent magnitude of +9.5 to +11 depending on sky conditions and observer experience. Asteroids like Interamnia, Davida, Europa and, unless under exceptional conditions, Hygiea, are too faint to be seen with commonly sold binoculars. Likewise too faint to be seen with most binoculars are the planetary moons, except the Galileans and Titan, and the dwarf planets Pluto and Eris. Other difficult binocular targets include the phases of Venus and the rings of Saturn. Only binoculars with very high magnification, 20x or higher, are capable of discerning Saturn's rings to a recognizable extent.  High-power binoculars can sometimes show one or two cloud belts on the disk of Jupiter if optics and observing conditions are sufficiently good.
+Binoculars can also aid in observation of human-made space objects, such as spotting satellites in the sky as they pass.
+
+
+== List of binocular manufacturers ==
+There are many companies that manufacturer binoculars, both past and present. They include:
+
+Barr and Stroud (UK) – sold binoculars commercially and primary supplier to the Royal Navy in WWII. The new range of Barr & Stroud binoculars are currently made in China (Nov. 2011) and distributed by Optical Vision Ltd.
+Bausch & Lomb (US) – has not made binoculars since 1976, when they licensed their name to Bushnell, Inc., who made binoculars under the Bausch & Lomb name until the license expired, and was not renewed, in 2005.
+BELOMO (Belarus) – both porro prism and roof prism models manufactured.
+Bresser (Germany)
+Bushnell Corporation (US)
+Burris Optics (US)
+Blaser – Premium binoculars
+Canon Inc (Japan) – I.S. series: porro variants
+Celestron
+Docter Optics (Germany) – Nobilem series: porro prisms
+Fujinon (Japan) – FMTSX, FMTSX-2, MTSX series: porro
+Hawke Optics (UK)
+I.O.R. (Romania)
+Krasnogorsky Zavod (Russia) – both porro prism and roof prism models, models with optical stabilizers. The factory is part of the Shvabe Holding Group
+Kahles Optik
+Leica Camera (Germany) – Noctivid, Ultravid, Duovid, Geovid, Trinovid: most are roof prism, with a few high end porro prism examples
+Leupold & Stevens, Inc (US)
+Meade Instruments (US) – Glacier (roof prism), TravelView (porro), CaptureView (folding roof prism) and Astro Series (roof prism). Also sells under the name Coronado.
+Meopta (Czech Republic) – Meostar B1 (roof prism)
+Minox
+Nikon (Japan) – EDG, High Grade, Monarch 3, 5, 7, RAII, and Spotter series: roof prism; Prostar, Superior E, E, and Action EX series: porro; Prostaff series, Aculon series
+Olympus Corporation (Japan)
+Pentax (Japan) – DCFED/SP/XP series: roof prism; UCF series: inverted porro; PCFV/WP/XCF series: porro
+Steiner-Optik (in German) (Germany)
+PRAKTICA (United Kingdom) for birdwatching, sightseeing, hiking, camping.
+Sunagor (Japan)
+Sightron – roof prism binoculars 
+Swarovski Optik
+Takahashi Seisakusho (Japan)
+Tasco
+Vixen (telescopes) (Japan) – Apex/Apex Pro: roof prism; Ultima: porro
+Vivitar (US)
+Vortex Optics (US)
+Zeiss (Germany) – FL, Victory, Conquest: roof prism; 7×50 BGAT/T: porro, 15×60 BGA/T: porro, discontinued
+Zenith (Japan)
+Zrak (Yugoslavia, Bosnia, Sarajevo, Teslic)
+
+
+== See also ==
+Anti-fog
+Binoviewer
+Globe effect
+Lens
+List of telescope types
+Monocular
+Optical telescope
+Spotting scope
+Tower viewer
+
+
+== References ==
+
+
+== Further reading ==
+Walter J. Schwab, Wolf Wehran: "Optics for Hunting and Nature Observation". ISBN 978-3-00-034895-2. 1st Edition, Wetzlar (Germany), 2011
+
+
+== External links ==
+The history of the telescope & the binocular by Peter Abrahams, May 2002

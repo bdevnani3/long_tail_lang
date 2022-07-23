@@ -1,0 +1,111 @@
+Pharmaceutical packaging (or drug packaging) is the packages and the packaging processes for pharmaceutical preparations. It involves all of the operations from production through drug distribution channels to the end consumer.  
+Pharmaceutical packaging is highly regulated but with some variation in the details, depending on the country of origin  or the region. Several common factors can include:  assurance of patient safety, assurance of the efficacy of the drug through the intended shelf life, uniformity of the drug through different production lots, thorough documentation of all materials and processes, control of possible migration of packaging components into the drug, control of degradation of the drug by oxygen, moisture, heat, etc., prevention of microbial contamination, sterility, etc. Packaging is often involved in dispensing, dosing, and use of the pharmaceutical product. Communication of proper use and cautionary labels are also regulated. Packaging is an integral part of pharmaceutical product. 
+
+
+== Segments of usage ==
+Pharmaceutical packaging can often be thought of by the segment in the distribution system being encountered and by the functions needed by the user of the package.   Packaging requirements are different.
+
+Bulk pharmaceuticals can be shipped to another pharmaceutical company for further processing, to a contract packager for forming unit packs, to international customers, etc.               Bulk shipments might be in fiber drums (with plastic liners), bulk boxes, corrugated boxes with liners, intermediate bulk containers, and other shipping containers.
+Smaller bulk packs can be shipped to pharmacies, particularly compounding pharmacies.  The liquids or powders can be measured and put into primary packages.
+Shipments to medical professionals could be at hospitals, nursing homes, veterinarians, dentists, etc.    These packaged  pharmaceuticals are intended to be dispensed and administered by professionally trained and certified personnel.  
+
+Drugs under prescription control are sent to pharmacies in multi-packs of unit packs or in bottles containing many hundreds of capsules.     Typically  a pharmacist prepares the final form of the unit pack or places a lower count of capsules in a small bottle for the customer.  In a pharmacy, pharmacists are available to answer questions and to ensure that proper documentation is provided.  Internet pharmacies mail the prescribed drugs to the customer; boxes or mailing envelopes are used.  Child resistant packaging is often required on the unit packs; if requested, a pharmacist is allowed put drugs in a bottle with easy open features.
+Over-the-counter drugs are sold in drug stores, grocery stores, and diverse retail outlets.  Usually the package needs to have all the usage information available.  Packages often need to have tamper resistant features and child-resistant packaging.
+Usually the packaging and labeling of dietary supplements, homeopathic drugs, and folk medicines are not regulated.  Some producers voluntarily follow the regulations for over-the-counter drugs or regional Pharmacopoeias.
+
+
+== Package forms ==
+The wide variety of pharmaceutical solids, liquids, and gasses are packaged in a wide variety of packages.  Some of the common primary packages are:
+
+
+=== Blister packs ===
+
+Formed solid unit doses of pharmaceuticals (capsules, suppositories,  tablets, etc.) are commonly packed in blister packs.  In Europe about 85% of solid unit doses are packed in blister packs with only about 20% in North America.Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs.  The primary component of a blister pack is a cavity or pocket made from a thermoformed plastic. This usually has a backing of paperboard or a lidding seal of aluminum foil or plastic film. Blister packs are useful for protecting drugs against external factors, such as humidity and contamination for extended periods of time.
+Blister packing machinery is readily available and is suited to validation processes.
+
+
+=== Bottles ===
+
+Bottles are commonly used for liquid pharmaceuticals as well as formed tablets and capsules.   Glass is most common for liquids because it is inert and has excellent barrier properties.   Various types of plastic bottles are used both by drug producers as well as by pharmacists in a pharmacy.
+Prescription bottles have been around since the 19th century. Throughout the 19th and 20th centuries, prescription medication bottles were called medicinal bottles. There are many styles and shapes of prescription bottles. Bottles would often include cotton to cushion powdery, breakable pills. In modern times, pills are coated, and thus the inclusion of a cotton ball is no longer necessary. The U.S. National Institute of Health recommends consumers remove any cotton balls from opened pill bottles, as cotton balls may attract moisture into the bottle.Prescription bottles come in several different colors, the most common of which being orange or light brown due to its ability to prevent ultraviolet light from degrading the potentially photosensitive contents through photochemical reactions, while still letting enough visible light through for the contents to be easily visible. Other common colors include: Clear (for compounds that don't degrade in light), blue, dark brown, green, and various opaque hues.
+
+
+== Temperature ==
+
+Many pharmaceutical products are sensitive to heat or cold. Controlled distribution systems and sometimes cold chains are  required.   
+A mail order or online pharmacy usually ships orders by mail services or by small parcel carrier.  The shipment is not temperature-controlled and it may sit in a mail box upon delivery.  Conditions can include high or low temperatures outside of the recommended storage conditions for certain products. For example, the USFDA found that the temperature in a steel mailbox painted black could reach 136 °F (58 °C) in full sun while the ambient air temperature was 101 °F (38 °C).  Insulated mailing envelopes are sometimes used.
+Larger shipments are sent in insulated shipping containers with dry ice or gel packs. A digital temperature data logger or a time temperature indicator is often enclosed to monitor the temperature inside the container for its entire shipment.
+
+
+== Moisture ==
+Many dry pharmaceuticals are sensitive to moisture.  Tablets may become unstable and the drug may degrade.  High barrier packaging (including seals) is necessary but, by itself, is often not enough.
+Shelf life of a moisture-sensitive drug can be extended by means of desiccants.   
+Several types of dessicants are available; the type and quantity need to be matched to the particular drug and package.  One common method is to include a small packet of dessicant in a bottle.  Other methods of including desiccants attached to the inner surface or in the material have recently been developed.
+
+
+== Counterfeiting ==
+
+Counterfeit drugs are a serious problem;  people can be taking useless drugs or even very dangerous drugs without knowing it.  Custom package seals, authentication labels, holograms, and security printing,  can be valued parts of an entire security system. They help verify that enclosed drugs are what the package says they are. Drug counterfeiters, however, often work with package counterfeiters, some of whom can be sophisticated. No packaging system is completely secure.
+
+
+== Prescription labels ==
+Medication packaging includes a document that provides information about that drug and its use.  For prescription medications, the insert is technical, and provides information for medical professionals about how to prescribe the drug. Package inserts for prescription drugs often include a separate document called a "patient package insert" with information written in plain language intended for the end-user -- the person who will take the drug or give the drug to another person, for example a minor.  Inserts for over-the-counter medications are also written plainly.In the US the document is called "prescribing information" or the "package insert" (PI) and layperson's document is called the "patient package insert" (PPI).  In Europe the technical document is called the "summary of product characteristics" and the document for end-users is called the "package leaflet".The bottle or box also has information printed on it, intended for the person taking the medication.
+
+
+== Packaging production ==
+
+All aspects of pharmaceutical production, including packaging, are tightly controlled and have regulatory requirements.   Uniformity, cleanliness (washdown), sterility, and other requirements are needed to maintain Good Manufacturing Practices. 
+Product safety management is vital.  A complete Quality Management System must be in place.  Validation involves collecting documentary evidence of all aspects of compliance.   Hazard analysis and critical control points is a methodology which has been proven useful.   Quality assurance extends beyond the packaging operations through distribution and cold chain management; Good distribution practice is often a regulatory requirement. Track and trace systems are usually required.
+With a large portion of  pharmaceutical packaging being outsourced to contract packagers,  additional demand is being placed on specialty areas, i.e. specialty dosage forms.
+
+
+== Examples ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+Child-resistant packaging
+Codex Alimentarius
+Track and trace
+Product recall
+Contract manufacturing organization
+European Pharmacopoeia
+
+
+== References ==
+
+
+=== General references ===
+anon, Guidance for Industry:Q8 (R2) Pharmaceutical Development, US FDA, 2009, [1]
+anon, Guidance for Industry:  Container Closure Systems for Packaging Human Drugs and Biologics, May 1999, Food and Drug Administration, Center for Drug Evaluation and Research,  [2]
+Lockhart, H., and Paine, F.A.,  "Packaging of Pharmaceuticals and Healthcare Products", 2006, Blackie, ISBN 0-7514-0167-6
+Pilchik, R., "Validating Medical Packaging" 2002, ISBN 1-56676-807-1
+Rosette, J. L, "Improving Tamper-Evident Packaging: Problems, Tests and Solutions",  1992
+Soroka, W, "Fundamentals of Packaging Technology", IoPP, 2002, ISBN 1-930268-25-4
+Soroka, W, Illustrated Glossary of Packaging Terminology,  Institute of Packaging Professionals, [3]
+Yam, K. L., "Encyclopedia of Packaging Technology", John Wiley & Sons, 2009, ISBN 978-0-470-08704-6
+
+
+== External links ==
+Processing Radioactive Materials - large set of images by the IAEA showing automated package labelling and tracking for shipment of hazardous radioactive pharmaceuticals.
+FDA Compliance Policy Guides - CPG Sec. 450.500 Tamper-Resistant Packaging Requirements for Certain Over-the-Counter Human Drug Products

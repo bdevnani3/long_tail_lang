@@ -1,0 +1,72 @@
+A threshing machine or a thresher is a piece of farm equipment that threshes grain, that is, it removes the seeds from the stalks and husks. It does so by beating the plant to make the seeds fall out.
+Before such machines were developed, threshing was done by hand with flails: such hand threshing was very laborious and time-consuming, taking about one-quarter of agricultural labour by the 18th century. Mechanization of this process removed a substantial amount of drudgery from farm labour. The first threshing machine was invented circa 1786 by the Scottish engineer Andrew Meikle, and the subsequent adoption of such machines was one of the earlier examples of the mechanization of agriculture. During the 19th century, threshers and mechanical reapers and reaper-binders gradually became widespread and made grain production much less laborious.
+Michael Stirling is said to have invented a rotary threshing machine in 1758 which for forty years was used to process all the corn on his farm at Gateside. No published works have yet been found, but his son William made a sworn statement to his minister to this fact. He also gave him the details of his father's death in 1796.Separate reaper-binders and threshers have largely been replaced by machines that combine all of their functions, that is combine harvesters or combines. However, the simpler machines remain important as appropriate technology in low-capital farming contexts, both in developing countries and in developed countries on small farms that strive for especially high levels of self-sufficiency. For example, pedal-powered threshers are a low-cost option, and some Amish sects use horse-drawn binders and old-style threshers.
+As the verb thresh is cognate with the verb thrash (and synonymous in the grain-beating sense), the names thrashing machine and thrasher are (less common) alternate forms.
+
+
+== Early social impacts ==
+
+The Swing Riots in the UK were partly a result of the threshing machine. Following years of war, high taxes and low wages, farm labourers finally revolted in 1830. These farm labourers had faced unemployment for a number of years due to the widespread introduction of the threshing machine and the policy of enclosing fields. No longer were thousands of men needed to tend the crops, a few would suffice. With fewer jobs, lower wages and no prospects of things improving for these workers the threshing machine was the final straw, the machine was to place them on the brink of starvation. The Swing Rioters smashed threshing machines and threatened farmers who had them.
+The riots were dealt with very harshly. Nine of the rioters were hanged and a further 450 were transported to Australia.
+
+
+== Later adoption ==
+
+Early threshing machines were hand-fed and horse-powered. Some were housed in a specially constructed building, a gin gang, which would be attached to a threshing barn. They were small by today's standards and were about the size of an upright piano.  Later machines were steam-powered, driven by a portable engine or traction engine. Isaiah Jennings, a skilled inventor, created a small thresher that does not harm the straw in the process. In 1834, John Avery and Hiram Abial Pitts devised significant improvements to a machine that automatically threshes and separates grain from the chaff, freeing farmers from a slow and laborious process. Avery and Pitts were granted United States patent #542 on December 29, 1837.John Ridley, an Australian inventor, also developed a threshing machine in South Australia in 1843.The 1881 Household Cyclopedia said of Meikle's machine:
+
+"Since the invention of this machine, Mr. Meikle and others have progressively introduced a variety of improvements, all tending to simplify the labour, and to augment the quantity of the work performed. When first erected, though the grain was equally well separated from the straw, yet as the whole of the straw, chaff, and grain, was indiscriminately thrown into a confused heap, the work could only with propriety be considered as half executed. By the addition of rakes, or shakers, and two pairs of fanners, all driven by the same machinery, the different processes of thrashing, shaking, and winnowing are now all at once performed, and the grain immediately prepared for the public market. When it is added, that the quantity of grain gained from the superior powers of the machine is fully equal to a twentieth part of the crop, and that, in some cases, the expense of thrashing and cleaning the grain is considerably less than what was formerly paid for cleaning it alone, the immense saving arising from the invention will at once be seen.""The expense of horse labour, from the increased value of the animal and the charge of his keeping, being an object of great importance, it is recommended that, upon all sizable farms, that is to say, where two hundred acres [800,000 m²], or upwards, of grain are sown, the machine should be worked by wind, unless where local circumstances afford the conveniency of water.  Where coals are plenty and cheap, steam may be advantageously used for working the machine."Steam-powered machines used belts connected to a traction engine; often both engine and thresher belonged to a contractor who toured the farms of a district. Steam remained a viable commercial option until the early post-WWII years.
+
+
+== Farming process ==
+Threshing is just one step of the process in getting cereals to the grinding mill and customer.
+The wheat needs to be grown, cut, stooked (shocked, bundled), hauled, threshed, de-chaffed, straw baled, and then the grain hauled to a grain elevator. For many years each of these steps was an individual process, requiring teams of workers and many machines. In the steep hill wheat country of Palouse in the Northwest of the United States, steep ground meant moving machinery around was problematic and prone to rolling. To reduce the amount of work on the sidehills, the idea arose of combining the wheat binder and thresher into one machine, known as a combine harvester.  About 1910, horse pulled combines appeared and became a success.  Later, gas and diesel engines appeared with other refinements and specifications.
+
+
+== Modern developments ==
+
+
+=== In Europe and Americas ===
+
+Modern day combine harvesters (or simply combines) operate on the same principles and use the same components as the original threshing machines built in the 19th century.  Combines also perform the reaping operation at the same time.  The name combine is derived from the fact that the two steps are combined in a single machine.  Also, most modern combines are self-powered (usually by a diesel engine) and self-propelled, although tractor powered, pull type combines models were offered by John Deere and Case International into the 1990s.
+Today, as in the 19th century, the threshing begins with a cylinder and concave.  The cylinder has sharp serrated bars, and rotates at high speed (about 500 RPM), so that the bars beat against the entire plant as it is mechanically fed from the reaping equipment at the front of the combine to the gap between the concave and the rotating beater/cylinder.  The concave is curved to match the curve of the cylinder, and the grain, now separated from the plant stalks falls immediately through grated openings in the concave as it is beaten.  The motion of the rotating cylinder thrusts the remaining straw and chaff toward the rear of the machine.
+Whilst the majority of the grain falls through the concave, the straw is carried by a set of "walkers" to the rear of the machine, allowing any grain and chaff still in the straw to fall below.  Below the straw walkers, a fan blows a stream of air across the grain, removing dust and small bits of crushed plant material out of the back of the combine. The residues fall to the ground and occasional are collected for other purposes, such as fodder.
+The grain, either coming through the concave or the walkers, meets a set of sieves mounted on an assembly called a shoe, which is shaken mechanically.  The top sieve has larger openings, and serves to remove large pieces of chaff from the grain.  The lower sieve separates clean grain, which falls through, from incompletely threshed pieces.  The incompletely threshed grain is returned to the cylinder by means of a system of conveyors, where the process repeats.
+Some threshing machines were equipped with a bagger, which invariably held two bags, one being filled, and the other being replaced with an empty.  A worker called a sewer removed and replaced the bags, and sewed full bags shut with a needle and thread.  Other threshing machines would discharge grain from a conveyor, for bagging by hand.  Combines are equipped with a grain tank, which accumulates grain for deposit in a truck or wagon.
+A large amount of chaff and straw would accumulate around a threshing machine, and several innovations, such as the air chaffer, were developed to deal with this.  Combines generally chop and disperse straw as they move through the field, though the chopping is disabled when the straw is to be baled, and chaff collectors are sometimes used to prevent the dispersal of weed seed throughout a field.
+The corn sheller was almost identical in design, with slight modifications to deal with the larger kernel size and presence of cobs.  Modern-day combines can be adjusted to work with any grain crop, and many unusual seed crops.
+Both the older and modern machines require a good deal of effort to operate. The concave clearance, cylinder speed, fan velocity, sieve sizes, and feeding rate must be adjusted for crop conditions.
+
+
+=== Another development in Asia ===
+
+From the early 20th century, petrol or diesel-powered threshing machines, designed especially to thresh rice, the most important crop in Asia, have been developed along different lines to the modern combine.
+Even after the combine was invented and became popular, a new compact-size thresher called a harvester, with wheels, still remains in use and at present it is available from a Japanese agricultural manufacturer. The compact-size machine is very convenient to handle in small terrace fields in mountain areas where a large machine, such as combine, is not usable.
+People there use this harvester with a modern compact binder.
+
+
+== Preservation ==
+A number of older threshing machines have survived into preservation. They are often to be seen in operation at live steam festivals and traction engine rallies such as the Great Dorset Steam Fair in England, and the Western Minnesota Steam Threshers Reunion in northwest Minnesota.
+
+
+=== Musical references ===
+Irish songwriter John Duggan immortalised the threshing machine in the song "The Old Thrashing Mill".  The song has been recorded by Foster and Allen and Brendan Shine.
+On the Alan Lomax collection Songs of Seduction (Rounder Select, 2000), there is a bawdy Irish folk song called "The Thrashing Machine" sung by tinker Annie O'Neil, as recorded in the early 20th century.
+In his film score for Of Mice and Men (1939) and consequently in his collection Music for the Movies (1942), American composer Aaron Copland titled a section of the score "Threshing Machines," to suit a scene in the Lewis Milestone film where Curley is threatening Slim over giving May a puppy, when many of the itinerant worker men are standing around or working on threshers.
+In the song "Thrasher" from the album Rust Never Sleeps, Neil Young compares the modern threshing machine's technique of separating wheat from wheat stalks to the natural forces of time that separate close friends from one another.
+Threshing machines appear in Twenty One Pilots' music video for the song "House of Gold".
+
+
+== See also ==
+Living van
+Swing riots
+Threshing
+Rice huller
+Russell & Company (Steam Tractor) – American manufacturer of 22,000 threshing machines
+
+
+== References ==
+
+
+== External links ==
+Threshing Machines: Introduction at the Canada Science and Technology Museum
+Model of threshing machine (in Danish)

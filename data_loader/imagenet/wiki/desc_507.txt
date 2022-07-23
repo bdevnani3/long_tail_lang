@@ -1,0 +1,50 @@
+A combination lock is a type of locking device in which a sequence of symbols, usually numbers, is used to open the lock. The sequence may be entered using a single rotating dial which interacts with several discs or cams, by using a set of several rotating discs with inscribed symbols which directly interact with the locking mechanism, or through an electronic or mechanical keypad. Types range from inexpensive three-digit luggage locks to high-security safes. Unlike ordinary padlocks, combination locks do not use keys.
+
+
+== History ==
+The earliest known combination lock was excavated in a Roman period tomb on the Kerameikos, Athens. Attached to a small box, it featured several dials instead of keyholes. In 1206, the Muslim engineer Al-Jazari documented a combination lock in his book al-Ilm Wal-Amal al-Nafi Fi Sina'at al-Hiyal (The Book of Knowledge of Ingenious Mechanical Devices). Muhammad al-Astrulabi (ca. 1200) also made combination locks, two of which are kept in Copenhagen and Boston Museums.
+Gerolamo Cardano later described a combination lock in the 16th century.
+US Patents regarding combination padlocks by J.B.Gray in 1841 and by J.E.Treat in 1869 describe themselves as improvements, suggesting that such mechanisms were already in use.
+Joseph Loch was said to have invented the modern combination lock for Tiffany's Jewelers in New York City, and from the 1870s to the early 1900s made many more improvements in the designs and functions of such locks., however his patent claim states "I do not claim as my invention a tumbler composed of two disks, one working within the other, such not being my invention.", but there is no reference to prior art of this type of lock.
+The first commercially viable single-dial combination lock was patented on 1 February 1910 by John Junkunc, owner of American Lock Company.
+
+
+== Types ==
+
+
+=== Multiple-dial locks ===
+One of the simplest types of combination lock, often seen in low-security bicycle locks and in briefcases, uses several rotating discs with notches cut into them.  The lock is secured by a pin with several teeth on it which hook into the rotating discs.  When the notches in the discs align with the teeth on the pin, the lock can be opened.
+
+
+=== Single-dial locks ===
+Combination locks found on padlocks, lockers, or safes may use a single dial which interacts with several parallel discs or cams. Customarily, a lock of this type is opened by rotating the dial clockwise to the first numeral, counterclockwise to the second, and so on in an alternating fashion until the last numeral is reached. The cams typically have an indentation or notch, and when the correct combination is entered, the notches align, allowing the latch to fit into them and open the lock.
+The C. L. Gougler Keyless Locks Company manufactured locks for which the combination was a set number of audible clicks to the left and right, allowing them to be unlocked in darkness or by the vision-impaired.In 1978 a combination lock which could be set by the user to a sequence of his own choosing was invented by Andrew Elliot Rae. At this time the electronic keypad was invented and he was unable to get any manufacturers to back his mechanical lock for lockers, luggage, or brief-cases. The silicon chip locks never became popular due to the need for battery power to maintain their integrity. The patent expired and the original mechanical invention was instantly manufactured and sold worldwide mainly for luggage, lockers, and hotel safes. It is now a standard part of the luggage used by travellers.
+
+
+=== Other designs ===
+Many doors use combination locks which require the user to enter a numeric sequence on a keypad to gain entry. These special locks usually require the additional use of electronic circuitry, although purely mechanical keypad locks have been available since 1936. The chief advantage of this system is that multiple persons can be granted access without having to supply an expensive physical key to each person. Also, in case the one of the keys is compromised, "changing" the lock requires only configuring a new key code and informing the users, which will generally be cheaper and quicker than the same process for traditional key locks.
+Electronic combination locks, while generally safe from the attacks on their mechanical counterparts, suffer from their own set of flaws. If the arrangement of numbers is fixed, it is easy to determine the lock sequence by viewing several successful accesses. Similarly, the numbers in the combination (but not the actual sequence) may be determined by which keys show signs of recent use. More advanced electronic locks may scramble the numbers' locations randomly to prevent these attacks.
+There is a variation of the traditional dial based combination lock wherein the "secret" is encoded in an electronic microcontroller.  These are popular for safe and vault doors where tradition tends towards dial locks rather than keys.  They allow many valid combinations, one per authorized user, so changing one person's access has no effect on other users.  These locks often have auditing features, recording which combination is used at what time for every opening.  Power for the lock may be provided by a battery or by a tiny generator set in operation by spinning the dial.
+
+
+== Internal mechanisms ==
+A relock trigger, or internal relocker, is an integral part of the combination lock itself.  It is usually designed to activate when the dial spindle is punched through.  The trigger may consist of a spring-loaded lever or plunger that engages the bolt when the back cover is dislodged from the lock case.  Some combination locks also are equipped with a thermal relock trigger that activates in the event of a torch attack. Nearly all safes made after World War II have relock triggers in their combination locks.
+
+
+== Manufacturers ==
+ABUS
+Master Lock
+Sargent and Greenleaf
+Wordlock
+Dudley
+Conair
+Kaba Mas
+
+
+== References ==
+
+
+== External links ==
+How Combination Locks Work HowStuffWorks.com
+Wooden combination lock
+Locksoft glossary

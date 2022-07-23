@@ -1,0 +1,100 @@
+A military aircraft is any fixed-wing or rotary-wing aircraft that is operated by a legal or insurrectionary armed service of any type. Military aircraft can be either combat or non-combat:
+
+Combat aircraft are designed to destroy enemy equipment using their own aircraft ordnance. Combat aircraft are typically developed and procured only by military forces.
+Non-combat aircraft are not designed for combat as their primary function, but may carry weapons for self-defense. These mainly operate in support roles, and may be developed by either military forces or civilian organizations.
+
+
+== History ==
+
+
+=== Lighter-than-air ===
+In 1783, when the first practical aircraft (hot-air and hydrogen balloons) were established, they were quickly adopted for military duties. The first military balloon unit was the French Aerostatic Corps, who in 1794 flew an observation balloon during the Battle of Fleurus, the first major battle to feature aerial observation. Balloons continued to be used throughout the 19th Century, including in the Napoleonic Wars and the Franco-Prussian war, for observation and propaganda distribution. During the First World War, German Zeppelin airships carried out multiple air raids on British cities, as well as being used for observation. In the 1920s, the U.S. Navy acquired several non-rigid airships, the first one to see service being the K-1 in 1931. Use by the US as well as other countries continued into the Second World War, the US Navy finally retiring its last balloons in 1962.
+
+
+=== Heavier-than-air ===
+Soon after the first flight of the Wright Flyer, several militaries became interested in powered aircraft. In 1909 the US Army purchased the Wright Military Flyer, a two-seat observation aircraft, for the Aeronautical Division, U.S. Signal Corps. It served until 1911, by which time powered aircraft had become an important feature in several armies around the world. Airplanes performed reconnaissance and tactical bombing missions in the Italo-Turkish war, and the First Balkan War saw the first naval-air operations. Photoreconnaissance and propaganda leaflet drops followed in the Second Balkan War.
+Air combat was a notable component of World War I, as fighter aircraft were developed during the war, long-range strategic bombing became a possibility, and airplanes were deployed from aircraft carriers. Airplanes also took on a greater variety of support roles, notably medical evacuation, and deployed new weapons like air-to-air rockets for use against reconnaissance balloons.Aviation technology advanced rapidly in the interwar period, and military aircraft became increasingly capable. Autogyros and helicopters were also developed at this time.During World War II, military aviation reached new heights. Decisive air battles influenced the outcome of the war, early jet aircraft flew combat missions, cruise missiles and ballistic missiles were deployed for the first time, airborne troops and cargo parachuted into battle, and the nuclear weapons that ended the war were delivered by air.
+In the Cold War era, aviation technology continued to advance at an extremely rapid pace. Jet aircraft exceeded Mach 1 and Mach 2, armament focus switched mainly to missiles, aircraft began carrying more sophisticated avionics, air-to-air refueling matured into practicality, and transport aircraft grew in size. Stealth aircraft entered development during the 1970s and saw combat in the 1980s.
+
+
+== Combat ==
+
+Combat aircraft, or "Warplanes", are divided broadly into multi-role, fighters, bombers, attackers, and electronic warfare support.
+Variations exist between them, including fighter-bombers, such as the MiG-23 ground-attack aircraft and the Soviet Ilyushin Il-2 Shturmovik. Also included among combat aircraft are long-range maritime patrol aircraft, such as the Hawker Siddeley Nimrod and the S-3 Viking that are often equipped to attack with anti-ship missiles and anti-submarine weapons.
+
+
+=== Fighters ===
+
+The primary role of fighters is destroying enemy aircraft in air-to-air combat, as part of both offensive and defensive counter air operations. Many fighters also possess a degree of ground attack capability, allowing them to perform surface attack and close air support missions. In addition to their counter air duties they are tasked to perform escort mission for bombers or other aircraft. Fighters are capable of carrying a variety of weapons, including machine guns, cannons, rockets, guided missiles, and bombs.  Many modern fighters can attack enemy fighters from a great distance, before the enemy even sees or detects them. Examples of fighters include the F-35 Lightning II, F-22 Raptor, F-15 Eagle, and Su-27.
+
+
+=== Bombers ===
+
+Bombers are normally larger, heavier, and less maneuverable than fighter aircraft. They are capable of carrying large payloads of bombs, torpedoes or cruise missiles. Bombers are used almost exclusively for ground attacks and not fast or agile enough to take on enemy fighters head-to-head. Some have a single engine and require one pilot to operate, while others have two or more engines and require crews of two or more. A limited number of bombers, such as the B-2 Spirit, have stealth capabilities that keep them from being detected by enemy radar. An example of a conventional modern bomber would be the B-52 Stratofortress. An example of a World War II bomber would be a B-17 Flying Fortress.
+Bombers include light bombers, medium bombers, heavy bombers, dive bombers, and torpedo bombers.
+
+
+=== Attack ===
+
+Attack aircraft can be used to provide support for friendly ground troops. Some are able to carry conventional or nuclear weapons far behind enemy lines to strike priority ground targets. Attack helicopters attack enemy armor and provide close air support for ground troops.
+An example historical ground-attack aircraft is the Soviet Ilyushin Il-2 Shturmovik.
+Several types of transport airplanes have been armed with sideways firing weapons as gunships for ground attack. These include the AC-47 and AC-130 aircraft.
+
+
+=== Electronic warfare ===
+
+An electronic warfare aircraft is a military aircraft equipped for electronic warfare (EW) - i.e. degrading the effectiveness of enemy radar and radio systems. They are generally modified versions of other pre-existing aircraft. A recent example would be the Boeing EA-18G Growler, which is a modified version of the Boeing F/A-18F Super Hornet.
+
+
+=== Maritime patrol ===
+
+A maritime patrol aircraft fixed-wing military aircraft designed to operate for long durations over water in maritime patrol roles—in particular anti-submarine, anti-ship and search and rescue. Some patrol aircraft were designed for this purpose, like the Kawasaki P-1. Many others are modified designs of pre-existing aircraft, such as the Boeing P-8 Poseidon, which is based on the Boeing 737-800 airliner.
+
+
+=== Multirole ===
+
+Many combat aircraft today have a multirole ability. Normally only applied to fixed-wing aircraft, this term signifies that the plane in question can be a fighter or a bomber, depending on what the mission calls for. An example of a multirole design is the F-15E Strike Eagle, F/A-18 Hornet, F-35 Lightning II. A World War II example would be the P-38 Lightning.
+
+
+=== Unmanned Combat Aerial Vehicle ===
+Unmanned Combat Aerial Vehicles, simply called Attack Drones are used for combat by using ATGMs. They are usually used for assassinations and Close Air Support.
+
+
+== Non-combat ==
+Non-combat roles of military aircraft include search and rescue, reconnaissance, observation/surveillance, Airborne Early Warning and Control, transport, training, and aerial refueling.
+Many civil aircraft, both fixed wing and rotary wing, have been produced in separate models for military use, such as the civilian Douglas DC-3 airliner, which became the military C-47 Skytrain, and British "Dakota" transport planes, and decades later, the USAF's AC-47 aerial gunships. Even the fabric-covered two-seat Piper J3 Cub had a military version. Gliders and balloons have also been used as military aircraft; for example, balloons were used for observation during the American Civil War and during World War I, and military gliders were used during World War II to deliver ground troops in airborne assaults.
+
+
+=== Military transport ===
+
+Military transport (logistics) aircraft are primarily used to transport troops and war supplies. Cargo can be attached to pallets, which are easily loaded, secured for flight, and quickly unloaded for delivery. Cargo also may be discharged from flying aircraft on parachutes, eliminating the need for landing. Also included in this category are aerial tankers; these planes can refuel other aircraft while in flight. An example of a transport aircraft is the C-17 Globemaster III. A World War II example would be the C-47. An example of a tanker craft would be the KC-135 Stratotanker.  Helicopters and gliders can transport troops and supplies to areas where other aircraft would be unable to land.
+Calling a military aircraft a "cargo plane" is incorrect, because military transport planes also carry paratroopers and other soldiers.
+
+
+=== Airborne early warning and control ===
+
+An airborne early warning and control (AEW&C) system is an airborne radar system designed to detect aircraft, ships and ground vehicles at long ranges and control and command the battle space in an air engagement by directing fighter and attack aircraft strikes. AEW&C units are also used to carry out surveillance, including over ground targets and frequently perform C2BM (command and control, battle management) functions similar to an Airport Traffic Controller given military command over other forces. Used at a high altitude, the radars on the aircraft allow the operators to distinguish between friendly and hostile aircraft hundreds of miles away.
+
+AEW&C aircraft are used for both defensive and offensive air operations, and are to the NATO and USA forces trained or integrated Air Forces what the Command Information Center is to a Navy Warship, plus a highly mobile and powerful radar platform. The system is used offensively to direct fighters to their target locations, and defensively in order to counterattacks by enemy forces, both air and ground. So useful is the advantage of command and control from a high altitude, the United States Navy operates AEW&C aircraft off its Supercarriers to augment and protect its carrier Command Information Centers (CICs).
+AEW&C is also known by the older terms "airborne early warning" (AEW) and "airborne warning and control system" (AWACS,  /ˈeɪwæks/ ay-waks) although AWACS is the name of a specific system currently used by NATO and the USAF and is often used in error to describe similar systems.
+
+
+=== Reconnaissance and surveillance ===
+
+Reconnaissance aircraft are primarily used to gather intelligence. They are equipped with cameras and other sensors. These aircraft may be specially designed or may be modified from a basic fighter or bomber type.  This role is increasingly being filled by satellites and unmanned aerial vehicles (UAVs).
+Surveillance and observation aircraft use radar and other sensors for battlefield surveillance, airspace surveillance, maritime patrol and artillery spotting.  They include modified civil aircraft designs, moored balloons and UAVs.
+
+
+=== Experimental ===
+
+Experimental aircraft are designed in order to test advanced aerodynamic, structural, avionic, or propulsion concepts. These are usually well instrumented, with performance data telemetered on radio-frequency data links to ground stations located at the test ranges where they are flown. An example of an experimental aircraft is the Bristol 188.
+
+
+== See also ==
+List of aircraft
+List of fighter aircraft
+
+
+== References ==
+
+Gunston, Bill (1986). Jane's Aerospace Dictionary. London, England: Jane's Publishing Company Limited. ISBN 0-7106-0365-7.

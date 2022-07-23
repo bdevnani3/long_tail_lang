@@ -1,0 +1,71 @@
+A turnstile (also called a turnpike, gateline, baffle gate, automated gate, turn gate in some regions) is a form of gate which allows one person to pass at a time. It can also be made so as to enforce one-way human traffic, and in addition, it can restrict passage only to people who insert a coin, a ticket, a pass, or similar. Thus a turnstile can be used in the case of paid access (sometimes called a faregate or ticket barrier when used for this purpose), for example to access public transport, a pay toilet, or to restrict access to authorized people, for example in the lobby of an office building.
+
+
+== History ==
+
+Turnstiles were originally used, like other forms of stile, to allow human beings to pass while keeping sheep or other livestock penned in. The use of turnstiles in most modern applications has been credited to Clarence Saunders, who used them in his first Piggly Wiggly store.
+
+
+== Applications ==
+
+Turnstiles are used at a wide variety of settings, including stadiums, amusement parks, mass transit stations, office lobbies, airports, ski resorts, factories, power plants and casinos. From a business/revenue standpoint, turnstiles give an accurate, verifiable count of attendance. From a security standpoint, they lead patrons to enter single-file, so security personnel have a clear view of each patron. This enables security to efficiently isolate potential trouble or to confiscate any prohibited materials. On the other hand, physical barriers become a serious safety issue when a speedy evacuation is needed, requiring emergency exits that bypass any turnstiles.
+Persons with disabilities may have difficulties using turnstiles. In these cases, generally a wide aisle gate or a manual gate may be provided. At some locations where luggage is expected, a line of turnstiles may be entirely formed of wide aisle gates, for example at Heathrow Terminals 2 & 3 Underground station.
+Turnstiles often use ratchet mechanisms to allow the rotation of the stile in one direction allowing ingress but preventing rotation in the other direction. They are often designed to operate only after a payment has been made, usually by inserting a coin or token in a slot; or by swiping, tapping, or inserting a paper ticket or electronically-encoded card.
+Turnstiles are often used for counting the numbers of people passing through a gate, even when payment is not involved. They are used extensively in this manner in amusement parks, in order to keep track of how many people enter and exit the park and ride each ride. The first major use of turnstiles at a sporting venue was at Hampden Park in Glasgow, Scotland.
+
+
+=== Usage in Russia ===
+
+In the public transport systems of the Soviet Union, the only common use of turnstiles was at the entrance to subway stations (first introduced in Moscow Metro on 7 November 1958). City buses and commuter trains usually operated on a proof-of-payment system, but as fare collection became a more pressing business in post-Soviet Russia, railway terminals and high-traffic railway station in the Moscow area, Nizhny Novgorod and elsewhere had turnstiles installed.In the early 2000s, Moscow authorities sought to further improve fare collection; since enclosing all bus 
+  and tram stops and providing them with fare gates was not feasible, they installed turnstiles inside each city bus and tram. This practice has caused passenger complaints, as it slowed boarding compared to the traditional honor system. A similar system is in use in Brazilian and some Chilean city buses, and in Hong Kong trams.
+
+
+== Types ==
+
+
+=== Waist-high ===
+Waist-high turnstiles are often used in fairs, attractions, and arenas. The user inserts a ticket or pass into the slot, from which a barcode is read; if access is to be granted, a sensor determines the speed with which the user passes through, and sets the electric motor to turn the turnstile at the corresponding speed.
+Sometimes also referred to as "half-height" turnstiles, this fixed arm style has traditionally been the most popular type of turnstile. There are many variations of this style available, including one which is designed to be accompanied by a matching ticket box, and one with a ticket box built in. Some styles are designed to allow entry only after a payment (actual coins and tokens) are inserted, while others allow access after a valid barcode is electronically read.
+A disadvantage to this type is people can "jump the turnstile" as happens commonly on the Moscow Metro and other mass transport systems in Russia.
+
+
+=== Wall mount tripod turnstile ===
+The wall mount tripod turnstiles are suitable for places where installation on ground becomes impossible. The turnstile is directly fixed to the wall and all functions are achieved. Such turnstiles are usually used in narrow lanes and where installation wall is very easy 
+.
+
+
+=== Optical ===
+Optical turnstiles are an alternative to the traditional "arm"-style turnstile and are increasingly used in locations where a physical barrier is deemed unnecessary or unaesthetic. Optical turnstiles generally use an infrared beam to count patrons and recognize anyone attempting to enter a site without a valid entry pass.
+
+
+=== Drop arm optical ===
+
+The drop arm optical turnstile is a combination of the security of a tripod or barrier turnstile and a fully optical turnstile. The lanes can have either single or double arms. When access is granted the arms drop into recesses in the cabinet. Once the arms drop out of the way, the turnstile functions as a fully optical turnstile.
+
+
+=== Full-height turnstiles ===
+The full-height turnstile is a larger version of the waist-high turnstile, commonly 7-foot (2.1 m) high, similar in operation to a revolving door. The full-height turnstile eliminates the possibility (inherent in the waist-high style) of someone jumping over the turnstile because of its extended height. The full height turnstile design also eliminates the possibility of someone crawling under the turnstile due to its floor-to-ceiling arm design, making it a great choice for high security applications to control against unauthorized entry or egress. This type of turnstile functions differently than a revolving door in that it often does not allow someone to come in as someone else goes out. Beyond this, full-height turnstiles often allow access to one person at a time by locking after a single person makes entry. It is also pejoratively known as an "iron maiden", after the torture device of the same name, or "high-wheel". It is sometimes called a "Rotogate", especially in Chicago, where it is used at unstaffed exits of Chicago 'L' stations, and is also used increasingly in New York City Subway stations since the turn of the 21st century. In Europe, however, "Rotogate" refers to a different kind of gate that is not a turnstile. 
+
+There are two types of full height turnstiles, High Entrance/Exit Turnstile (HEET) and Exit-Only. The difference between them is that HEET turnstiles can rotate in both directions thus allowing two-way traffic, while exit-only turnstiles can only rotate in one direction thus allowing one-way traffic. Exit-only turnstiles are commonly used in mass transit stations to allow passengers to exit the system without interfering with those entering. Exit-only models are also used at enclosed areas such as theme parks, zoos, or amusement parks, to allow visitors to leave, while denying admission to those who have not paid.  Additionally there are single, and double or tandem turnstiles that contain two rotors side by side in the same frame.  This allows more throughput in a limited space, as tandems frequently are more narrow than two single turnstiles placed side by side.
+
+
+== See also ==
+Optical turnstile
+Stile
+Revolving door
+Toll road
+Turnstile (symbol)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Selecting a Security Barrier That's Right For Your Facility
+Alfi - turnstile on ski
+Page showing various designs of turnstiles in the history of the New York subway system.
+Turnstile Buying Guide
+Selection of turnstiles

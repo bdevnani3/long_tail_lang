@@ -1,0 +1,166 @@
+Sunscreen, also known as sunblock or suntan lotion, is a photoprotective topical product for the skin that absorbs or reflects some of the sun's ultraviolet (UV) radiation and thus helps protect against sunburn and most importantly prevent skin cancer. Sunscreens come as lotions, sprays, gels, foams (such as an expanded foam lotion or whipped lotion), sticks, powders and other topical products. Sunscreens are common supplements to clothing, particularly sunglasses, sunhats and special sun protective clothing, and other forms of photoprotection (e.g. umbrellas, etc.).
+The first sunscreen in the world was invented in Australia, by chemist H.A. Milton Blake, in 1932 formulating with the UV filter 'salol (Phenyl salicylate)' at a concentration of '10%' Its protection was verified by the University of Adelaide and it was also produced commercially by Blake's company, Hamilton Laboratories. Despite sunscreen being relatively new, sun protection practices have been observed since at least the ancient Egyptians "who used ingredients such as rice bran, jasmine, and lupine" to provide sun protection.
+Depending on the mode of action, sunscreens can be classified into physical sunscreens (i.e., zinc oxide and titanium dioxide, which stay on the surface of the skin and mainly deflect the UV light) or chemical sunscreens (i.e., UV organic filters, which absorb the UV light).
+Medical organizations such as the American Cancer Society recommend the use of sunscreen because it aids in the prevention of squamous cell carcinomas. The routine use of sunscreens may also reduce the risk of melanoma. However, many sunscreens do not block Ultraviolet A (UVA) radiation, yet protection from UVA is important for the prevention of skin cancer.To provide a better indication of their ability to protect against skin cancer and other diseases associated with UVA radiation (such as phytophotodermatitis), the use of broad-spectrum (UVA/UVB) sunscreens has been recommended.In the United States, sunscreens are required to remain effective at original strength for at least three years. Some sunscreens include an expiration date—a date indicating when they may become less effective.Diligent use of sunscreen can also help to slow or temporarily prevent the development of wrinkles, dark spots and sagging skin.
+
+
+== Health effects ==
+
+
+=== Benefits ===
+Sunscreen use can help prevent melanoma and squamous cell carcinoma, two types of skin cancer. There is little evidence that it is effective in preventing basal cell carcinoma.A 2013 study concluded that the diligent, everyday application of sunscreen could slow or temporarily prevent the development of wrinkles and sagging skin. The study involved 900 white people in Australia and required some of them to apply a broad-spectrum sunscreen every day for four and a half years. It found that people who did so had noticeably more resilient and smoother skin than those assigned to continue their usual practices. A study on 32 subjects showed that daily use of sunscreen (SPF 30) reversed photoaging of the skin within 12 weeks and the amelioration continued until the end of the investigation period of one year.
+
+Minimizing UV damage is especially important for children and fair-skinned individuals and those who have sun sensitivity for medical reasons.
+
+
+=== Potential risks ===
+In 2009, the Therapeutic Goods Administration of Australia updated a review of sunscreen safety studies and concluded: "The potential for titanium dioxide (TiO2) and zinc oxide (ZnO) nanoparticles in sunscreens to cause adverse effects depend primarily upon the ability of the nanoparticles to reach viable skin cells. To date, the current weight of evidence suggests that TiO2 and ZnO nanoparticles do not reach viable skin cells." Sunscreen ingredients typically undergo extensive review by government regulators in multiple countries, and ingredients that present significant safety concerns (such as PABA) tend to be withdrawn from the consumer market.There is a risk of an allergic reaction to sunscreen for some individuals, as "Typical allergic contact dermatitis may occur in individuals allergic to any of the ingredients that are found in sunscreen products or cosmetic preparations that have a sunscreen component. The rash can occur anywhere on the body where the substance has been applied and sometimes may spread to unexpected sites."
+
+
+==== Vitamin D production ====
+There are some concerns about potential vitamin D deficiency arising from prolonged use of sunscreen. The typical use of sunscreen does not usually result in vitamin D deficiency; however, extensive usage may. Sunscreen prevents ultraviolet light from reaching the skin, and even moderate protection can substantially reduce vitamin D synthesis. However, adequate amounts of vitamin D can be produced with moderate sun exposure to the face, arms and legs, averaging 5–30 minutes twice per week without sunscreen. (The darker the complexion, or the weaker the sunlight, the more minutes of exposure are needed, approximating 25% of the time for minimal sunburn.) Vitamin D overdose is impossible from UV exposure due to an equilibrium the skin reaches in which vitamin D degrades as quickly as it is created.Studies showed that sunscreen with a high UVA protection factor enabled significantly higher vitamin D synthesis than a low UVA protection factor sunscreen, likely because it allows more UVB transmission.
+
+
+== Measurements of protection ==
+
+
+=== Sun protection factor and labeling ===
+
+The sun protection factor (SPF rating, introduced in 1974) is a measure of the fraction of sunburn-producing UV rays that reach the skin. For example, "SPF 15" means that 1⁄15 of the burning radiation will reach the skin, assuming sunscreen is applied evenly at a thick dosage of 2 milligrams per square centimeter (mg/cm2). It is important to note that sunscreens with higher SPF do not last or remain effective on the skin any longer than lower SPF and must be continually reapplied as directed, usually every two hours.The SPF is an imperfect measure of skin damage because invisible damage and skin aging are also caused by ultraviolet type A (UVA, wavelengths 315–400 or 320–400 nm), which does not primarily cause reddening or pain. Conventional sunscreen blocks very little UVA radiation relative to the nominal SPF; broad-spectrum sunscreens are designed to protect against both UVB and UVA. According to a 2004 study, UVA also causes DNA damage to cells deep within the skin, increasing the risk of malignant melanomas. Even some products labeled "broad-spectrum UVA/UVB protection" have not always provided good protection against UVA rays. Titanium dioxide probably gives good protection, but does not completely cover the UVA spectrum, as early 2000s research suggests that zinc oxide is superior to titanium dioxide at wavelengths 340–380 nm.Owing to consumer confusion over the real degree and duration of protection offered, labeling restrictions are enforced in several countries. In the EU, sunscreen labels can only go up to SPF 50+ (initially listed as 30 but soon revised to 50). Australia's Therapeutic Goods Administration increased the upper limit to 50+ in 2012. In its 2007 and 2011 draft rules, the US Food and Drug Administration (FDA) proposed a maximum SPF label of 50, to limit unrealistic claims. (As of February 2017, the FDA has not adopted the SPF 50 limit.) Others have proposed restricting the active ingredients to an SPF of no more than 50, due to lack of evidence that higher dosages provide more meaningful protection. Different sunscreen ingredients have different effectiveness against UVA and UVB.
+
+The SPF can be measured by applying sunscreen to the skin of a volunteer and measuring how long it takes before sunburn occurs when exposed to an artificial sunlight source. In the US, such an in vivo test is required by the FDA. It can also be measured in vitro with the help of a specially designed spectrometer. In this case, the actual transmittance of the sunscreen is measured, along with the degradation of the product due to being exposed to sunlight. In this case, the transmittance of the sunscreen must be measured over all wavelengths in sunlight's UVB–UVA range (290–400 nm), along with a table of how effective various wavelengths are in causing sunburn (the erythemal action spectrum) and the standard intensity spectrum of sunlight (see the figure). Such in vitro measurements agree very well with in vivo measurements.Numerous methods have been devised for evaluation of UVA and UVB protection. The most-reliable spectrophotochemical methods eliminate the subjective nature of grading erythema.The ultraviolet protection factor (UPF) is a similar scale developed for rating fabrics for sun protective clothing. According to recent testing by Consumer Reports, UPF ~30+ is typical for protective fabrics, while UPF ~20 is typical for standard summer fabrics.Mathematically, the SPF (or the UPF) is calculated from measured data as:
+where 
+  
+    
+      
+        E
+        (
+        λ
+        )
+      
+    
+    {\displaystyle E(\lambda )}
+   is the solar irradiance spectrum, 
+  
+    
+      
+        A
+        (
+        λ
+        )
+      
+    
+    {\displaystyle A(\lambda )}
+   the erythemal action spectrum, and 
+  
+    
+      
+        
+          M
+          P
+          F
+        
+        (
+        λ
+        )
+      
+    
+    {\displaystyle \mathrm {MPF} (\lambda )}
+   the monochromatic protection factor, all functions of the wavelength 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  . The MPF is roughly the inverse of the transmittance at a given wavelength.The above means that the SPF is not simply the inverse of the transmittance in the UVB region. If that were true, then applying two layers of SPF 5 sunscreen would always be equivalent to SPF 25 (5 times 5). The actual combined SPF may be lower than the square of the single-layer SPF.
+
+
+=== UVA protection ===
+
+
+==== Persistent pigment darkening ====
+The persistent pigment darkening (PPD) method is a method of measuring UVA protection, similar to the SPF method of measuring sunburn protection. Originally developed in Japan, it is the preferred method used by manufacturers such as L'Oréal.
+Instead of measuring erythema, the PPD method uses UVA radiation to cause a persistent darkening or tanning of the skin. Theoretically, a sunscreen with a PPD rating of 10 should allow a person 10 times as much UVA exposure as would be without protection. The PPD method is an in vivo test like SPF. In addition, Colipa has introduced a method that, it is claimed, can measure this in vitro and provide parity with the PPD method.
+
+
+==== SPF equivalence ====
+
+As part of revised guidelines for sunscreens in the EU, there is a requirement to provide the consumer with a minimum level of UVA protection in relation to the SPF. This should be a "UVA PF" of at least 1/3 of the SPF to carry the UVA seal.A set of final US FDA rules effective from summer 2012 defines the phrase "broad spectrum" as providing UVA protection proportional to the UVB protection, using a standardized testing method.
+
+
+==== Star rating system ====
+In the UK and Ireland, the Boots star rating system is a proprietary in vitro method used to describe the ratio of UVA to UVB protection offered by sunscreen creams and sprays. Based on original work by Brian Diffey at Newcastle University, the Boots Company in Nottingham, UK, developed a method that has been widely adopted by companies marketing these products in the UK.
+One-star products provide the lowest ratio of UVA protection, five-star products the highest. The method was recently revised in light of the Colipa UVA PF test and the revised EU recommendations regarding UVA PF. The method still uses a spectrophotometer to measure absorption of UVA versus UVB; the difference stems from a requirement to pre-irradiate samples (where this was not previously required) to give a better indication of UVA protection and photostability when the product is used. With the current methodology, the lowest rating is three stars, the highest being five stars.
+In August 2007, the FDA put out for consultation the proposal that a version of this protocol be used to inform users of American product of the protection that it gives against UVA; but this was not adopted, for fear it would be too confusing.
+
+
+==== PA system ====
+Asian brands, particularly Japanese ones, tend to use The Protection Grade of UVA (PA) system to measure the UVA protection that a sunscreen provides. The PA system is based on the PPD reaction and is now widely adopted on the labels of sunscreens. According to the Japan Cosmetic Industry Association, PA+ corresponds to a UVA protection factor between two and four, PA++ between four and eight, and PA+++ more than eight. This system was revised in 2013 to include PA++++ which corresponds to a PPD rating of sixteen or above.
+
+
+=== Sunblock ===
+Sunblock typically refers to opaque sunscreen that is effective at blocking both UVA and UVB rays and uses a heavy carrier oil to resist being washed off. Titanium dioxide and zinc oxide are two minerals that are used in sunblock.The use of the word "sunblock" in the marketing of sunscreens is controversial. Since 2013, the FDA has banned such use because it can lead consumers to overestimate the effectiveness of products so labeled. Nonetheless, many consumers use the words sunblock and sunscreen synonymously.
+For total protection against damage from the sun, the skin needs to be protected from UVA, UVB, and also IRA (infrared-A light). Infrared radiation accounts for roughly 40% of solar energy at sea level. There is continuing debate within the dermatology community over the impact of sun-sourced IRA: Some sources indicate that early morning IRA exposure may be protective against further sun exposure by increasing cell proliferation and initiating anti-inflammatory cascades; these effects are not observed for artificial sources of intense IRA.
+
+
+== Active ingredients ==
+In addition to moisturizers and other inactive ingredients, sunscreens contain one or more of the following active ingredients, which are either organic or mineral in nature:
+
+Organic chemical compounds that absorb ultraviolet light.
+Inorganic particulates that reflect, scatter, and absorb UV light (such as titanium dioxide, zinc oxide, or a combination of both).
+Organic particulates that mostly absorb UV light like organic chemical compounds, but contain multiple chromophores that reflect and scatter a fraction of light like inorganic particulates. An example is Tinosorb M. The mode of action is about 90% by absorption and 10% by scattering.The principal active ingredients in sunscreens are usually aromatic molecules conjugated with carbonyl groups. This general structure allows the molecule to absorb high-energy ultraviolet rays and release the energy as lower-energy rays, thereby preventing the skin-damaging ultraviolet rays from reaching the skin. So, upon exposure to UV light, most of the ingredients (with the notable exception of avobenzone) do not undergo significant chemical change, allowing these ingredients to retain the UV-absorbing potency without significant photodegradation. A chemical stabilizer is included in some sunscreens containing avobenzone to slow its breakdown; examples include formulations containing. The stability of avobenzone can also be improved by bemotrizinol, octocrylene and various other photostabilisers. Most organic compounds in sunscreens slowly degrade and become less effective over the course of several years even if stored properly, resulting in the expiration dates calculated for the product.Sunscreening agents are used in some hair care products such as shampoos, conditioners and styling agents to protect against protein degradation and color loss. Currently, benzophenone-4 and ethylhexyl methoxycinnamate are the two sunscreens most commonly used in hair products. The common sunscreens used on skin are rarely used for hair products due to their texture and weight effects.
+The following are the FDA allowable active ingredients in sunscreens:
+
+Zinc oxide was approved as a UV filter by the EU in 2016.Other ingredients approved within the EU and other parts of the world, that have not been included in the current FDA Monograph:
+
+* Time and Extent Application (TEA), Proposed Rule on FDA approval originally expected 2009, now expected 2015.
+Many of the ingredients awaiting approval by the FDA were relatively new, and developed to absorb UVA. The 2014 Sunscreen Innovation Act was passed to accelerate the FDA approval process.
+
+
+== Inactive ingredients ==
+It is known that SPF is affected by not only the choice of active ingredients and the percentage of active ingredients but also the formulation of the vehicle/base. Final SPF is also impacted by the distribution of active ingredients in the sunscreen, how evenly the sunscreen applies on the skin, how well it dries down on the skin and the pH value of the product among other factors. Changing any inactive ingredient may potentially alter a sunscreen's SPF.When combined with UV filters, added antioxidants can work synergistically to affect the overall SPF value positively. Furthermore, adding antioxidants to sunscreen can amplify its ability to reduce markers of extrinsic photoaging, grant better protection from UV induced pigment formation, mitigate skin lipid peroxidation, improve the photostability of the active ingredients and neutralize reactive oxygen species formed by irradiated photocatalysts (eg., uncoated TiO₂), thus enhancing the efficiency and safety of sunscreens. Compared with sunscreen alone, it has been shown that the addition of antioxidants has the potential to suppress ROS formation by an additional 1.7-fold for SPF 4 sunscreens and 2.4-fold for SPF 15-to-SPF 50 sunscreens, but the efficacy depends on how well the sunscreen in question has been formulated.Other inactive ingredients can also assist in photostabilizing unstable UV filters. Cyclodextrins have demonstrated the ability to reduce photodecomposition, protect antioxidants and limit skin penetration past the uppermost skin layers, allowing them to longer maintain the protection factor of sunscreens with UV filters that are highly unstable and/or easily permeate to the lower layers of the skin. Similarly, film-forming polymers like polyester-8 and polycryleneS1 have the ability to protect the efficacy of older organic UV filters by preventing them from destabilizing due to extended light exposure. These kinds of ingredients also increase the water resistance of sunscreen formulations.
+
+In the 2010s & 2020s there has been increasing interest in sunscreens that protect the wearer from the sun’s HEVL & Infrared light as well as ultraviolet light. This is due to newer research revealing blue & violet visible light and certain wavelengths of infrared light (eg., NIR, IR-A) work synergistically with UV light in contributing to oxidative stress, free radical generation, dermal cellular damage, suppressed skin healing, decreased immunity, erythema, inflammation, dryness, and several aesthetic concerns, such as: wrinkle formation, loss of skin elasticity and dyspigmentation. Increasingly, a number of commercial sunscreens are being produced that have manufacturer claims regarding skin protection from blue light, infrared light and even air pollution. However, as of 2021 there are no regulatory guidelines or mandatory testing protocols that govern these claims. Historically, the American FDA has only recognized protection from sunburn (via UVB protection) and protection from skin cancer (via SPF 15+ with some UVA protection) as drug/medicinal sunscreen claims, so they do not have regulatory authority over sunscreen claims regarding protecting the skin from damage from these other environmental stressors. Since sunscreen claims not related to protection from ultraviolet light are treated as cosmeceutical claims rather than drug/medicinal claims, the innovative technologies and additive ingredients used to allegedly reduce the damage from these other environmental stressors may vary widely from brand to brand.
+Some studies show that mineral sunscreens primarily made with substantially large particles (ie.,neither nano nor micronized) may help protect from visible and infrared light to some degree, but these sunscreens are often unacceptable to consumers due to leaving an obligatory opaque white cast on the skin. Further research has shown that sunscreens with added iron oxide pigments and/or pigmentary titanium dioxide can provide the wearer with a substantial amount of HEVL protection. Cosmetic chemists have found that other cosmetic-grade pigments can be functional filler ingredients. Mica was discovered to have significant synergistic effects with UVR filters when formulated in sunscreens, in that it can notably increase the formula’s ability to protect the wearer from HEVL. Additionally, there is a modest amount of tentative evidence that suggests specific forms of tin oxide may also be viable functional fillers that could supply additional protection from light wavelengths outside of the ultraviolet radiation spectrum when properly formulated with other protective ingredients in sunscreen products. However, independent research on the efficacy of tin oxides is more lacking.There is a growing amount of research demonstrating that adding various vitamer antioxidants (eg; retinol, alpha tocopherol, gamma tocopherol, tocopheryl acetate, ascorbic acid, ascorbyl tetraisopalmitate, ascorbyl palmitate, sodium ascorbyl phosphate, ubiquinone) and/or a mixture of certain botanical antioxidants (eg; epigallocatechin-3-gallate, b-carotene, vitis vinifera, spirulina extract, chamomile extract, and possibly others) to sunscreens efficaciously aids in reducing damage from the free radicals produced by exposure to solar ultraviolet radiation, visible light, near infrared radiation and infrared-a radiation. Since sunscreen’s active ingredients work preventatively by creating a shielding film on the skin that absorbs, scatters, and reflects light before it can reach the skin, UV filters have been deemed an ideal “first line of defense” against sun damage when exposure can’t be avoided. Antioxidants have been deemed a good “second line of defense” since they work responsively by decreasing the overall burden of free radicals that do reach the skin. The degree of the free radical protection from the entire solar spectral range that a sunscreen can offer has been termed the “radical protection factor” (RPF) by some researchers.
+
+
+== Application ==
+The dose used in FDA sunscreen testing is 2 mg/cm2 of exposed skin. If one assumes an "average" adult build of height 5 ft 4 in (163 cm) and weight 150 lb (68 kg) with a 32-inch (82-cm) waist, that adult wearing a bathing suit covering the groin area should apply approximately 30 g (or 30 ml, approximately 1 oz) evenly to the uncovered body area. This can be more easily thought of as a "golf ball" size amount of product per body, or at least six teaspoonfuls. Larger or smaller individuals should scale these quantities accordingly. Considering only the face, this translates to about 1/4 to 1/3 of a teaspoon for the average adult face.
+Some studies have shown that people commonly apply only 1/4 to 1/2 of the amount recommended for achieving the rated sun protection factor (SPF), and in consequence the effective SPF should be downgraded to a 4th root or a square root of the advertised value, respectively. A later study found a significant exponential relation between SPF and the amount of sunscreen applied, and the results are closer to linearity than expected by theory.Claims that substances in pill form can act as sunscreen are false and disallowed in the United States.
+
+
+== Regulation ==
+PalauOn 1 January 2020, Palau became the first country in the world to ban sun cream that is harmful to corals and sea life. The ban came into effect immediately after an announcement by President Tommy Remengesau Jr.
+HawaiiThe island state of Hawaii banned the commercial sale of sunscreens containing oxybenzone and octinoxate on January 1, 2021 due to concern of environmental effects linked to the two ingredients and their contribution to increased coral bleaching. This ban is only applicable to sale within the state and to sunscreen products, not other cosmetic materials.
+
+United StatesSunscreen labeling standards have been evolving in the United States since the FDA first adopted the SPF calculation in 1978. The FDA issued a comprehensive set of rules in June 2011, taking effect in 2012–2013, designed to help consumers identify and select suitable sunscreen products offering protection from sunburn, early skin aging, and skin cancer:
+To be classified as "broad spectrum", sunscreen products must provide protection against both UVA and UVB, with specific tests required for both.
+Claims of products being "waterproof" or "sweatproof" are prohibited, while "sunblock" and "instant protection" and "protection for more than 2 hours" are all prohibited without specific FDA approval.
+"Water resistance" claims on the front label must indicate how long the sunscreen remains effective and specify whether this applies to swimming or sweating, based on standard testing.
+Sunscreens must include standardized "Drug Facts" information on the container. However, there is no regulation that deems it necessary to mention whether the contents contain nanoparticles of mineral ingredients. (The EU has stricter regulation against the use of nanoparticles, and in 2009 introduced labeling requirements for nanoparticle ingredients in certain sunscreens and cosmetics.)In 2019, the FDA proposed tighter regulations on sun protection and general safety, including the requirement that sunblock products with SPF greater than 15 must be broad spectrum and a prohibition on products with SPF greater than 60.In the United States, sunscreen can be purchased using a tax-advantaged health savings account (HSA) or flexible spending account (FSA).
+
+
+== Environmental effects ==
+Certain sunscreens in water under ultraviolet light can increase the production of hydrogen peroxide, which damages phytoplankton.A 2002 study suggests that sunscreen causes an increase in virus abundance in seawater, leading to poor marine environment health similar to that of other pollutants.A 2008 study that tested different sunscreen brands, protective factors, and concentrations found that they all caused bleaching on hard corals, and the rate of beaching increased with increased quantity of sunscreen.  Of the compounds found in sunscreen that were tested separately, "butylparaben, ethylhexylmethoxycinnamate, benzophenone-3 and 4-methylbenzylidene camphor caused complete bleaching even at very low concentrations."Media reports link oxybenzone in sunscreens to coral bleaching, although some environmental experts dispute the claim. A 2015 study published in the Archives of Environmental Contamination and Toxicology linked oxybenzone to effects on cell culture experiments and juvenile coral, but other sources of pollution such as agricultural run-off and sewage probably have a larger impact on coral reefs. However, the purported link between oxybenzone and coral decline is disputed by some within the environmental community,In 2018, the Pacific nation of Palau has become the first country to ban sun creams containing oxybenzone, octinoxate, and some other harmful elements.A 2019 study of UV filters in oceans found far lower concentrations of oxybenzone than previously reported, and lower than known thresholds for environmental toxicity. Additionally, the National Oceanic and Atmospheric Administration (NOAA) has indicated that coral decline is associated with effects from climate change (warming oceans, rising water levels, acidification), overfishing, and pollution from agriculture, wastewater, and urban run-off.
+
+
+== History ==
+
+ 
+Early civilizations used a variety of plant products to help protect the skin from sun damage. For example, ancient Greeks used olive oil for this purpose, and ancient Egyptians used extracts of rice, jasmine, and lupine plants whose products are still used in skin care today. Zinc oxide paste has also been popular for skin protection for thousands of years. Among the nomadic sea-going Sama-Bajau people of the Philippines, Malaysia, and Indonesia, a common type of sun protection was a paste called borak or burak, which was made from water weeds, rice and spices. It was used most commonly by women to protect the face and exposed skin areas from the harsh tropical sun at sea. In Myanmar, thanaka, a yellow-white cosmetic paste made of ground bark, is traditionally used for sun protection.
+"The first ultraviolet B filters were produced in 1928" Followed by the first sunscreen, invented in Australia by chemist H.A. Milton Blake, in 1932 formulating with the UV filter 'salol (Phenyl salicylate)' at a concentration of '10%'. Its protection was verified by the University of Adelaide. In 1936, L'Oreal released its first sunscreen product, formulated by French chemist Eugène Schueller.Early adopters of sunscreen were the US military. In 1944, as the hazards of sun overexposure became apparent to soldiers stationed in the Pacific tropics at the height of World War II, Benjamin Green, an airman and later a pharmacist produced Red Vet Pet (for red veterinary petrolatum) for the US military. Sales boomed when Coppertone improved and commercialized the substance under the Coppertone girl and Bain de Soleil branding in the early 1950s. In 1946, Austrian chemist Franz Greiter introduced a product, called Gletscher Crème (Glacier Cream), subsequently became the basis for the company Piz Buin, named in honor of the mountain where Greiter allegedly received the sunburn.In 1974, Greiter adapted earlier calculations from Friedrich Ellinger and Rudolf Schulze and introduced the "sun protection factor" (SPF), which has become the global standard for measuring UVB protection. It has been estimated that Gletscher Crème had an SPF of 2.
+Water-resistant sunscreens were introduced in 1977, and recent development efforts have focused on overcoming later concerns by making sunscreen protection both longer-lasting and broader-spectrum, as well as more appealing to use.
+
+
+== Research ==
+New products are in development such as sunscreens based on bioadhesive nanoparticles. These function by encapsulating commercially used UV filters, while being not only adherent to the skin but also non-penetrant. This strategy inhibits primary UV-induced damage as well as secondary free radicals.Also UV filters based on sinapate esters are under study.
+
+
+== Notes ==
+
+
+== External links ==
+Does it work, or not? – illustrated explanation of how UV light is absorbed by chemicals in sunscreen from Wired
+56% of Americans Rarely or Never Use Sunscreen -  A survey conducted about the sunscreen habits of modern Americans.

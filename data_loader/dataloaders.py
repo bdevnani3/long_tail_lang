@@ -149,6 +149,55 @@ class LT_Dataset_boosted(Dataset):
 
         self.lt_count = freqs
 
+        for i in range(1000):
+            if freqs[i] <= 100:
+                for j in range(82):
+                    self.img_path.append(j)
+                    self.labels.append(i)
+
+    def __len__(self):
+        return len(self.labels)
+
+    def __getitem__(self, index):
+
+        path = self.img_path[index]
+        label = self.labels[index]
+
+        if isinstance(path, int):
+            sample = self.totensor(np.zeros((224, 224, 3)))
+        else:
+            with open(path, "rb") as f:
+                sample = Image.open(f).convert("RGB")
+                path = 1
+
+            if self.transform is not None:
+                sample = self.transform(sample)
+
+        return sample, label, index, path
+
+
+# Dataset
+class LT_Dataset_boosted_wiki(Dataset):
+    def __init__(self, root, txt, transform=None):
+
+        self.totensor = transforms.ToTensor()
+        self.img_path = []
+        self.labels = []
+        self.transform = transform
+        with open(txt) as f:
+            for line in f:
+                self.img_path.append(os.path.join(root, line.split()[0]))
+                self.labels.append(int(line.split()[1]))
+
+        freqs = {}
+        for l in self.labels:
+            l == int(l)
+            if l not in freqs:
+                freqs[l] = 0
+            freqs[l] += 1
+
+        self.lt_count = freqs
+
         # self.lt_count = {"low": 0, "medium":0, "high": 0}
         # for k,v in freqs.items():
         #     if int(v) <= 20:

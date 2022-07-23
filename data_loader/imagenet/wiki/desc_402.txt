@@ -1,0 +1,105 @@
+An acoustic guitar is a musical instrument in the string family. When a string is plucked its vibration is transmitted from the bridge, resonating throughout the top of the guitar. It is also transmitted to the side and back of the instrument, resonating through the air in the body, and producing sound from the sound hole. The original, general term for this stringed instrument is guitar, and the retronym 'acoustic guitar' distinguishes it from an electric guitar, which relies on electronic amplification. Typically, a guitar's body is a sound box, of which the top side serves as a sound board that enhances the vibration sounds of the strings. In standard tuning the guitar's six strings are tuned (low to high) E2 A2 D3 G3 B3 E4.
+Guitar strings may be plucked individually with a pick (plectrum) or fingertip, or strummed to play chords. Plucking a string causes it to vibrate at a fundamental pitch determined by the string's length, mass, and tension. (Overtones are also present, closely related to harmonics of the fundamental pitch.) The string causes the soundboard and the air enclosed by the sound box to vibrate. As these have their own resonances, they amplify some overtones more strongly than others, affecting the timbre of the resulting sound.
+
+
+== History ==
+The guitar likely originated in Spain in the early 16th century, deriving from the guitarra Latina.Gitterns, (small, plucked guitars) were the first small, guitar-like instruments created during the Spanish Middle Ages with a round back, like that of the lute. Modern guitar-shaped instruments were not seen until the Renaissance era, when the body and size began to take a guitar-like shape.
+
+The earliest string instruments related to the guitar and its structure were broadly known as vihuelas within Spanish musical culture. Vihuelas were string instruments that were commonly seen in the 16th century during the Renaissance. Later, Spanish writers distinguished these instruments into two categories of vihuelas. The vihuela de arco was an instrument that mimicked the violin, and the vihuela de Penola was played with a plectrum or by hand. When it was played by hand it was known as the vihuela de mano. Vihuela de mano shared extreme similarities with the Renaissance guitar as it used hand movement at the sound hole or sound chamber of the instrument to create music.By 1790 only six-course vihuela guitars (six unison-tuned pairs of strings) were being created and had become the main type and model of guitar used in Spain. Most of the older 5-course guitars were still in use but were also being modified to a six-coursed acoustical guitar. Fernando Ferandiere's book Arte de tocar la Guitarra Espanola pop music (Madrid, 1799) describes the standard Spanish guitar from his time as an instrument with seventeen frets and six courses with the first two 'gut' strings tuned in unison called the terceras and the tuning named to 'G' of the two strings. The acoustic guitar at this time began to take the shape familiar in the modern acoustic guitar. The coursed pairs of strings eventually became less common in favor of single strings.Finally, circa 1850, the form and structure of the modern guitar are credited to Spanish guitar maker Antonio Torres Jurado, who increased the size of the guitar body, altered its proportions, and made use of fan bracing, which first appeared in guitars made by Francisco Sanguino in the late 18th century. The bracing pattern, which refers to the internal pattern of wood reinforcements used to secure the guitar's top and back to prevent the instrument from collapsing under tension, is an important factor in how the guitar sounds. Torres' design greatly improved the volume, tone, and projection of the instrument, and it has remained essentially unchanged since.
+
+
+== Acoustic properties ==
+
+The acoustic guitar's soundboard, or top, also has a strong effect on the loudness of the guitar. Woods that are good at transmitting sound, like spruce, are commonly used for the soundboard. No amplification occurs in this process, because musicians add no external energy to increase the loudness of the sound (as would be the case with an electronic amplifier). All the energy is provided by the plucking of the string. Without a soundboard, however, the string would just "cut" through the air without moving it much. The soundboard increases the surface of the vibrating area in a process called mechanical impedance matching. The soundboard can move the air much more easily than the string alone, because it is large and flat. This increases the entire system's energy transfer efficiency, and musicians emit a much louder sound.
+
+In addition, the acoustic guitar has a hollow body, and an additional coupling and resonance effect increases the efficiency of energy transmission in lower frequencies. The air in a guitar's cavity resonates with the vibrational modes of the string and soundboard. At low frequencies, which depend on the size of the box, the chamber acts like a Helmholtz resonator, increasing or decreasing the volume of the sound again depending on whether the air in the box moves in phase or out of phase with the strings. When in phase, the sound increases by about 3 decibels. In opposing phase, it decreases about 3 decibels. As a Helmholtz resonator, the air at the opening is vibrating in or out of phase with the air in the box and in or out of phase with the strings. These resonance interactions attenuate or amplify the sound at different frequencies, boosting or damping various harmonic tones. Ultimately, the cavity air vibrations couple to the outside air through the sound hole, though some variants of the acoustic guitar omit this hole, or have 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   holes, like a violin family instrument (a trait found in some electric guitars such as the ES-335 and ES-175 models from Gibson). This coupling is most efficient because here the impedance matching is perfect: it is air pushing air.
+A guitar has several sound coupling modes: string to soundboard, soundboard to cavity air, and both soundboard and cavity air to outside air. The back of the guitar also vibrates to some degree, driven by air in the cavity and mechanical coupling to the rest of the guitar. The guitar—as an acoustic system—colors the sound by the way it generates and emphasizes harmonics, and how it couples this energy to the surrounding air (which ultimately is what we perceive as loudness). Improved coupling, however, comes costing decay time, since the string's energy is more efficiently transmitted. Solid body electric guitars (with no soundboard at all) produce very low volume, but tend to have long sustain.
+All these complex air coupling interactions, and the resonant properties of the panels themselves, are a key reason that different guitars have different tonal qualities. The sound is a complex mixture of harmonics that give the guitar its distinctive sound.
+
+
+== Amplification ==
+
+Classical gut-string guitars lacked adequate projection, and were unable to displace banjos until innovations introduced helped to increase their volume. Two important innovations were introduced by United States firm C.F. Martin: steel strings and the increasing of the guitar top area; the popularity of Martin's larger "dreadnought" body size among acoustic performers is related to the greater sound volume produced. These innovations allowed guitars to compete with and often displace the banjos that had previously dominated jazz bands. The steel-strings increased tension on the neck; for stability, Martin reinforced the neck with a steel truss rod, which became standard in later steel-string guitars.
+
+An acoustic guitar can be amplified by using various types of pickups or microphones. However, amplification of acoustic guitars had many problems with audio feedback. In the 1960s, Ovation's parabolic bowls dramatically reduced feedback, allowing greater amplification of acoustic guitars. In the 1970s, Ovation developed thinner sound-boards with carbon-based composites laminating a thin layer of birch, in its Adamas model, which has been viewed as one of the most radical designs in the history of acoustic guitars. The Adamas model dissipated the sound-hole of the traditional soundboard among 22 small sound-holes in the upper chamber of the guitar, yielding greater volume and further reducing feedback during amplification. Another method for reducing feedback is to fit a rubber or plastic disc into the sound hole.
+The most common types of pickups used for acoustic guitar amplification are piezo and magnetic pickups. Piezo pickups are generally mounted under the bridge saddle of the acoustic guitar and can be plugged into a mixer or amplifier. A Piezo pickup made by Baldwin was incorporated in the body of Ovation guitars, rather than attached by drilling through the body; the combination of the Piezo pickup and parabolic ("roundback") body helped Ovation succeed in the market during the 1970s.Magnetic pickups on acoustic guitars are generally mounted in the sound hole, and are similar to those in electric guitars. An acoustic guitar with pickups for electrical amplification is called an acoustic-electric guitar.
+In the 2000s, manufacturers introduced new types of pickups to try to amplify the full sound of these instruments. This includes body sensors, and systems that include an internal microphone along with body sensors or under-the-saddle pickups.
+
+
+== Types ==
+Historical and modern acoustic guitars are extremely varied in their design and construction. Some of the most important varieties are the classical guitar (Spanish Guitar/Nylon-stringed), steel-string acoustic guitar and lap steel guitar.
+
+Nylon/gut stringed guitars:
+Vihuela
+Gittern
+Baroque guitar
+Romantic guitar
+Classical guitar, the modern version of the original guitar, including additional strings models
+Russian/Gypsy guitar
+Flamenco guitar
+Lute
+Steel stringed guitars:
+Steel-string acoustic guitar, also known as western, folk or country guitar
+Twelve string guitar
+Resonator guitar (such as the Dobro)
+Archtop guitar
+Selmer/Maccaferri (Manouche) guitar
+Battente guitar
+Lap steel guitar
+Lap slide guitar
+Parlor guitar
+Lyre-guitar
+Other variants:
+Harp guitar
+Pikasso guitar (a variant of harp guitar)
+Contraguitar (Viennese variant of harp guitar)
+Acoustic bass guitar
+Banjo guitar
+
+
+=== Body shape ===
+Common body shapes for modern acoustic guitars, from smallest to largest:
+
+Range – The smallest common body shape, sometimes called a mini jumbo, is three-quarters the size of a jumbo-shaped guitar. A range shape typically has a rounded back to improve projection for the smaller body. The smaller body and scale length make the range guitar an option for players who struggle with larger body guitars.
+Parlor – Parlor guitars have small compact bodies and have been described as “punchy” sounding with a delicate tone. It normally has 12 open frets. The smaller body makes the parlor a more comfortable option for players who find large body guitars uncomfortable.
+Grand Concert – This mid-sized body shape is not as deep as other full-size guitars, but has a full waist. Because of the smaller body, grand concert guitars have a more controlled overtone and are often used for their sound projection when recording.
+Auditorium – Similar in dimensions to the dreadnought body shape, but with a much more pronounced waist. This general body shape is also sometimes referred to as an "Orchestra" style guitar depending on the manufacturer. The shifting of the waist provides different tones to stand out. The auditorium body shape is a newer body when compared to the other shapes such as dreadnought.
+Dreadnought – This is the classic guitar body shape. The style was designed by Martin Guitars to produce a deeper sound than "classic"-style guitars, with very resonant bass. The body is large and the waist of the guitar is not as pronounced as the auditorium and grand concert bodies. There are many Dreadnought variants produced, one of the most notable being the Gibson J-45.
+Jumbo – The largest standard guitar body shape found on acoustic guitars. Jumbo is bigger than a Grand Auditorium but similarly proportioned, and is generally designed to provide a deep tone similar to a dreadnought's. It was designed by Gibson to compete with the dreadnought, but with maximum resonant space for greater volume and sustain. The foremost example of the style is the Gibson J-200, but like the dreadnought, most guitar manufacturers have at least one jumbo model.
+
+
+== Gallery ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== References ==
+
+
+== Further reading ==
+Carter, Walter (1996).  Eiche, Jon (ed.). The history of the Ovation guitar. Musical Instruments Series (first ed.). Milwaukee, Wisconsin: Hal Leonard Corporation. pp. 1–128. ISBN 978-0-7935-5876-6. HL00330187; ISBN 978-0-7935-5876-6; ISBN 0-7935-5876-X (softcover); ISBN 0-7935-5948-0 (hardcover).
+Denyer, Ralph (1992). The guitar handbook. Special contributors Isaac Guillory and Alastair M. Crawford; Foreword by Robert Fripp (Fully revised and updated ed.). London and Sydney: Pan Books. ISBN 0-330-32750-X.
+
+
+== External links ==
+ Media related to Acoustic guitars at Wikimedia Commons

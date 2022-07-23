@@ -1,0 +1,80 @@
+A lighter is a portable device which generates a flame, and can be used to ignite a variety of items, such as cigarettes, gas stoves, fireworks, candles or campfire. It consists of a metal or plastic container filled with a flammable liquid or compressed gas, a means of ignition to produce the flame, and some provision for extinguishing the flame.  Alternatively, a lighter can be powered by electricity, using an electric arc or heating element to ignite the target.
+
+
+== History ==
+The first lighters were converted flintlock pistols that used gunpowder. In 1662 the Turkish traveller Evliya Çelebi visited Vienna as a member of an Ottoman diplomatic mission and admired the lighters being manufactured there: “Enclosed in a kind of tiny box are tinder, a steel, sulphur and resinous wood. When struck just like a firearm wheel the wood bursts into flame. This is useful for soldiers on campaign.” One of the first lighters was invented by a German chemist named Johann Wolfgang Döbereiner in 1823 and was often called Döbereiner's lamp. This lighter worked by passing flammable hydrogen gas, produced within the lighter by a chemical reaction, over a platinum metal catalyst which in turn caused it to ignite and give off a great amount of heat and light.
+
+The patenting of ferrocerium (often misidentified as flint) by Carl Auer von Welsbach in 1903 has made modern lighters possible. When scratched, it produces a large spark which is responsible for lighting the fuel of many lighters, and is suitably inexpensive for use in disposable items.
+Using Carl Auer von Welsbach's flint, companies like Ronson were able to develop practical and easy to use lighters. In 1910, Ronson released the first Pist-O-Liter, and in 1913, the company developed its first lighter, called the "Wonderlite", which was a permanent match style of lighter.During WWl soldiers started to create lighters of empty cartridge cases. During that time one of the soldiers came up with a means to insert a chimney cap with holes in it to make it more windproof.
+
+The Zippo lighter and company were invented and founded by George Grant Blaisdell in 1932. The Zippo was noted for its reliability, "Life Time Warranty" and marketing as "Wind-Proof". Most early Zippos used naphtha as a fuel source.
+In the 1950s, there was a switch in the fuel of choice from naphtha to butane, as butane allows for a controllable flame and has less odour. This also led to the use of piezoelectric spark, which replaced the need for a flint wheel in some lighters and was used in many Ronson lighters.
+In modern times most of the world's lighters are produced in France, the United States, China, and Thailand.
+
+
+== Operation ==
+
+Naphtha based lighters employ a saturated cloth wick and fibre packing to absorb the fluid and prevent it from leaking. They employ an enclosed top to prevent the volatile liquid from evaporating, and to conveniently extinguish the flame. Butane lighters have a valved orifice that meters the butane gas as it escapes.
+
+A spark is created by striking metal against a flint, or by pressing a button that compresses a piezoelectric crystal (piezo ignition), generating an electric arc. In naphtha lighters, the liquid is sufficiently volatile, and flammable vapour is present as soon as the top of the lighter is opened. Butane lighters combine the striking action with the opening of the valve to release gas. The spark ignites the flammable gas causing a flame to come out of the lighter which continues until either the top is closed (naphtha type), or the valve is released (butane type).A metal enclosure with air holes generally surrounds the flame, and is designed to allow mixing of fuel and air while making the lighter less sensitive to wind. The high energy jet in butane lighters allows mixing to be accomplished by using Bernoulli's principle, so that the air hole(s) in this type tend to be much smaller and farther from the flame.Specialized "windproof" butane lighters are manufactured for demanding conditions such as shipboard, high altitude, and wet climates. Some dedicated models double as synthetic rope cutters. Such lighters are often far hotter than normal lighters (those that use a "soft flame") and can burn in excess of 1,100 °C (2,010 °F). The windproof capabilities are not achieved from higher pressure fuel; windproof lighters use the same fuel (butane) as standard lighters, and therefore develop the same vapour pressure. Instead, windproof lighters mix the fuel with air and pass the butane–air mixture through a catalytic coil. An electric spark starts the initial flame, and soon the coil is hot enough to cause the fuel–air mixture to burn on contact.
+
+
+== Other types ==
+
+
+=== Jet lighter ===
+As opposed to lighters of the naphtha or standard butane type (whether refillable or disposable), which combust incompletely and thus create a sooty, orange "safety" flame, jet lighters produce a blue flame that in some cases is almost invisible and invariably burns at a far higher temperature.  The spark in such lighters is almost always produced by an electric arc (as seen below), but some jet lighters burn with incomplete combustion.
+Disadvantages to the jet lighter include a "roaring" noise in operation, as well as higher fuel consumption.
+
+
+=== Electric arc lighter ===
+Arc lighters use a spark to create a plasma conduit between electrodes, which is then maintained by a lower voltage. The arc is then applied to a flammable substance to cause ignition.
+
+
+=== Automobile lighter ===
+
+Some vehicles are equipped with an electric lighter located on the dashboard or in the well between the front seats. Its electric heating element becomes hot in seconds upon activation.
+
+
+=== Match lighter ===
+
+Not to be confused with the meaning of match as in matchsticks or the "permanent match" (see below), this type of lighter consists of a length of slow match in a holder, with means to ignite and to extinguish the match.
+While the glowing match does not generally supply enough energy to start a fire without further kindling, it is fully sufficient to light a cigarette. The main advantage of this design shows itself in windy conditions, where the glow of the match is fanned by the wind instead of being blown out.
+
+
+=== Permanent match ===
+
+A typical form of lighter is the permanent match or everlasting match, consisting of a naphtha fuel-filled metal shell and a separate threaded metal rod assembly—the "match"—serving as the striker and wick. This "metal match" is stored screwed into the fuel storage compartment: the shell.
+The fuel-saturated striker/wick assembly is unscrewed to remove, and scratched against a flint on the side of the case to create a spark. Its concealed wick catches fire, resembling a match. The flame is extinguished by blowing it out before screwing the "match" back into the shell, where it absorbs fuel for the next use. An advantage over other naphtha lighters is that the fuel compartment is sealed shut with a rubber o-ring, which slows or stops fuel evaporation.
+
+
+=== Flameless lighter ===
+A flameless lighter is a safe alternative to traditional lighters. The flameless lighter uses an enclosed heating element which glows, so that the device does not produce an open flame.  Typical flameless heating elements are an electrically heated wire or an artificial coal.Flameless lighters are designed for use in any environment where an open flame, conventional lighters or matches are not permitted. The flameless lighter is used in many environments such as prisons and detention facilities, oil and gas facilities, mental health facilities, nursing homes, airports and night clubs/restaurants.Many advertised so-called flameless lighters are not flameless at all, but the flame is invisible (such as a windproof lighter). If a piece of paper can easily be ignited, it is probably not a true flameless lighter and may not be safe in hazardous environments where smoking is confined to specific safe areas.
+The flameless lighter was invented by brothers Douglas Hammond and David Hammond in the UK in 1966 under the "Ciglow" name.
+
+
+=== Catalytic lighter ===
+Catalytic lighters use methanol or methylated spirits as fuel and a thin platinum wire which heats up in the presence of flammable vapours and produces a flame.lighters: the International Standard EN ISO 9994:2002 and the European standard EN 13869:2002.The International Standard establishes non-functional specifications on quality, reliability and safety of lighters and appropriate test procedures. For instance, a lighter should generate flame only through positive action on the part of the user, two or more independent actions by the user, or an actuating force greater than or equal to 15 Newton. The standard also specifies other safety features, such as the lighter's maximum flame height and its resistance to elevated temperatures, dropping, and damages from continuous burning. However, the standard does not include child resistance specifications.
+The European standard EN 13869:2002 establishes child-resistance specifications and defines as novelty lighters those that resemble another object commonly recognized as appealing to children younger than 51 months, or those that have entertaining audio or animated effects.
+As matches, lighters, and other heat sources are the leading causes of fire deaths for children, many jurisdictions, such as the EU, have prohibited the marketing of novelty or non-child resistant lighters. Examples of child resistance features include the use of a smooth or shielded spark wheel. Many people remove the child proofing from lighters by prying off the metal with scissors or keys, making the lighter easier to ignite.
+In 2005 the fourth edition of the ISO standard was released (ISO9994:2005). The main change to the 2004 Standard is the inclusion of specifications on safety symbols.
+
+
+== "Greatest gadget" ==
+In August 2011 Stephen Fry chose the lighter as the greatest gadget in his Channel 4 programme Stephen Fry's 100 Greatest Gadgets, one of the 100 Greatest strand, describing it as "fire with a flick of the fingers".
+
+
+== See also ==
+Automobile auxiliary power outlet
+Butane torch
+Clipper (lighter)
+Ferrocerium
+Gas lighter
+
+
+== References ==
+
+
+== External links ==
+ Media related to Lighter at Wikimedia Commons
+ The dictionary definition of lighter at Wiktionary

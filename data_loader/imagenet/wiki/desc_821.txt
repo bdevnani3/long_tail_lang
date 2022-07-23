@@ -1,0 +1,48 @@
+A through arch bridge, also known as a half-through arch bridge or a through-type arch bridge, is a bridge that is made from materials such as steel or reinforced concrete, in which the base of an arch structure is below the deck but the top rises above it. It can either be lower bearing or mid-bearing. Thus, the deck is within the arch, and cables or beams that are in tension suspend the central part of the deck from the arch.
+
+
+== Function ==
+For a specific construction method, especially for masonry arches, the proportions of the arch remain similar no matter what the size: wider arches are thus required to be taller arches. For a semi-circular arch, the height is half of the span. Bridges across deep, narrow gorges can have their arch placed entirely beneath a flat roadway, but bridges in flatter country rise above their road approaches. A wide bridge may require an arch so tall as to become a significant obstacle and incline for the roadway. Small bridges can be hump-backed, but larger bridges such as the Old Bridge, Pontypridd may become so steep as to require steps, making their use for wheeled traffic difficult. Railways also find arched bridges difficult as they are even less tolerant of inclines. Where simple arched bridges are used for railways on flat terrain the cost of building long approach embankments may be considerable.
+Further issues are the foundations for the bridge. Arch bridges generate large side thrusts on their footings and so may require a solid bedrock foundation. Flattening the arch shape to avoid the humpback problem, such as for Brunel's Maidenhead bridge, increases this side thrust. It is often impossible to achieve a flat enough arch, simply owing to the limitations of the foundations – particularly in flat country. Historically, such bridges often became viaducts of multiple small arches.
+With the availability of iron or concrete as structural materials, it became possible to construct a through arch bridge: a bridge where the deck does not have to be carried over the top of the arch. This requires a structure that can both support the deck from the arch by tension rods, chains or cables and allow a gap in the arch, so the deck can pass through it. The first of these in particular cannot be achieved with masonry construction and requires wrought iron or steel.
+The use of a through arch does not change the proportions or size of the arch: a large span will still require a tall arch, although this can now reach any height above the deck without obstructing traffic. The arch may also reach downwards at its sides, to either reach strong foundations or to place the roadway at a convenient height for spanning a deep valley from a plateau above. The Tyne Bridge demonstrates both of these advantages.
+
+
+== Notable examples ==
+A well-known example of this type is the Sydney Harbour Bridge in Australia, which is based on the Hell Gate Bridge in New York City. Other bridges include the Chaotianmen Bridge in China, the world's longest through arch bridge; Tyne Bridge of Newcastle upon Tyne; the Bayonne Bridge that connects New York City to New Jersey, which is longer than the Sydney Harbour Bridge; the Ahwaz White Bridge; the Bourne Bridge and Sagamore Bridge, smaller, near-twin bridges over the Cape Cod Canal; the Pennybacker Bridge in Austin, Texas and as the Hernando de Soto Bridge in Memphis, Tennessee. Wylam Railway Bridge is an early through arch bridge upstream of the Tyne Bridge.
+
+		
+		
+		
+		
+		
+
+
+== Arch rib arrangements ==
+
+The through arch bridge usually consists of two ribs, although there are examples like the Hulme Arch Bridge of through arches with a single rib. When the two arches are built in parallel planes, the structure is a parallel rib arch bridge. When the two arch ribs lean together and shorten the distance between the arches near the top, the span is a basket handle arch bridge.
+
+
+== Tied-arch bridges ==
+
+Many tied-arch bridges are also through-arch bridges. As well as tying the side-loads of the arch, the tension member is also at a convenient height to form the bridge deck, as for a through-arch.
+The converse is not true: through-arch bridges do not imply that they are tied-arch bridges, unless they also provide the deliberate tension member that is the key to a tied-arch. Although visually similar, tied- and untied- through-arch bridges are quite distinct structurally and are unrelated in how they distribute their loads. In particular, cast iron bridges such as the Stanley Ferry Aqueduct may resemble tied-arch bridges, but as cast iron is weak in tension they are not structurally a tied arch.
+
+
+== Construction sequence ==
+
+In some locations it is not practical to support the arch from beneath during construction. 
+In modern construction, temporary towers are erected and supported by cables anchored in the ground. Temporary cables fly from each side to support arch segments as they are constructed. When the arches are almost complete a jacking bridge is placed over or beneath the gap to force the arches apart, whence the final section is constructed in place or lifted into position.
+In some cases, this type of arch has been created by constructing cantilevers from each side, with the shoreside ends bolted securely down into heavy piers. The incomplete channel ends are then constructed toward each other and either filled by construction or by lifting a prefabricated center section. This type of construction was used in the Sydney Harbour Bridge illustrated above, with the supporting cables to the higher side of the arches removed after completion.
+
+
+== See also ==
+Arch bridge
+List of the largest arch bridges
+Tied-arch bridge
+Moon bridge
+
+
+== References ==
+
+Tonias, Demetrios E.; Jim J. Zhao. Bridge Engineering. ISBN 0-07-145903-0.

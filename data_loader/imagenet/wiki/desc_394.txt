@@ -1,0 +1,118 @@
+Sturgeon is the common name for the 27 species of fish belonging to the family Acipenseridae. The earliest sturgeon fossils date to the Late Cretaceous, and are descended from other, earlier acipenseriform fish who date back to the Triassic period some 245 to 208 million years ago. The family is grouped into four genera: Acipenser, Huso, Scaphirhynchus and Pseudoscaphirhynchus. Two species (A. naccarii and A. dabryanus) may be extinct in the wild, and one (P. fedtschenkoi) may be entirely extinct. Two closely related species, Polyodon spathula (American paddlefish) and Psephurus gladius (Chinese paddlefish, possibly extinct) are of the same order, Acipenseriformes, but are in the family Polyodontidae and are not considered to be "true" sturgeons. Both sturgeons and paddlefish have been referred to as "primitive fishes" because their morphological characteristics have remained relatively unchanged since the earliest fossil record. Sturgeons are native to subtropical, temperate and sub-Arctic rivers, lakes and coastlines of Eurasia and North America.Sturgeons are long-lived, late-maturing fishes with distinctive characteristics, such as a heterocercal caudal fin similar to those of sharks, and an elongated, spindle-like body that is smooth-skinned, scaleless, and armored with five lateral rows of bony plates called scutes. Several species can grow quite large, typically ranging 7–12 ft (2–3+1⁄2 m) in length. The largest sturgeon on record was a beluga female captured in the Volga estuary in 1827, measuring 7.2 m (24 ft) long and weighing 1,571 kg (3,463 lb). Most sturgeons are anadromous bottom-feeders, which migrate upstream to spawn, but spend most of their lives feeding in river deltas and estuaries. Some species inhabit freshwater environments exclusively, while others primarily inhabit marine environments near coastal areas, and are known to venture into open ocean.
+Several species of sturgeon are harvested for their roe, which is processed into the luxury food caviar. This has led to serious overexploitation, which combined with other conservation threats, has brought most of the species to critically endangered status, at the edge of extinction.
+
+
+== Evolution ==
+
+
+=== Fossil history ===
+
+Acipenseriform fishes appeared in the fossil record some 245 to 208 million years ago (Mya) near the end of the Triassic, making them among the most ancient of still-living actinopterygian fishes. True sturgeons appear in the fossil record during the Upper Cretaceous. In that time, sturgeons have undergone remarkably little morphological change, indicating their evolution has been exceptionally slow and earning them informal status as living fossils.  This is explained in part by the long generation interval, tolerance for wide ranges of temperature and salinity, lack of predators due to size and bony plated armor, or scutes, and the abundance of prey items in the benthic environment. Although their evolution has been remarkably slow, they are a highly evolved living fossil, and do not closely resemble their ancestral chondrosteans. They do, however, still share several primitive characteristics, such as heterocercal tail, reduced squamation, more fin rays than supporting bony elements, and unique jaw suspension.
+
+
+=== Phylogeny and taxonomy ===
+Despite the existence of a fossil record, full classification and phylogeny of the sturgeon species has been difficult to determine, in part due to the high individual and ontogenic variation, including geographical clines in certain features, such as rostrum shape, number of scutes, and body length. A further confounding factor is the peculiar ability of sturgeons to produce reproductively viable hybrids, even between species assigned to different genera. While ray-finned fishes (Actinopterygii) have a long evolutionary history culminating in our most familiar fishes, past adaptive evolutionary radiations have left only a few survivors, such as sturgeons and gars.The wide range of the acipenserids and their endangered status have made collection of systematic materials difficult. These factors have led researchers in the past to identify over 40 additional species that were rejected by later scientists.  Whether the species in the Acipenser and Huso genera are monophyletic (descended from one ancestor) or paraphyletic (descended from many ancestors) is still unclear, though  the morphologically motivated division between these two genera clearly is not supported by the genetic evidence. An effort is ongoing to resolve the taxonomic confusion using a continuing synthesis of systematic data and molecular techniques.The phylogeny of the Acipenseridae, as on the cladogram, shows that they have evolved from among the bony fishes. Approximate dates are from Near et al., 2012.
+
+In currently accepted taxonomy, the class Actinopterygii and the order Acipenseriformes are both clades. 
+The family Acipenseridae is subdivided into 2 subfamilies, the Acipenserinae including the genera Acipenser and Huso, and Scaphirhynchinae, including the genera Scaphirhynchus and Pseudoscaphirhynchus. However, multiple recent studies have recovered this arrangement as paraphyletic, instead finding A. oxyrhinchus and A. sturio to form the most basal clade among sturgeons, and all other species being in a separate clade, with the various other species of Acipenser, Scaphirhynchus, Pseudoscaphirhynchus, and Huso to have varying levels of relationship with one another.A potential taxonomy of Acipenseridae is shown here, based on Luo et al. 2019, Nedoluzhko et al. 2020, and Shen et al. 2020. Note the paraphyletic relationships among genera:
+
+The exact placement of Scaphirhynchus varies depending on the study and the methods used, with some placing it within the second-most basal clade comprising primarily Pacific species (shown above), whereas others place it in its own clade that is more derived than the secondmost basal clade but less derived than the most derived Atlantic + Central Asian clade. No studies have yet delineated a relationship between it and Pseudoscaphirhynchus. In addition, the exact relationships of the members of the most derived, primarily Atlantic clade vary, although most analyses at least find all the species in it to form a monophyletic clade. The placement of A. sinensis also varies by the study, with some placing it as the only Pacific member of the otherwise Atlantic-based most-derived clade, whereas others place it with the rest of the Pacific sturgeons as a sister to A. dabryanus.
+
+
+=== Species ===
+The family contains 8 extinct fossil species and 28 extant species/subspecies (include 1 species of Sterlet and 2 species of living fossils), in 4 genera. This list uses the original classification scheme:
+Family Acipenseridae 
+
+Subfamily Acipenserinae
+Genus Acipenser Linnaeus, 1758
+†Acipenser albertensis Lambe 1902 >
+Acipenser baerii J. F. Brandt, 1869 (Siberian sturgeon)
+Acipenser baerii baicalensis A. M. Nikolskii, 1896 (Baikal sturgeon)
+Acipenser baerii stenorrhynchus A. M. Nikolskii, 1896
+Acipenser brevirostrum Lesueur, 1818 (Shortnose sturgeon)
+Acipenser dabryanus A. H. A. Duméril, 1869 (Yangtze sturgeon)
+†Acipenser cruciferus (Cope 1876)
+†Acipenser eruciferus Cope 1876
+Acipenser fulvescens Rafinesque, 1817 (Lake sturgeon)
+†Acipenser gigantissimus Nessov 1997
+Acipenser gueldenstaedtii J. F. Brandt & Ratzeburg, 1833 (Russian sturgeon)
+Acipenser medirostris Ayres, 1854 (Green sturgeon)
+Acipenser mikadoi Hilgendorf, 1892 (Sakhalin sturgeon)
+†Acipenser molassicus Probst 1882
+Acipenser naccarii Bonaparte, 1836 (Adriatic sturgeon)
+Acipenser nudiventris Lovetsky, 1828 (Fringebarbel sturgeon)
+†Acipenser ornatus Leidy 1873
+Acipenser oxyrinchus Mitchill, 1815
+Acipenser oxyrinchus desotoi Vladykov, 1955 (Gulf sturgeon)
+Acipenser oxyrinchus oxyrinchus Mitchill, 1815 (Atlantic sturgeon)
+Acipenser persicus Borodin, 1897 (Persian sturgeon)
+Acipenser ruthenus Linnaeus, 1758 (Sterlet)
+Acipenser schrenckii J. F. Brandt, 1869 (Japanese sturgeon)
+Acipenser sinensis J. E. Gray, 1835 (Chinese sturgeon)
+Acipenser stellatus Pallas, 1771 (Starry sturgeon)
+Acipenser sturio Linnaeus, 1758 (European sea sturgeon)
+†Acipenser toliapicus Agassiz 1844 ex Woodward 1889
+Acipenser transmontanus J. Richardson, 1836 (White sturgeon)
+†Acipenser tuberculosus Probst 1882
+Genus Huso J. F. Brandt & Ratzeburg, 1833
+Huso dauricus (Georgi, 1775) (kaluga)
+Huso huso (Linnaeus, 1758) (beluga)
+Subfamily Scaphirhynchinae
+Genus Scaphirhynchus Heckel, 1835 (native to North America)
+Scaphirhynchus albus (Forbes & R. E. Richardson, 1905) (Pallid sturgeon)
+Scaphirhynchus platorynchus (Rafinesque, 1820) (Shovelnose sturgeon)
+Scaphirhynchus suttkusi J. D. Williams & Clemmer, 1991 (Alabama sturgeon)
+Genus Pseudoscaphirhynchus Nikolskii, 1900 (native to Central Asia)
+Pseudoscaphirhynchus fedtschenkoi (Kessler, 1872) (Syr Darya sturgeon)
+Pseudoscaphirhynchus hermanni (Kessler, 1877) (Dwarf sturgeon)
+Pseudoscaphirhynchus kaufmanni (Kessler, 1877) (Amu Darya sturgeon)
+
+
+== Range and habitat ==
+Sturgeon range from subtropical to subarctic waters in North America and Eurasia. In North America, they range along the Atlantic Coast from the Gulf of Mexico to Newfoundland, including the Great Lakes and the St. Lawrence, Missouri, and Mississippi Rivers, as well as along the West Coast in major rivers from California and Idaho to British Columbia. They occur along the European Atlantic coast, including the Mediterranean basin, especially in the Adriatic Sea and the rivers of North Italy; in the rivers that flow into the Black, Azov, and Caspian Seas (Danube, Dnepr, Volga, Ural and Don); the north-flowing rivers of Russia that feed the Arctic Ocean (Ob, Yenisei, Lena, Kolyma); in the rivers of Central Asia (Amu Darya and Syr Darya) and Lake Baikal. In the Pacific Ocean, they are found in the Amur River along the Russian-Chinese border, on Sakhalin Island, and some rivers in northeast China.Throughout this extensive range, almost all species are highly threatened or vulnerable to extinction due to a combination of habitat destruction, overfishing, and pollution.No species is known to naturally occur south of the equator, though attempts at sturgeon aquaculture are being made in Uruguay, South Africa, and other places.Most species are at least partially anadromous, spawning in fresh water and feeding in nutrient-rich, brackish waters of estuaries or undergoing significant migrations along coastlines. However, some species have evolved purely freshwater existences, such as the lake sturgeon (Acipenser fulvescens) and the Baikal sturgeon (A. baerii baicalensis), or have been forced into them by human or natural impoundment of their native rivers, as in the case of some subpopulations of white sturgeon (A. transmontanus) in the Columbia River and Siberian sturgeon (A. baerii) in the Ob basin.
+
+
+== Physical characteristics ==
+
+Sturgeons retain several primitive characters among the bony fishes. Along with other members of the subclass Chondrostei, they are unique among bony fishes because their skeletons are almost entirely cartilaginous. To maintain structure, sturgeons are one of few organisms to retain a post-embryonic notochord that acts like a soft spine running through the body. Notably, however, the cartilagineous skeleton is not a primitive character, but a derived one; sturgeon ancestors had bony skeletons. They also lack vertebral centra, and are partially covered with five lateral rows of scutes rather than scales.  They also have four barbels—sensory organs that precede their wide, toothless mouths. They navigate their riverine habitats traveling just off the bottom with their barbels dragging along gravel, or murky substrate. Sturgeon are recognizable for their elongated bodies, flattened rostra, distinctive scutes and barbels, and elongated upper tail lobes. The skeletal support for the paired fins of ray-finned fish is inside the body wall, although the ray-like structures in the webbing of the fins can be seen externally.
+Sturgeons are among the largest fish: some beluga (Huso huso) in the Caspian Sea reportedly attain over 5.5 m (18 ft) and 2000 kg (4400 lb) while for kaluga (H. dauricus) in the Amur River, similar lengths and over 1,000 kg (2,200 lb) weights have been reported. They are also among the longest-lived of the fishes, some living well over 100 years and attaining sexual maturity at 20 years or more.  The combination of slow growth and reproductive rates and the extremely high value placed on mature, egg-bearing females make sturgeon particularly vulnerable to overfishing.
+Sturgeons are polyploid; some species have four, eight, or 16 sets of chromosomes.
+
+
+== Life cycle ==
+Sturgeons are long-lived, late maturing fishes. Their average lifespan is 50 to 60 years, and their first spawn does not occur until they are around 15 to 20 years old. Sturgeons are broadcast spawners, and do not spawn every year because they require specific conditions. Those requirements may or may not be met every year due to varying environmental conditions, such as the proper photoperiod in spring, clear water with shallow rock or gravel substrate, where the eggs can adhere, and proper water temperature and flow for oxygenation of the eggs. A single female may release 100,000 to 3 million eggs, but not all will be fertilized. The fertilized eggs become sticky and  adhere to the bottom substrate upon contact. Eight to 15 days are needed for the embryos to mature into larval fish. During that time, they are dependent on their yolk sacs for nourishment. River currents carry the larvae downstream into backwater areas, such as oxbows and sloughs, where the free-swimming fry spend their first year feeding on insect larvae and crustacea. During their first year of growth, they  reach 18 to 20 cm (7.1 to 7.9 in) in length and migrate back into the swift-flowing currents in the main stem river.
+
+
+== Behavior ==
+
+Sturgeons are primarily benthic feeders, with a diet of shellfish, crustaceans, and small fish. Exceptionally, both Huso species, the white sturgeon and the pallid sturgeon feed primarily on other fish as adults. They feed by extending their syphon-like mouths to suck food from the benthos. Having no teeth, they are unable to seize prey, though larger individuals and more predatory species can swallow very large prey items, including whole salmon.  Sturgeons feed non-visually. They are believed to use a combination of sensors, including olfactory, tactile, and chemosensory cues detected by the four barbels, and electroreception using their ampullae of Lorenzini.The sturgeons' electroreceptors are located on the head and are sensitive to weak electric fields generated by other animals or geoelectric sources.  The electroreceptors are thought to be used in various behaviors such as feeding, mating and migration.Many sturgeons leap completely out of the water, usually making a loud splash which can be heard half a mile away on the surface and probably further under water. Why they do this is not known, but suggested functions include group communication to maintain group cohesion, catching airborne prey, courtship display, or to help shed eggs during spawning. Other plausible explanations include escape from predators, shedding parasites, or to gulp or expel air.  Another explanation is that it "simply feels good". There have been some incidents of leaping sturgeon landing in boats, and causing injuries to humans; in 2015, a 5-year-old girl was fatally injured after a sturgeon leapt from the Suwannee River and struck her.
+
+
+== Interactions with humans ==
+
+
+=== Caviar ===
+
+Globally, sturgeon fisheries are of great value, primarily as a source for caviar, but also for flesh. Several species of sturgeon are harvested for their roe which is processed into caviar—a luxury food and the reason why caviar-producing sturgeons are among the most valuable and endangered of all wildlife resources.During the 19th century, the US was the global leader in caviar production, having cornered 90% of the world's caviar trade. Atlantic sturgeon once thrived along the east coast from Canada down to Florida. They were in such abundance in the Hudson River, they were called "Albany beef" and sturgeon eggs were given away at local bars as an accompaniment to 5¢ beer. White sturgeon populations along the US west coast declined simultaneously under the pressure of commercial fishing and human encroachment. Within the course of a century, the once abundant sturgeon fisheries in the US and Canada had drastically declined, and in some areas had been extirpated under the pressure of commercial overharvesting, pollution, human encroachment, habitat loss, and the damming of rivers that blocked their ancestral migration to spawning grounds.By the turn of the century, commercial production of sturgeon caviar in the US and Canada had come to an end. Regulatory protections and conservation efforts were put in place by state and federal resource agencies in the US and Canada, such as the 1998 US federal moratorium that closed all commercial fishing for Atlantic sturgeon. It was during the 20th century that Russia grew to become the global leader as the largest producer and exporter of caviar. As with the decline in sturgeon populations in the US and Canada, the same occurred with sturgeon populations in the Caspian Sea.Beginning with the 1979 US embargo on Iran, poaching and smuggling sturgeon caviar was big business but an illegal and dangerous one. Officers with the Washington Department of Fish and Wildlife (WDFW) busted a poaching ring that was based in Vancouver, Washington. The poachers had harvested 1.65 tons of caviar from nearly 2,000 white sturgeon that were poached from the Columbia River. The caviar was estimated to be worth around $2 million. WDFW busted another ring in 2003, and conducted an undercover sting operation in 2006-2007 that resulted in 17 successful attempts out of a total of 19.In response to concerns over the future of sturgeons and associated commercial products, international trade for all species of sturgeons has been regulated under CITES since 1998.
+
+
+=== Conservation ===
+Sturgeons are long-lived, late maturing fishes with reproductive cycles that include long migrations, and require specific environmental conditions. They are an ancient species that have survived for millions of years but their future is threatened, due in part to their inherent ancestral characteristics and reproductive specificities. The negative impacts of overfishing, poaching, habitat destruction, and the construction of dams that have altered or blocked their annual migration to ancestral spawning grounds have taken a serious toll. Some species of sturgeon are extinct, several are on the verge of extinction, including the Chinese sturgeon, the highly prized beluga sturgeon, and the Alabama sturgeon. Many species are classified as threatened or endangered with noticeable declines in sturgeon populations as the demand for caviar increases. IUCN data indicates that over 85% of sturgeon species are at risk of extinction, making them more critically endangered than any other group of animal species.In addition to global restocking efforts, the monitoring of populations and habitat, and various other conservation efforts by national and state resource agencies as applicable to their respective countries, several conservation organizations have been formed to assist in the preservation of sturgeons around the world. On a global scale, one such organization is the World Sturgeon Conservation Society (WSCS) whose primary objectives include fostering the "conservation of sturgeon species and restoration of sturgeon stocks world-wide”, and supporting the "information exchange among all persons interested in sturgeons." The North American Sturgeon and Paddlefish Society (NASPS) and Gesellschaft zur Rettung des Störs e.V. are WSCS affiliates. WSCS has been instrumental in organizing global conferences where scientists and researchers can exchange information and address the various conservation challenges that threaten the future of sturgeons. Conservation efforts at the grass roots level are also instrumental in helping to preserve sturgeon populations, such as Sturgeon For Tomorrow which was founded in 1977, consists of volunteers and a sturgeon guarding program to monitor known spawning sites. The organization has grown exponentially over the years and has become "the largest citizen advocacy group for sturgeon in the world", and has expanded with affiliate chapters in other states that have sturgeon populations.  Other projects focus on specific local issues, such as the We Pass project, seeking a solution to the migratory impasse represented by the Iron Gates in the Danube River Basin. For example, currently all anadromous Danube sturgeon (all species except the predominantly freshwater sterlet) are now classed as Critically Endangered or extirpated from the upper and middle reaches of the Danube River above the dams.
+
+
+=== Other uses ===
+
+Before 1800, swim bladders of sturgeon (primarily Beluga sturgeon from Russia) were used as a source of isinglass, a form of collagen used historically for the clarification of wine and beer, as a predecessor for gelatin, and to preserve parchments.The Jewish law of kashrut, which only permits the consumption of fish with scales, forbids sturgeon, as they have ganoid scales instead of the permitted ctenoid and cycloid scales. While all Orthodox groups forbid the consumption of sturgeon, some conservative groups do allow it.  The theological debate over its kosher status can be traced back to such 19th-century reformers as Aron Chorin, though its consumption was already common in European Jewish communities.Sturgeons were declared to be a royal fish under a statute dating back to 1324 by King Edward II of England. Technically, the British monarchy still owns all sturgeons, whales, and dolphins that inhabit the waters around England and Wales.  Under the law of the United Kingdom any sturgeons captured within the realm are personal property of the monarch.In heraldry, a sturgeon is the symbol on the coat of arms for Saint Amalberga of Temse.
+
+
+== Notes ==
+This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Sturgeon" . Encyclopædia Britannica (11th ed.). Cambridge University Press.
+
+
+== References ==
+
+
+== External links ==
+FishBase info on Acipenser
+Official website of the World Sturgeon Conservation Society
+PBS special, video clips and public outreach videos about sturgeon Archived February 21, 2020, at the Wayback Machine

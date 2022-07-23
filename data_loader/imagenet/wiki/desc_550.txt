@@ -1,0 +1,90 @@
+An espresso machine brews coffee by forcing pressurized water near boiling point through a "puck" of ground coffee and a filter in order to produce a thick, concentrated coffee called espresso. The first machine for making espresso was built and patented in 1884 by Angelo Moriondo of Turin, Italy. An improved design was patented on 28 April 1903 by Luigi Bezzera. The founder of the La Pavoni company bought the patent and from 1905 produced espresso machines commercially on a small scale in Milan. Multiple machine designs have been created to produce espresso. Several machines share some common elements, such as a grouphead and a portafilter. An espresso machine may also have a steam wand which is used to steam and froth liquids (such as milk) for coffee drinks such as cappuccino and caffe latte.
+Espresso machines may be steam-driven, piston-driven, pump-driven, or air-pump-driven. Machines may also be manual or automatic.
+
+
+== History ==
+The first machine for making espresso was built and patented by Angelo Moriondo of Turin, Italy, who demonstrated a working example at the Turin General Exposition of 1884. He was granted patent no. 33/256 dated 16 May 1884 (according to the "Bollettino delle privative industriali del Regno d'Italia", 2nd Series, Volume 15, Year 1884, pages 635 – 655).  A certificate of industrial title was awarded to Mr. Angelo Moriondo, of Turin, for an invention called "New steam machinery for the economic and instantaneous confection of coffee beverage, method 'A. Moriondo', Plate CXL".
+In 1901, Luigi Bezzera of Milan patented improvements to the machine. Bezzera was not an engineer, but a mechanic. He patented a number of improvements to the existing machine, the first of which was applied for on 19 December 1901. It was titled "Innovations in the machinery to prepare and immediately  serve coffee beverage" (Patent No. 153/94, 61707, granted on 5 June 1902). In 1905 the patent was bought by Desiderio Pavoni who founded the La Pavoni company and began to produce the machine commercially (one a day) in a small workshop in Via Parini in Milan.
+In 1933 Hungarian-Italian Francesco Illy invented the first automatic coffee machine that substituted pressurized water for steam. The Illetta became the predecessor of today's espresso machine.
+
+		
+		
+
+
+== Drive mechanism ==
+
+Multiple machine designs have been created to produce espresso. Several machines share some common elements.
+Varying the fineness of the grind, the amount of pressure used to tamp the grinds, or the pressure itself can be used to vary the taste of the espresso. Some baristas pull espresso shots directly into a pre-heated demitasse cup or shot glass, to maintain a higher temperature of the espresso.
+
+
+=== Piston-driven ===
+The piston-driven, or lever-driven, machine was developed in Italy in 1945 by Achille Gaggia, founder of espresso machine manufacturer Gaggia. The design generically uses a lever, pumped by the operator, to pressurize hot water and send it through the coffee grounds. The act of producing a shot of espresso is colloquially termed pulling a shot, because these lever-driven espresso machines required pulling a long handle to produce a shot. Lever-driven espresso machines are sometimes called manual espresso machines because of this.
+There are two types of lever machines; manual piston and spring piston design. With the manual piston, the operator directly pushes the water through the grounds. In the spring piston design, the operator works to tension a spring, which then delivers the pressure for the espresso (usually 8 to 10 bar; 116 to 145 psi).
+
+
+=== Steam-driven ===
+
+A steam-driven unit operates by forcing water through the coffee by using steam or steam pressure. The first espresso machines were steam types, produced when a common boiler was piped to four group heads so that multiple types of coffee could be made at the same time. This design is still used today in lower-cost consumer machines, as it does not need to contain moving parts. Also, steam-driven machines do not produce as high a pressure for extraction compared with pump-driven. This results in the crema, a hallmark of an espresso, being of lower quality.
+
+
+=== Pump-driven ===
+
+A refinement of the piston machine is the pump-driven machine, which was introduced in the Faema E61 in 1961, and has become the most popular design in commercial espresso bars. Instead of using manual force, a motor-driven pump provides the force necessary for espresso brewing. Espresso machines are made to accept water directly from a cold water line supply, common in commercial installations, or from a separate tank that must be filled with water by hand. The latter is more common with lower-volume commercial installations and domestic espresso machines.  Due to the required high pumping pressure and precision flow control needed, the particular type of electric pumps typically used are known as solenoid-piston pumps.  These pumps are classified as a positive displacement type (general category) of pump.
+Four variants exist in home machines, depending on how brew water and steam are boiled; in discussion these are generally known by acronyms.
+
+Single boiler (SB)
+These machines can brew only, and not steam, requiring only a single boiler. They are relatively uncommon, with steam wands being a simple and valued addition.
+Single boiler, dual use (SB/DU)
+Some home pump espresso machines use a single chamber both to heat water to brewing temperature and to boil water for steaming milk.  However, they can perform only one operation at a time, requiring a warm up period between the execution of espresso pull and the milk frothing process. Since the temperature for brewing is less than the temperature for creating steam the machine requires time to make the transition from one mode to the other. Moreover, after the brewing process, a single boiler will expel (usually minor) quantities of water through the steam wand that were left over from brewing, which can cause the steam heated milk to then have a slightly watered down taste. To avoid this, the leftover water needs to be collected from the steam wand before steaming of the milk should begin. SB/DUs are generally found within the lower tiers of enthusiast home models, with steam wands being a simple and valued addition.:
+Heat exchanger (HX)
+Some machines use a single boiler kept at steaming temperature, but water for brewing is passed through a heat exchanger, taking some heat from the steam without rising to the same temperature. Although the water for brewing remains at a lower range than that required for steaming milk, it is still too hot for proper coffee extraction without first cooling; thus this type of machine requires a cooling flush of 4–6 seconds prior to the first espresso pull. Once the machine is dialed into the proper temperature, as many shots can be pulled as required without refreshing. However, if the user leaves the machine idle again for some period, the flushing process will need to be repeated. The HX variety is found in many mid-range machines and many users install thermometers to assist them in dialing in correct temperatures. There is some controversy as to the temperature stability of the brewing water, since it is indirectly converted from steaming temperature to brewing temperature, rather than kept at a brewing temperature. The first HX was the Faema E61 of 1961.
+Dual boiler (DB)
+Finally, in some espresso machines for commercial or home use, water for brewing is heated in a separate chamber, which requires two separate boilers. This is found primarily in higher-end machines, though it is also found in some mid-range machines, overlapping with HX. The term dual boiler is used narrowly for machines with two separate boilers, and more broadly for what are more properly called dual heater (DH) machines, featuring a boiler for brewing and a separate thermoblock (TB) for heating brew water to steaming temperature – opposite to HX machines, where the boiler is at steaming temperature and is cooled to brewing temperature. In principle, TB machines yield a more stable brew temperature at the expense of steaming performance and speed, while HX machines yield better steaming at the expense of stable brew temperature. True DB machines provide stable brew temperatures and fast steaming, but are larger and more expensive. The first DB was the La Marzocco GS of 1970.
+
+
+=== Air-pump-driven ===
+In recent years air-pump-driven espresso machines have emerged. These machines use compressed air to force the hot water through the coffee grounds. The hot water is typically added from a kettle or a thermo flask. The compressed air comes from either a hand-pump, N2 or CO2 cartridges or an electric compressor. One of the advantages of the air-pump-driven machines is that they are much smaller and lighter than electric machines. They are often handheld and portable. The first air-pump-driven machine was the AeroPress, which was invented by Alan Adler, an American inventor, and introduced in 2005. Handpresso Wild, invented by Nielsen Innovation SARL, a French innovation house, was introduced in 2007.
+
+
+== Machine parts ==
+
+A grouphead (or group head) is the receiver for the removable portafilter (or group handle). A typical consumer espresso machine normally has only one grouphead, while popular professional machines, such as those used at commercial coffee shops, can contain anywhere from one to seven. During the process of extracting a shot of espresso, hot water is forced through the grouphead under pressure. The grouphead contains many holes (the shower) that attempt to distribute the pressurised water evenly over the surface of the grinds in the portafilter basket and thereby achieve an even cross sectional flow.
+
+A portafilter (or group handle) attaches to the grouphead of semi-automatic and piston-driven espresso machines, and carries a tamped puck of coffee grounds within its basket.  It is usually made of brass for better heat retention, and is attached by a plastic or wooden handle.  The portafilter forms a seal with the espresso machine's gasket, and directs high-pressure hot water through the coffee puck. After-market retailers also sell bottomless portafilters that minimize the espresso's contact with any metal. A bottomless portafilter is one tool baristas use to analyze the quality of the coffee grind and the evenness of the extraction and allows for a visual check of "channeling" or the condition in which water is able to pierce a hole in the espresso puck during the brew process leading to poor extraction. Often, baristas use knockboxes to store their spent espresso grounds after they have pulled a shot.
+
+
+== Automation ==
+
+Machines that have pumps, sensors, valves, and grinders to automate the brewing process are generally referred to as automatic.
+
+Semi-automatic
+Use a pump rather than manual force to deliver water. The remaining brew pressure in the basket is released via a three-way valve.
+Automatic
+These machines also automate the brewed volume (hence indirectly brew time). They do this by adding an in-line flowmeter to the grouphead: when the programmed amount of water has passed through the meter, the pump turns off. Grinding and tamping are still manual.
+Super-automatic
+These machines automatically grind the coffee, tamp it, and extract the espresso shot. The operator only has to fill the bean hopper and, if the machine is not connected to a water line, add water to a reservoir. Some models contain an automated milk frothing and dispensing device. Super-automatic machines take away the ability to manually tamp and grind the coffee, which may affect the quality of the espresso.Commercial establishments generally use semi-automatic machines with several group heads. These are much larger than consumer models and able to produce espresso shots more quickly. Many commercial machines can function in an automatic mode.
+Manual or semi-automatic machines offer more control of shot quality. Because when to cut the shot (brew time) is a critical variable, which is often adjusted shot-by-shot, semi-automatic machines are often preferred over automatics, though some machines are automatic. Manual machines are more popular in Europe, where it is more common to drink straight espresso.
+Most super-automatic machines are more compact than a machine with a separate grinder.
+
+
+== Stove top ==
+
+Moka pots, also known as stove top espresso makers, are similar to espresso machines in that they brew under pressure and the resulting brew shares some similarities, but in other respects differ. As such, their characterization as "espresso" machines is at times contentious, but due to their use of pressure and steam for brewing, comparable to all espresso prior to the 1948 Gaggia, they are accepted within broader uses of the term, but distinguished from standard modern espresso machines.
+Moka pots are similar to espresso machines in that they brew under pressure, produce coffee with an extraction ratio similar to that of a conventional espresso machine, and, depending on bean variety and grind selection, moka pots can create the same foam emulsion known as crema that conventional espresso machines can.
+Moka pots differ from espresso machines in that they brew under substantially lower pressure – 1.5 bars (21 psi) rather than 9 bars (130 psi) – and use hotter water – a mix of boiling water and steam at above 100 °C (212 °F), rather than 92–96 °C (198–205 °F) of espresso machines, similar to early steam brewing machines.
+The bottom chamber contains the water.  The middle chamber is a filter-basket holding the ground coffee and sits within the bottom chamber.  The top chamber, with a metal filter, screws onto the bottom chamber.  When the pot is heated on a stove, the pressure from the steam in the bottom chamber forces the water through a tube into the filter-basket, through the ground coffee, the metal filter, and it then funnels into the top chamber where the coffee is then ready to serve. They are commonly found in Italy, Spain and Portugal. They are also known as a macchinetta, Italian for little machine or caffettiera, Italian for coffee maker.
+
+
+== See also ==
+
+Coffeemaker
+Coffee wars
+Coffee vending machine
+
+
+== References ==
+
+
+== External links ==
+How Espresso Machines Work
+The Long History of the Espresso Machine

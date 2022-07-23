@@ -1,0 +1,53 @@
+A leafhopper is the common name for any species from the family Cicadellidae. These minute insects, colloquially known as hoppers, are plant feeders that suck plant sap from grass, shrubs, or trees. Their hind legs are modified for jumping, and are covered with hairs that facilitate the spreading of a secretion over their bodies that acts as a water repellent and carrier of pheromones. They undergo a partial metamorphosis, and have various host associations, varying from very generalized to very specific. Some species have a cosmopolitan distribution, or occur throughout the temperate and tropical regions. Some are pests or vectors of plant viruses and phytoplasmas. The family is distributed  all over the world, and constitutes the second-largest hemipteran family, with at least 20,000 described species.
+They belong to a lineage traditionally treated as infraorder Cicadomorpha in the suborder Auchenorrhyncha, but as the latter taxon is probably not monophyletic, many modern authors prefer to abolish the Auchenorrhyncha and elevate the cicadomorphs to a suborder Clypeorrhyncha. Members of the tribe Proconiini of the subfamily Cicadellinae are commonly known as sharpshooters.
+
+
+== Description and ecology ==
+
+The Cicadellidae combine the following features:
+
+The thickened part of the antennae is very short and ends with a bristle (arista).
+Two ocelli (simple eyes) are present on the top or front of the head.
+The tarsi are made of three segments.
+The femora are at front with, at most, weak spines.
+The hind tibiae have one or more distinct keels, with a row of movable spines on each, sometimes on enlarged bases.
+The base of the middle legs is close together where they originate under the thorax.
+The front wings not particularly thickened.An additional and unique character of leafhoppers is the production of brochosomes, which are thought to protect the animals, and particularly their egg clutches, from predation as well as pathogens.
+
+Like other Exopterygota, the leafhoppers undergo direct development from nymph to adult without a pupal stage. While many leafhoppers are drab little insects as is typical for the Membracoidea, the adults and nymphs of some species are quite colorful. Some – in particular Stegelytrinae – have largely translucent wings and resemble flies at a casual glance.
+Leafhoppers have piercing-sucking mouthparts, enabling them to feed on plant sap. A leafhoppers' diet commonly consists of sap from a wide and diverse range of plants, but some are more host-specific. Leafhoppers mainly are herbivores, but some are known to eat smaller insects, such as aphids, on occasion. A few species are known to be mud-puddling, but as it seems, females rarely engage in such behavior. Many species are also known to opportunistically pierce the human skin and draw blood but the function of such behaviour is unclear.Leafhoppers can transmit plant pathogens, such as viruses, phytoplasmas and bacteria. Cicadellidae species that are significant agricultural pests include the beet leafhopper (Circulifer tenellus), the maize leafhopper  (Cicadulina mbila), potato leafhopper (Empoasca fabae), two-spotted leafhopper (Sophonia rufofascia), blue-green sharpshooter (Graphocephala atropunctata), glassy-winged sharpshooter (Homalodisca vitripennis), the common brown leafhopper (Orosius orientalis), rice green leafhoppers  (Nephotettix spp.), and the white apple leafhopper (Typhlocyba pomaria). The beet leafhopper (Circulifer tenellus) can transmit the beet curly top virus to various members of the nightshade family, including tobacco, tomato, or eggplant, and is a serious vector of the disease in chili pepper in the Southwestern United States.
+In some cases, the plant pathogens distributed by leafhoppers are also pathogens of the insects themselves, and can replicate within the leafhoppers' salivary glands. Leafhoppers are also susceptible to various insect pathogens, including Dicistroviridae viruses, bacteria and fungi; numerous parasitoids attack the eggs and the adults provide food for small insectivores.
+Some species such as the Australian Kahaono montana even build silk nests under the leaves of trees they live in, to protect them from predators.
+
+
+== Systematics ==
+In the now-obsolete classification that was used throughout much of the 20th century, the leafhoppers were part of the Homoptera, a paraphyletic assemblage uniting the basal lineages of Hemiptera and ranked as suborder. The splitting of the Homoptera is likely to be repeated for the Auchenorrhyncha for similar reasons, as the Auchenorrhyncha simply seem to group the moderately advanced Hemiptera, regardless of the fact the highly apomorphic Coleorrhyncha and Heteroptera (typical bugs) evolved from auchenorrhynchans. Hence, a recent trend treats the most advanced hemipterans as three or four lineages, namely Archaeorrhyncha (Fulgoromorpha if included in Auchenorrhyncha), Coleorrhyncha and Heteroptera (sometimes united as Prosorrhyncha) and Clypeorrhyncha.Within the latter, the three traditional superfamilies – Cercopoidea (froghoppers and spittlebugs), Cicadoidea (cicadas) and Membracoidea – appear to be monophyletic. The leafhoppers are the most basal living lineage of Membracoidea, which otherwise include the families Aetalionidae (aetalionid treehoppers), Membracidae (typical treehoppers and thorn bugs), Melizoderidae and the strange Myerslopiidae.
+
+
+=== Subfamilies ===
+
+The leafhoppers are divided into 25 subfamilies, which are listed here alphabetically, as too little is known about the family's internal phylogeny.
+
+
+== See also ==
+Planthopper
+Treehopper
+List of animals that produce silk
+
+
+== References ==
+
+
+== Further reading ==
+Carver, M, FG. Gross, and TE. Woodward. 1991. Hemiptera (bugs, leafhoppers, cicadas, aphids, scale insects, etc.) In: The Insects of Australia – a Textbook for Students and Research Workers Volume 1. Melbourne University Press, Melbourne, Australia".
+
+
+== External links ==
+Red-banded leafhopper Graphocephala coccinea – diagnostic photographs and information
+Illinois Natural History Survey:leafhoppers
+Leafhoppers of North and South America
+Sharpshooter Leafhoppers of the World (Hemiptera: Cicadellinae) – Online Database with color photos of nearly all described species.
+Leafhoppers Pinellas County Florida
+NMSU Entomology Plant Pathology; Weed Science. "New Mexico State University Carol Sutherland leafhopper collection". Archived from the original on 2013-05-01. Retrieved 2013-07-15.
+Auchenorrhyncha keys, Australia and neighbouring areas
+DrMetcalf: a resource on cicadas, leafhoppers, planthoppers, spittlebugs, and treehoppers

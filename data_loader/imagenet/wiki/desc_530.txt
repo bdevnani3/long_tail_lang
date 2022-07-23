@@ -1,0 +1,40 @@
+A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock.
+Digital clocks are often associated with electronic drives, but the "digital" description refers only to the display, not to the drive mechanism. (Both analogue and digital clocks can be driven either mechanically or electronically, but "clockwork" mechanisms with digital displays are rare).
+
+
+== History ==
+The first digital pocket watch was the invention of Austrian engineer Josef Pallweber who created his "jump-hour" mechanism in 1883.  Instead of a conventional dial, the jump-hour featured two windows in an enamel dial, through which the hours and minutes are visible on rotating discs. The second hand remained conventional. By 1885 Pallweber mechanism was already on the market in pocket watches by Cortébert and IWC; arguably contributing to the subsequent rise and commercial success of IWC. The principles of Pallweber jump-hour movement had appeared in wristwatches by the 1920s (Cortébert) and are still used today (Chronoswiss Digiteur). While the original inventor didn't have a watch brand at the time, his name has since been resurrected by a newly established watch manufacturer.Plato clocks used a similar idea but a different layout. These spring-wound pieces consisted of a glass cylinder with a column inside, affixed to which were small digital cards with numbers printed on them, which flipped as time passed. The Plato clocks were introduced at the St. Louis World Fair in 1904, produced by Ansonia Clock Company. Eugene Fitch of New York patented the clock design in 1903.
+13 years earlier Josef Pallweber had patented the same invention using digital cards (different from his 1885 patent using moving disks) in Germany (DRP No. 54093).
+The German factory Aktiengesellschaft für Uhrenfabrikation Lenzkirch made such digital clocks in 1893 and 1894.The earliest patent for a digital alarm clock was registered by D.E Protzmann and others on October 23, 1956, in the United States. Protzmann and his associates also patented another digital clock in 1970, which was said to use a minimal amount of moving parts. Two side-plates held digital numerals between them, while an electric motor and cam gear outside controlled movement.In 1970, the first digital wristwatch with an LED display was mass-produced. Called the Pulsar, and produced by the Hamilton Watch Company, this watch was hinted at two years prior when the same company created a prototype digital watch for Kubrick's 2001: A Space Odyssey.
+
+
+== Construction ==
+Digital clocks typically use the 50 or 60 hertz oscillation of AC power or a 32,768 hertz crystal oscillator as in a quartz clock to keep time. Most digital clocks display the hour of the day in 24-hour format; in the United States and a few other countries, a commonly used hour sequence option is 12-hour format (with some indication of AM or PM). Some timepieces, such as many digital watches, can be switched between 12-hour and 24-hour modes. Emulations of analog-style faces often use an LCD screen, and these are also sometimes described as "digital".
+
+
+== Displays ==
+
+To represent the time, most digital clocks use a seven-segment LED, VFD, or LCD for each of four digits. They generally also include other elements to indicate whether the time is AM or PM, whether or not an alarm is set, and so on. Older digital clocks used numbers painted on wheels, or split-flap display.
+
+
+=== Setting ===
+If people find difficulty in setting the time in some designs of digital clocks in electronic devices where the clock is not a critical function, they may not be set at all, displaying the default after powered on, 00:00 or 12:00.Because they run on electricity, digital clocks often need to be reset whenever the power is cut off, even for a very brief period of time.  This is a particular problem with alarm clocks that have no "battery" backup, because a power outage during the night usually prevents the clock from triggering the alarm in the morning.
+To reduce the problem, many devices designed to operate on household electricity incorporate a battery backup to maintain the time during power outages and during times of disconnection from the power supply. More recently, some devices incorporate a method for automatically setting the time, such as using a broadcast radio time signal from an atomic clock, getting the time from an existing satellite television or computer connection, or by being set at the factory and then maintaining the time from then on with a quartz movement powered by an internal rechargeable battery.
+Commercial digital clocks are typically more reliable than consumer clocks. Multi-decade backup batteries can be used to maintain time during power loss.
+
+		
+		
+		
+
+
+== Uses ==
+
+Because digital clocks can be very small and inexpensive devices that enhance the popularity of product designs, they are often incorporated into all kinds of devices such as cars, radios, televisions, microwave ovens, standard ovens, computers and cell phones. Sometimes their usefulness is disputed: a common complaint is that when time has to be set to Daylight Saving Time, many household clocks have to be readjusted.  The incorporation of automatic synchronization by a radio time signal is reducing this problem (see Radio clock).
+
+
+== References ==
+
+
+== External links ==
+History of the Digital Watch
+Museum of Vintage Rare Digital LCD Wrist Watches

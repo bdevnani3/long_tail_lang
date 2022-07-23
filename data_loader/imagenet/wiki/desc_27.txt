@@ -1,0 +1,80 @@
+A newt is a salamander in the subfamily Pleurodelinae. The terrestrial juvenile phase is called an eft. Unlike other members of the family Salamandridae, newts are semiaquatic, alternating between aquatic and terrestrial habitats. Not all aquatic salamanders are considered newts, however. More than 100 known species of newts are found in North America, Europe, North Africa and Asia. Newts metamorphose through three distinct developmental life stages: aquatic larva, terrestrial juvenile (eft), and adult. Adult newts have lizard-like bodies and return to the water every year to breed, otherwise living in humid, cover-rich land habitats.
+Newts are threatened by habitat loss, fragmentation and pollution. Several species are endangered, and at least one species, the Yunnan lake newt, has become extinct recently.
+
+
+== Etymology ==
+
+The Old English name of the animal was efte, efeta (of unknown origin), resulting in Middle English eft;
+this word was transformed irregularly into euft, evete, or ewt(e). The initial "n" was added from the indefinite article "an" by provection (juncture loss) ("an eft" → "a n'eft" → ...) by the early 15th century. The form "newt" appears to have arisen as a dialectal variant of eft in Staffordshire, but entered Standard English by the Early Modern period (used by Shakespeare in Macbeth iv.1). The regular form eft, now only used for newly metamorphosed specimens, survived alongside newt, especially in composition, the larva being called "water-eft" and the mature form "land-eft" well into the 18th century, but the simplex "eft" as equivalent to "water-eft" has been in use since at least the 17th century.Dialectal English and Scots also has the word ask (also awsk, esk in Scots) used for both newts and wall lizards, from Old English āþexe, from Proto-Germanic *agiþahsijǭ, literally "lizard-badger" or "distaff-like lizard" (compare German Eidechse and Echse, both "lizard;" *agi- is ultimately cognate with Greek ὄφις "snake," from Proto-Indo-European *h₁ogʷʰis). Latin had the name stellio for a type of spotted newt, now used for species of the genus Stellagama. Ancient Greek had the name κορδύλος, presumably for the water newt (immature newt, eft). German has Molch, from Middle High German mol, wikt:olm, like the English term of unknown etymology.
+Newts are also known as Tritones (viz., named for the mythological Triton) in historical literature, and "triton" remains in use as common name in some Romance languages, in Greek, in Romanian, Russian, and Bulgarian. The systematic name Tritones was introduced alongside Pleurodelinae by Tschudi in 1838, based on the type genus named Triton by Laurenti in 1768. Laurenti's Triton was renamed to Triturus ("Triton-tail") by Rafinesque in 1815. Tschudi's Pleurodelinae is based on the type genus Pleurodeles (ribbed newt) named by Michahelles in 1830 (the name meaning "having prominent ribs," formed from πλευρά "ribs" and δῆλος "conspicuous").
+
+
+== Distribution and habitats ==
+
+Newts are found in North America, Europe, North Africa and Asia. The Pacific newts (Taricha) and the Eastern newts (Notophthalmus) with together seven species are the only representatives in North America, while most diversity is found in the Old World: In Europe and the Middle East, the group's likely origin, eight genera with roughly 30 species are found, with the ribbed newts (Pleurodeles) extending to northernmost Africa. Eastern Asia, from Eastern India over Indochina to Japan, is home to five genera with more than 40 species.Newts are semiaquatic, spending part of the year in the water for reproduction and the rest of the year on land. While most species prefer stagnant water bodies such as ponds, ditches or flooded meadows for reproduction, some species such as the Danube crested newt can also occur in slow-flowing rivers. The European brook newts (Calotriton) and European mountain newts (Euproctus) have even adapted to life in cold, oxygen-rich mountain streams. During their terrestrial phase, newts live in humid habitats with abundant cover such as logs, rocks, or earth holes.
+
+
+== Characteristics ==
+Newts share many of the characteristics of their salamander kin, Caudata, including semipermeable glandular skin, four equal-sized limbs, and a distinct tail. The newt's skin, however, is not as smooth as that of other salamanders. The cells at the site of an injury have the ability to undifferentiate, reproduce rapidly, and differentiate again to create a new limb or organ. One hypothesis is that the undifferentiated cells are related to tumor cells, since chemicals that produce tumors in other animals will produce additional limbs in newts.
+
+
+== Development ==
+The main breeding season for newts (in the Northern Hemisphere) is in June and July. After courtship rituals of varying complexity, which take place in ponds or slow-moving streams, the male newt transfers a spermatophore, which is taken up by the female. Fertilized eggs are laid singly and are usually attached to aquatic plants. This distinguishes them from the free-floating eggs of frogs or toads, which are laid in clumps or in strings. Plant leaves are usually folded over and attached to the eggs to protect them. The larvae, which resemble fish fry but are distinguished by their feathery external gills, hatch out in about three weeks. After hatching, they eat algae, small invertebrates, or other amphibian larvae.During the subsequent few months, the larvae undergo metamorphosis, during which they develop legs, and the gills are absorbed and replaced by air-breathing lungs. Some species, such as the North American newts, also become more brightly colored during this phase. Once fully metamorphosed, they leave the water and live a terrestrial life, when they are known as "efts." Only when the eft reaches adulthood will the North American species return to live in water, rarely venturing back onto the land. Conversely, most European species live their adult lives on land and only visit water to breed.
+
+
+== Toxicity ==
+
+Many newts produce toxins in their skin secretions as a defence mechanism against predators. Taricha newts of western North America are particularly toxic. The rough-skinned newt Taricha granulosa of the Pacific Northwest produces more than enough tetrodotoxin to kill an adult human, and some Native Americans of the Pacific Northwest used the toxin to poison their enemies. However, the toxins are only dangerous if ingested or otherwise enter the body e.g. through a wound. Newts can safely live in the same ponds or streams as frogs and other amphibians, or be kept as pets. The only predators of Taricha newts are garter snakes, some having developed a resistance to the toxin. Most newts can be safely handled, provided the toxins they produce are not ingested or allowed to come in contact with mucous membranes or breaks in the skin.
+
+
+== Systematics ==
+Newts form one of three subfamilies in the family Salamandridae, aside Salamandrinae and Salamandrininae. They comprise most extant species in the family, roughly 100, which are classified in sixteen genera:
+
+Hypselotriton and Liangshantriton are regarded as separate genera by some authors, but this is not unanimous.The term "newt" has traditionally been seen as an exclusively functional term for salamanders living in water, and not a clade. Phylogenetic analyses have however shown that species in the Salamandridae traditionally called newts do form a monophyletic group. Other, more distantly related salamander families also contain fully or in part aquatic species, such as the mole salamanders, the Proteidae, or the Sirenidae.
+Phylogenetic analyses estimated the origin of the newt subfamily in the Late Cretaceous to Eocene. Several fossil salamanders have also been referred to the Pleurodelinae, including:
+
+
+== Anatomy and physiology ==
+
+
+=== Circulation ===
+The heart of newts, like that of most amphibians, consists of two atria and one ventricle. Blood flows from the anterior and posterior caval veins into the right atrium; blood that entered the heart from the left atrium is then expelled out of the ventricle. Newts do not have a coronary artery on the ventricle, due to circulation that is found in the conus arteriosus. Newts contain a special circulatory adaptation that allows them to survive ventricular penetration: when a newt's ventricle is punctured, the heart will divert the blood directly into an ascending aorta via a duct located between the ventricle and the conus arteriosus. Newts begin to regenerate the ventricle by a thickening of the epicardial layer that protrudes to allow the new vessels to form, and conclude with a regeneration of the entire myocardial wall.In early stages of development in amphibians, ventilator gas transport and hemoglobin gas transport are independent mechanisms and not yet coupled as they are in adulthood. In juvenile amphibians, there is no cardiovascular response in conditions of hypoxia. When newts are induced into anemia, they are able to respire without the need of blood cells. In T. carnifex, around two weeks after anemia is induced, the newts produced a mass of cells that helps to revitalize the already circulating red blood cell mass.
+
+
+=== Respiration ===
+Adult crested newts (Triturus cristus) were found to breathe mainly via the skin but also through the lungs and the buccal cavity. Lung breathing is mainly used when there is a lack of oxygen in the water, or at high activity such as during courtship, breeding, or feeding.A form of compensatory respiration is the ability to release stored erythrocytes when needed, for example under hypoxia. Spleen size can increase as the temperature declines for adults – in larvae, there is no dramatic change in spleen size. During hibernation, an increase in liver pigment cells allows for storage of oxygen, as well as other important ions and free radicals.
+
+
+=== Osmoregulation ===
+In experiments, dehydrated eastern newts were prone to a loss of motor control: After only 22% water weight loss, newts in the aquatic phase lost their ability to remain upright and mobile. However, after adaptation to a terrestrial phase, they could lose 30% before a loss of motor control was recorded. Newts in the terrestrial phase were found to dehydrate much quicker than newts in the aquatic phase, but conversely, during rehydration, dehydrated terrestrial animals will go through water gain 5x faster than dehydrated newts that are in the aquatic phase.In the Italian crested newt, it was shown that during winter months, prolactin is released into the circulatory system, which drives the newts into the aquatic environment and reduces the active transport of sodium ions. In contrast to prolactin, which decreases osmotic permeability, vasotocin increases the permeability and is secreted during the summer months. Arginine vasotocin not only increases cutaneous water permeability, but promotes increased cutaneous blood flow.
+
+
+=== Thermoregulation ===
+Thermoregulation, in combination with seasonal acclimation, describes the major mechanisms of how newts, as ectotherms cope with the changing temperatures existing in their environments. This regulation is most often achieved through behavioral thermoregulation. They are thermoconformers, which means they will acclimate to their surrounding environmental temperatures. When there is a large range of environmental temperatures, newts are insensitive to a thermal gradient profile.To escape predators, newt larvae have been found to shift their microhabitat to a temperature range that exists outside the predator's preferred temperature range. Larvae that are in the metamorphosizing stage tend to prefer warmer temperatures than those in the stage following metamorphosis. Therefore, the larvae in this stage will undergo a much more precise thermoregulation process than those in the intermediate stage.Reproductive females of the Italian crested newt were shown to regulate their body temperature more precisely and prefer higher temperatures than non-reproductive females and males.
+
+
+=== Susceptibility to pollution ===
+Larvae, with their great number of lamellae in their gills, are more susceptible to pollutants than adults. Cadmium, a heavy metal released into the environment from industrial and consumer waste, has been shown to be detrimental to the Italian crested newt even at a concentrations below Italian and European thresholds, by disrupting the activity of the adrenal gland. In experiments allowing Italian crested newts to be exposed to nonylphenol, an endocrine disruptor common in leakage from sewers, there was a decrease in corticosterone and aldosterone, hormones produced by the adrenal gland and important for stress response.
+
+
+== Conservation status ==
+
+Although some species, such as the rough-skinned newt (Taricha granulosa) in North America or the smooth newt (Lissotriton vulgaris) in Europe, are still relatively common, populations of newts throughout their distribution range suffer from habitat loss, fragmentation, and pollution. This affects especially the aquatic breeding sites they depend on, but also their land habitats. Several species, such as the Edough ribbed newt (Pleurodeles poireti), Kaiser's spotted newt (Neurergus kaiseri), or the Montseny brook newt (Calotriton arnoldi) are considered threatened by the IUCN, and the Yunnan lake newt is an example of a newt species that has gone extinct recently.Some newt populations in Europe have decreased because of pollution or destruction of their breeding sites and terrestrial habitats, and countries such as the UK have taken steps to halt their declines. In the UK, they are protected under the Wildlife and Countryside Act 1981 and the Habitat Regulations Act 1994. It is illegal to catch, possess, or handle great crested newts without a licence, or to cause them harm or death, or to disturb their habitat in any way. The IUCN Red List categorises the species as ‘lower risk’
+Although the other UK species, the smooth newt and palmate newt are not listed, the sale of either species is prohibited under the Wildlife and Countryside Act, 1981.In Europe, nine newts are listed as "strictly protected fauna species" under appendix II of the Convention on the Conservation of European Wildlife and Natural Habitats:
+
+The remaining European species are listed as "protected fauna species" under appendix III.
+
+
+== As bioindicators ==
+Newts, as with salamanders in general and other amphibians, serve as bioindicators because of their thin, sensitive skin and evidence of their presence (or absence) can serve as an indicator of the health of the environment. Most species are highly sensitive to subtle changes in the pH level of the streams and lakes where they live. Because their skin is permeable to water, they absorb oxygen and other substances they need through their skin. Scientists study the stability of the amphibian population when studying the water quality of a particular body of water.
+
+
+== As pets ==
+Chinese warty newts, Chinese fire belly newts, eastern newts, paddletail newts, Japanese fire belly newts, Chuxiong fire-bellied newts, Triturus species, emperor newts, Spanish ribbed newts (leucistic genes exist), and red-tailed knobby newts are some commonly seen newts in the pet trade. Some newts rarely seen in the pet trade are rough-skinned newts, Kaiser's spotted newts, banded newts and yellow-spotted newts.
+
+
+== References ==
+
+
+== External links ==
+ Data related to Pleurodelinae at Wikispecies

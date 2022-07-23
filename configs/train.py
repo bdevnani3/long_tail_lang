@@ -13,6 +13,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
+
 # import clip
 from clip import clip
 from numpy.core.fromnumeric import cumprod

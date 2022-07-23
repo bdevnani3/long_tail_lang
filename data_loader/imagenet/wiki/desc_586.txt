@@ -1,0 +1,118 @@
+A half-track is a civilian or military vehicle with regular wheels at the front for steering and continuous tracks at the back to propel the vehicle and carry most of the load. The purpose of this combination is to produce a vehicle with the cross-country capabilities of a tank and the handling of a wheeled vehicle.
+
+
+== Performance ==
+The main advantage of half-tracks over wheeled vehicles is that the tracks reduced the pressure on any given area of the ground by spreading the vehicle's weight over a larger area, which gives it greater mobility over soft terrain like mud and snow, while they do not require the complex steering mechanisms of fully tracked vehicles, relying instead on their front wheels to direct the vehicle, augmented in some cases by track braking controlled by the steering wheel.
+It is not difficult for someone who can drive a car to drive a half-track, which is a great advantage over fully tracked vehicles which require specialized training. Half-tracks thus facilitate moving personnel and equipment successfully across varying terrain.
+The main disadvantage is the increased maintenance to maintain track tension, and the reduced life span of tracks (up to 10,000 km) compared to tires (up to 80,000 km).
+
+
+== History ==
+
+
+=== Kégresse track ===
+
+The French engineer Adolphe Kégresse converted a number of cars from the personal car pool of Tsar Nicholas II of Russia to half-tracks in 1911. His system was named after him: the Kégresse track, which used a flexible belt rather than interlocking metal segments. He applied it to several vehicles in the imperial garage, including Rolls-Royce cars and Packard trucks. The Imperial Russian Army also fitted the system to a number of their Austin Armoured Cars. From 1916 onward, there was a Russian project by the Putilov Plant to produce military half-tracks (the Austin-Putilov model), along the same lines, using trucks and French track parts.
+After the Russian Revolution and the establishment of the Soviet Union, Kégresse returned to his native France, where the system was used on Citroën cars between 1921 and 1937 for off-road and military vehicles.
+
+
+=== Steam log hauler ===
+
+The concept originated with the hauling of logs in the northeastern US, with the Lombard Steam Log Hauler built by Alvin Lombard of Waterville, Maine, from 1899 to 1917. The vehicle resembled a railway steam locomotive, with sled steering (or wheels) in front and at the rear, crawlers driven by chains instead of the driving wheels of a locomotive.By 1907, dog and pony show operator H. H. Linn abandoned his gas-and-steam-powered four- and six-wheel-drive creations and had Lombard build a motor home/traction engine run by an underslung four-cylinder Brennan gasoline engine to travel the unimproved roads of the day, with wheels at the front and tracks at the rear: the first payload-carrying half-track. By 1909 this was replaced by a smaller machine with two wheels at the front and a single track behind, since rural wooden bridges presented problems.
+Stability issues, together with a dispute between Linn and Lombard, led Linn to create the Linn Manufacturing Company, builder of the Linn tractor, for building and putting onto the market his own improved civilian half-track–style machines. Lombard attempted to follow but, for the most part, remained a pulling machine. Linn would later register "Haftrak" and "Catruk" as trademarks, the latter for a half-track meant to convert hydraulically from truck to crawler configuration.
+In the early days of bulldozers, Holt tractors had tricycle steering, owing to engineering difficulties with the tracks. The company's initial products focused on agricultural machinery and were distributed internationally. Also of note are the "snowmobile" attachments for automobiles built by the White Motor Company, Snowbird and others, for converting Fords to half-track configuration, which could use skis instead of wheels for steering.
+
+
+=== World War I ===
+During World War I, its production capacity became focused on military needs. Its tractors replaced horses and were widely used by the Allies as artillery tractors and for hauling supplies. The Holt tractor went on to become the basis for the Mark I, the Schneider CA1 and the German A7V tank. The Holt would be renamed the Caterpillar 60, after merging with C.L. Best Company of California, in 1925, the Holt Manufacturing Company went on to form the company that would become known as Caterpillar.
+Tractors used to tow artillery and designs with front wheels and tracks at the rear began to appear prior to the outbreak of war, often based on agricultural machines such as the Holt tractor. The basic half-track concept was originally showcased by the British during the war.
+With such tractors, the tactical use of heavier guns to supplement the light horse-drawn field guns became feasible. For example, in the British Army it allowed the heavy guns of the Royal Garrison Artillery to be used flexibly on the battlefield. In England, starting in 1905, David Roberts of Richard Hornsby & Sons had attempted to interest British military officials in a tracked vehicle, but failed.
+Holt bought the patents related to the "chain track" track-type tractor from Richard Hornsby & Sons in 1914 for £4,000. Unlike the Holt tractor, which had a steerable tiller wheel in front of the tracks, the Hornsby crawler was steered by controlling power to each track.When World War I broke out, with the problem of trench warfare and the difficulty of transporting supplies to the front, the pulling power of crawling-type tractors drew the attention of the military. With tanks coming onto the scene, however, the combination of tracks and wheels seemed impractical when fully tracked or six-wheel, four-wheel drive vehicles were available.
+The half-track saw a comeback in the 1930s, with development occurring in several countries that would use them in World War II. The White Motor Company, which had designed armored cars for the United States Army and United States Marines, continued after the First World War to develop armored cars and added tracks for the M2 half-track car and M3 half-track.
+
+
+=== Autochenille and autoneige ===
+
+There were many civilian half-track experiments in the 1920s and 1930s. The Citroën company sponsored several scientific expeditions crossing deserts in North Africa and Central Asia, using their autochenilles. After World War I, the US military wanted to develop a semi-tracked personnel carrier vehicle, so it looked at these civilian half-tracks. In the late 1920s the US Army purchased several Citroën-Kégresse vehicles for evaluation followed by a licence to produce them. This resulted in the Army Ordnance Department building a prototype in 1939. In September 1940 it went into production with the military M2 and M3 half-track versions.
+With the snow and ice of Canada in mind, Joseph-Armand Bombardier developed 7- and 12-passenger half-track autoneiges in the 1930s, starting what would become the Bombardier industrial conglomerate. The Bombardier vehicle had tracks for propulsion in the rear and skis for steering in front. The skis could be replaced with wheels in the summer, but this was uncommon.
+The Red Army also experimented with half-tracks, such as the BA-30, but found them expensive and unreliable.
+Although not a feature on American World War II vehicles, steering could be assisted by track braking, controlled by the steering wheel.
+
+
+=== World War II half-track use ===
+
+In America, 43,000 halftracks were produced by three primary manufacturers, the largest being the White Motor Company, the original designer, with a total of 15,414 accepted by the War Department. The other manufacturers, Autocar and Diamond T, built 12,168 and 12,421, respectively. These designs were produced under license in Canada, and were widely supplied under the Lend Lease program, with 5,000 supplied to the USSR alone.
+
+The fourth manufacturer of American-made half-tracks was the International Motor Truck Corporation division of International Harvester. IH built approximately 12,853 half-tracks, which were shipped to Europe for use by British and French troops. In 1942, they produced 152 M5 units and 5 M14 units at the Springfield Works; in 1943 they produced 2,026 M9 units, 1,407 M0A1 units, 4,473 M5 units, 1,600 M14 units, and 400 M17  units, all at the Springfield Works; in 1944 they produced 1,100 M5A1 units and 1,100 M17 units also at the Springfield Works; and in 1945 they built 589 M5A1 and 1 M5A3 units at Springfield Works. The IHC half-tracks differed visibly from the White, Diamond T, and AutoCar units in several ways. The IHC units had flat front fenders instead of fenders with compound curves; used the International Red Diamond 450 engines instead of the Hercules 160AX engines used by the other manufacturers; used IHC Model 1856 4-speed transmissions instead of the Spicer 4-speed transmissions used by the other manufacturers; had IHC Model FOK-1370 front drive axles instead of the Timken front axles used by their competitors; used IHC Model RHT-1590 axles in the rear instead of the Timken axles used by their competitors; and were constructed with fully welded armor with rounded rear corners instead of the bolted armor with square corners used by the other three manufacturers.
+
+In August 1944, Allied forces liberated Paris, France. The first vehicle to enter the city was an M3 named "España Cañí" and driven by Spanish soldiers fighting under the French tricolor. There followed several days of parades in late August. One parade of 25 August 1944 was down the Champs-Élysées, with Charles de Gaulle leading throngs of Parisians, and French soldiers driving IH half-tracks.
+
+
+==== Infantry transporters ====
+Half-tracks were used extensively in World War II, especially by the Germans with their armored Demag-designed Sd.Kfz. 250s and Hanomag-designed Sd.Kfz. 251s; and by the Americans with their M2s and M3s.
+
+
+==== Support weapon platforms ====
+Half-tracks were widely used as mortar carriers, self-propelled anti-aircraft guns, self-propelled anti-tank guns, armored fighting vehicles and in other tasks.
+
+
+==== Utility and tractor half-tracks ====
+
+The Germans used a small 2 seater 1/2-ton class half-track "motorcycle", the Sd.Kfz. 2 (better known as the Kleines Kettenkraftrad HK 101 or Kettenkrad for short – Ketten meaning tracks, and krad being the military abbreviation of the German word Kraftrad, the administrative German term for motorcycle), to pull small artillery guns, for ammunition haulage, general transport and as a ground towing vehicle for the Messerschmitt Me 262 jet fighter. Built by NSU Motorenwerke AG Neckarsulm and Stoewer Werke Stettin, a total of 8,345 vehicles were produced between 1940 and 1944.
+Other Wehrmacht models were:
+
+1-ton class, Sd.Kfz. 10 produced by Demag, Berlin; Adler, Frankfurt am Main; Büssing-NAG, Brunswick; Phänomen, Cottbus and Saurer, Vienna, a total of 25,000 vehicles - its drivetrain was used for the Sd.Kfz. 250
+3-ton class, Sd.Kfz. 11 produced by Hanomag, Adler, Auto-Union and Skoda from 1938 to 1944, a total of 25,000 vehicles - its drivetrain was used for the Sd.Kfz. 251
+5-ton class. Sd.Kfz. 6, manufactured by Büssing-NAG, Berlin-Oberschönweide; Daimler-Benz and Praga (Czechoslovakia), about 3,500 vehicles in total
+8-ton class. Sd.Kfz. 7, production was of about 12,000 vehicles
+12-ton class. Sd.Kfz. 8, some 4,000 vehicles were produced by five manufacturers
+18-ton class. Sd.Kfz. 9, a production of only 2,000 vehiclesLarger German half-track tractors were used to tow anti-tank and field artillery pieces. The largest of these were also used by mechanical engineers to retrieve bogged down vehicles or perform repairs such as engine maintenance. Maultier half-tracks used to transport supplies to forward units were essentially civilian trucks which had had their rear axles replaced by Panzer I or Panzer II running gear. A replacement half-track design introduced later in World War II, the 1943-introduced Schwerer Wehrmachtschlepper, was meant to replace the 3-tonne and 5-tonne capacity models – only some 825 examples were built before the war's end.
+A common feature of virtually all German World War II half-tracks was the so-called Schachtellaufwerk overlapped/interleaved roadwheel arrangement with a "slack track" system possessing no return rollers under the return run of track, used from the small Kettenkrad to the nine-tonne capacity Sd.Kfz. 9 vehicle, and most famously used on Henschel's Tiger I and MAN's Panther main battle tanks.
+
+
+=== Cold War use ===
+Half-tracks were extensively used after World War II until the late 1960s, mostly in form of surplus World War II vehicles. Half-tracks saw combat in the French colonial empire in the First Indochina War and the Algerian War; in the Indo-Pakistani wars and conflicts; and the early wars of the Arab–Israeli conflict. Half-tracks were in use by the Israeli Army until recently, where they were deemed to outperform fully tracked and fully wheeled vehicles for non-combat payload tasks such as carrying telecommunications equipment.
+As of March 2008, 600 half-tracks were still officially listed as on active duty.
+
+		
+
+
+== Civilian use ==
+
+Many Second World War half-tracks were sold off to civilian users either as surplus stock or later due to obsolescence when the fully tracked armoured personnel carrier was introduced into service. Most were used in engineering-related tasks involving terrain that would be difficult for even four-wheel drive trucks, such as snow, sand and water-logged soil. Many were significantly modified for their new roles, including being fitted with winches, small cranes, and generators after the rear cabin sides were removed.
+Some World War II half-tracks were used as all-terrain fire department pumpers or tankers.
+
+
+== Gallery ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+Armoured warfare
+Universal Carrier
+
+
+== Notes and references ==
+
+
+== External links ==
+WWII Half Track Armoured Command Vehicle restored To Its Original Wartime Condition in Edmonton, Canada

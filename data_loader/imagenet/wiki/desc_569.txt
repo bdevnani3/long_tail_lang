@@ -1,0 +1,94 @@
+A garbage truck is a truck specially designed to collect municipal solid waste and transport it to a solid waste treatment facility, such as a landfill, recycling center or transfer station. Other common names for this type of truck include trash truck in the United States, and refuse truck, dustcart, rubbish truck, junk truck, bin wagon, dustbin lorry, bin lorry or bin van elsewhere. Technical names include waste collection vehicle and refuse collection vehicle (RCV). These trucks are a common sight in most urban areas.
+
+
+== History ==
+
+Wagons and other means had been used for centuries to haul away solid waste. Among the first self-propelled garbage trucks were those ordered by Chiswick District Council from the  Thornycroft Steam Wagon and Carriage Company in 1897 described as a steam motor tip-car, a new design of body specific for "the collection of dust and house refuse".The 1920s saw the first open-topped trucks being used, but due to foul odors and waste falling from the back, covered vehicles soon became more common. These covered trucks were first introduced in more densely populated Europe and then in North America, but were soon used worldwide.
+The main difficulty was that the waste collectors needed to lift the waste to shoulder height. The first technique developed in the late 1920s to solve this problem was to build round compartments with corkscrews that would lift the load and bring it away from the rear. A more efficient model was the development of the hopper in 1929. It used a cable system that could pull waste into the truck.
+In 1937, George Dempster invented the Dempster-Dumpster system in which wheeled waste containers were mechanically tipped into the truck. His containers were known as Dumpsters, which led to the word dumpster entering the language.
+In 1938, the Garwood Load Packer revolutionized the industry when including a compactor in the truck was implemented. The first compactor could double a truck's capacity. This was made possible by use of a hydraulic press which periodically compacted the contents of the truck.
+
+In 1955 the Dempster Dumpmaster the first front loader introduced. They didn't become common until the 1970s. The 1970s also saw the introduction of smaller dumpsters, often known as wheelie bins which were also emptied mechanically. Since that time there has been little dramatic change, although there have been various improvements to the compaction mechanisms to improve payload. In the mid-1970s Petersen Industries introduced the first grapple truck for municipal waste collection.
+In 1969, The city of Scottsdale, Arizona introduced the world's first automated side loader. The new truck could collect 300 gallon containers in 30 second cycles, without the driver exiting the cab.In 1997, Lee Rathbun introduced the Lightning Rear Steer System. This system includes an elevated, rear-facing cab for both driving the truck and operating the loader. This configuration allows the operator to follow behind haul trucks and load continuously.
+
+
+== Types ==
+
+
+=== Front loaders ===
+Front loaders generally service commercial and industrial businesses using large waste containers with lids known as Dumpsters in the US. The truck is equipped with powered forks on the front which the driver carefully aligns with sleeves on the waste container using a joystick or a set of levers. The waste container is then lifted over the truck. Once it gets to the top the container is then flipped upside down and the waste or recyclable material is emptied into the vehicle's hopper. Once the waste is dumped, it is compacted by a hydraulically powered moving wall that oscillates backwards and forwards to push the waste to the rear of the vehicle.Most of the newer packing trucks have "pack-on-the-go hydraulics" which lets the driver pack loads while driving, allowing faster route times. When the body is full, the compaction wall moves all the way to the rear of the body, ejecting it via an open tailgate. There is also a system called the Curotto Can which is an attachment for a front loader that has an automated arm that functions as an automated side loader that allows the driver to dump carts.
+
+
+=== Rear loaders ===
+Rear loaders have an opening into a trough or hopper at the rear that a waste collector can throw waste bags or empty the contents of bins into. Often in many areas they have a lifting mechanism to automatically empty large carts without the operator having to lift the waste by hand.Another popular system for the rear loader is a rear load container specially built to fit a groove in the truck. The truck will have a chain or cable system for upending the container. The waste will then slide into the hopper of the truck.
+The modern rear loader usually compacts the waste using a hydraulically powered mechanism that employs a moving plate or shovel to scoop the waste out from the loading hopper and compress it against a moving wall. In most compactor designs, the plate has a pointed edge (hence giving it the industry standard name packer blade) which is designed to apply point pressure to the waste to break down bulky items in the hopper before being drawn into the main body of the truck.
+Compactor designs, however, have been many and varied, however the two most popular in use today are the "sweep and slide" system (first pioneered on the Leach 2R Packmaster), where the packer blade pivots on a moving carriage which slides back and forth in large tracks fabricated into the body sides, and the "swing link" system (such as the Dempster Routechief) where the blade literally swings on a "pendulum"-style mechanism consisting of links which control the arc of the blade's movement. The Geesink GPM series uses a pivoting packer blade which swings on an inverted U-shaped frame which lowers the blade into the hopper, where it sweeps the waste out; the frame then retracts back into the body to perform the compaction action. The Heil Colectomatic is a hybrid between the two philosophies- it used a combination of a lifting loading hopper and a pivoting sweeper blade to clear and compact waste in anticipation of the next load.
+So-called "continuous" compactors were popular in the 1960s and 1970s. The German Shark design (later Rotopress) used a huge rotating drum fitted with spiral shaped paddles to draw waste in, and force it around an auger of decreasing pitch to compress it.  SEMAT-Rey of France pioneered the rotating rake system (also used in the British Shelvoke and Drewry Revopak) to simultaneously shred and compress the waste as it is loaded.  Other systems used a continuously rotating Archimedes' screw to draw in waste and mutilate it inside the body. A mixture of safety concerns, and higher fuel consumption has seen a decline in the popularity of continuously compacting garbage trucks, with only the Rotopress design remaining in production due to its niche in being able to effectively deal with green waste for composting.
+The wall will move towards the front of the vehicle as the pressure forces the hydraulic valves to open, or as the operator moves it with a manual control.
+A unique rear-loading system involves a rear loader and a front-loading tractor (usually a Caterpillar front loader with a Tink Claw) for yard waste collection (and in some cities, garbage and recycling). The front loader picks up yard waste set in the street, and then loaded into the back of a rear loader. This system is used in several cities, including San Jose.
+
+
+=== Side loaders ===
+Side loaders are loaded from the side, either manually, or with the assistance of a joystick-controlled robotic arm with a claw, used to automatically lift and tip wheeled bins into the truck's hopper.
+
+
+==== Manual side loaders ====
+
+Manual side loaders (MSLs) feature a hopper in front of the body, similar to front loaders. Unlike front loaders, the actual hopper is very short, and sometimes is lower than the body, in order for the operator to dump the waste into the hopper. This also results in longer times for packing loads compared to rear loaders, although this can be offset by the time bringing waste to the truck. On some (but not all) vehicle models the hopper can be accessed from both sides, allowing two persons to collect waste from both sides of the street simultaneously and increasing vehicle efficiency.
+
+
+==== Automated side loaders ====
+
+Lift-equipped trucks are referred to as automated side loaders (ASLs). Similar to a front-end loader, the waste is compacted by an oscillating packer plate at the front of the loading hopper which forces the waste through an aperture into the main body and is therefore compacted towards the rear of the truck.An automated side loader only needs one operator, whereas a traditional rear load garbage truck may require two or three people, and has the additional advantage of reducing on the job injuries due to repetitive heavy lifting. Due to these advantages, ASLs have become more popular than traditional manual collection. Typically an automated side loader uses standardized wheeled carts compatible with the truck's automated lift.As with front loaders, the compaction mechanism comprises a metal pusher plate in the collection hopper which oscillates backwards and forwards under hydraulic pressure, pushing the refuse through an aperture, thus compacting it against the material already loaded. On some ASLs there is also a "folding" crusher plate positioned above the opening in the hopper, that folds down to crush bulky items within reach of the metal pusher plate. Another compactor design is the "paddle packer" which uses a paddle that rotates from side to side, forcing refuse into the body of the truck.
+
+
+==== Manual/Automated side loaders ====
+Manual/Automated side loaders (M/ASLs), are traditional MSLs equipped with an arm for automated collection, as well as continuously running packers. This allows for functionally identical to that of an ASL, while allowing for manual dumping of waste into hopper in instances where automated collection is not feasible, such as the collection of oversized items. In addition, M/ASLs provide a cheaper upgrade path for those who wish to keep preexisting MSLs for automated collection without paying for newer and more expensive ASLs.
+
+
+===== Semi-automated side loaders =====
+Semi-automated side loaders are MSLs that are equipped with an automated mechanism to lift and dump manually aligned waste containers into the hopper. The primary difference between semi-automated side loaders and ASLs is that while they still only need one person to operate, he or she must exit the cab to manually bring and align containers to the loading hopper on the side of the truck and dump them.
+
+
+== Image gallery ==
+
+		
+		
+		
+		
+		
+
+
+=== Pneumatic collection ===
+
+Pneumatic collection trucks have a crane with a tube and a mouthpiece that fits in a hole, usually hidden under a plate under the street. From here it will suck up waste from an underground installation. The system usually allows the driver to "pick up" the waste, even if the access is blocked by cars, snow or other barriers.
+
+
+=== Grapple trucks ===
+
+Grapple trucks enable the collection of bulk waste. A large percentage of items in the solid waste stream are too large or too heavy to be safely lifted by hand into traditional garbage trucks. These items (furniture, large appliances, branches, logs) are called bulky waste or "oversized." The preferred method for collecting these items is with a grapple truck. Grapple trucks have hydraulic knucklebooms, tipped with a clamshell bucket, and usually include a dump body or trailer.
+
+
+=== Roll-offs ===
+
+Roll-offs are characterized by a rectangular footprint, utilizing wheels to facilitate rolling the dumpster in place. The container is designed to be transported by special roll-off trucks. They are relatively efficient for bulk loads of waste or extremely heavy loads of construction or demolition debris.
+
+
+== Bin tipper ==
+ A bin tipper is a machine which mechanically lifts and inverts bins for the purpose of emptying them. They are often components of larger machines such as garbage trucks, or can be 'standalone' or mobile units. Bin tippers usually have a steel frame, guarding and cradle, with a motor or crank-handle driving a lifting mechanism, which may be hydraulic or chain operated. Bins are placed into the machine, then lifted and inverted over the destination receptacle, allowing the contents to be emptied by gravity.
+A side-load bin tipper was fitted to a garbage truck as early as 1929, by the Heil company in America. In the 1950s the Dempster Dumpmaster popularized the front-end loader variant, with bins being tipped over the cab of the truck. Both types of integrated bin tipper are now common on municipal refuse collection trucks. Standalone bin tippers developed later, with the release of a machine called the Simpro Ezi-Dump in 1990.
+The use of bin tippers and other lifting aids has been stimulated in recent years by research linking heavy manual lifting with musculoskeletal disorders; some government organisations, schools and companies now prohibit emptying bins by hand. Health and safety concerns have also driven the adoption of bin tippers in the manufacturing, food-processing and construction industries.
+
+
+== See also ==
+Dump truck
+Beach cleaner
+Garbage scow
+
+
+== References ==
+
+
+== External links ==
+History of refuse collection - historical information and many pictures
+Classicrefusetrucks.com - history of mechanical refuse collection equipment

@@ -1,0 +1,106 @@
+A wing is a type of fin that produces lift while moving through air or some other fluid. Accordingly, wings have streamlined cross-sections that are subject to aerodynamic forces and act as airfoils. A wing's aerodynamic efficiency is expressed as its lift-to-drag ratio. The lift a wing generates at a given speed and angle of attack can be one to two orders of magnitude greater than the total drag on the wing. A high lift-to-drag ratio requires a significantly smaller thrust to propel the wings through the air at sufficient lift.
+Lifting structures used in water include various foils, such as hydrofoils. Hydrodynamics is the governing science, rather than aerodynamics. Applications of underwater foils occur in hydroplanes, sailboats and submarines.
+
+
+== Etymology and usage ==
+For many centuries, the word "wing", from the Old Norse vængr, referred mainly to the foremost limbs of birds (in addition to the architectural aisle). But in recent centuries the word's meaning has extended to include lift producing appendages of insects, bats, pterosaurs, boomerangs, some sail boats and aircraft, or the 
+inverted airfoil on a race car that generates a downward force to increase traction.
+
+
+== Aerodynamics ==
+
+The design and analysis of the wings of aircraft is one of the principal applications of the science of aerodynamics, which is a branch of fluid mechanics. In principle, the properties of the airflow around any moving object can be found by solving the Navier-Stokes equations of fluid dynamics. However, except for simple geometries these equations are notoriously difficult to solve and simpler equations are used.For a wing to produce lift, it must be oriented at a suitable angle of attack. When this occurs, the wing deflects the airflow downwards as it passes the wing. Since the wing exerts a force on the air to change its direction, the air must also exert an equal and opposite force on the wing.
+
+
+=== Cross-sectional shape ===
+An airfoil (American English) or aerofoil (British English) is the shape of a wing, blade (of a propeller, rotor, or turbine), or sail (as seen in cross-section). Wings with an asymmetrical cross section are the norm in subsonic flight. Wings with a symmetrical cross section can also generate lift by using a positive angle of attack to deflect air downward. Symmetrical airfoils have higher stalling speeds than cambered airfoils of the same wing area but are used in aerobatic aircraft as they provide practical performance whether the aircraft is upright or inverted. Another example comes from sailboats, where the sail is a thin membrane with no path-length difference between one side and the other.For flight speeds near the speed of sound (transonic flight), airfoils with complex asymmetrical shapes are used to minimize the drastic increase in drag associated with airflow near the speed of sound. Such airfoils, called supercritical airfoils, are flat on top and curved on the bottom.
+
+
+== Design features ==
+
+Aircraft wings may feature some of the following:
+
+A rounded leading edge cross-section
+A sharp trailing edge cross-section
+Leading-edge devices such as slats, slots, or extensions
+Trailing-edge devices such as flaps or flaperons (combination of flaps and ailerons)
+Winglets to keep wingtip vortices from increasing drag and decreasing lift
+Dihedral, or a positive wing angle to the horizontal, increases spiral stability around the roll axis, whereas anhedral, or a negative wing angle to the horizontal, decreases spiral stability.Aircraft wings may have various devices, such as flaps or slats that the pilot uses to modify the shape and surface area of the wing to change its operating characteristics in flight.
+
+Ailerons (usually near the wingtips) to roll the aircraft clockwise or counterclockwise about its long axis
+Spoilers on the upper surface to disrupt the lift and to provide additional traction to an aircraft that has just landed but is still moving.
+Vortex generators mitigate flow separation at low speeds and high angles of attack, especially over control surfaces.
+Wing fences to keep flow attached to the wing by stopping boundary layer separation from spreading roll direction.
+Folding wings allow more aircraft storage in the confined space of the hangar deck of an aircraft carrier
+Variable-sweep wing or "swing wings" that allow outstretched wings during low-speed flight (i.e., take-off and landing) and swept back wings for high-speed flight (including supersonic flight), such as in the F-111 Aardvark, the F-14 Tomcat, the Panavia Tornado, the MiG-23, the MiG-27, the Tu-160 and the B-1B Lancer warplanes
+Strakes to improve flight characteristics
+Chine, which may blend into the wing
+Leading-edge droop flap, a high-lift device
+Fairings, structures whose primary function is to produce a smooth outline and reduce drag. For example, flap track fairingsWings may have other minor independent surfaces.
+
+
+== Applications and variants ==
+Besides fixed-wing aircraft, applications for wing shapes include:
+
+Hang gliders, which use wings ranging from fully flexible (paragliders, gliding parachutes), flexible (framed sail wings), to rigid
+Kites, which use a variety of lifting surfaces
+Flying model airplanes
+Helicopters, which use a rotating wing with a variable pitch angle to provide directional forces
+Propellers, whose blades generate lift for propulsion.
+The NASA Space Shuttle, which uses its wings only to glide during its descent to a runway. These types of aircraft are called spaceplanes.
+Some racing cars, especially Formula One cars, which use upside-down wings (or airfoils) to provide greater traction at high speeds.
+Sailboats, which use flexible cloth sails as vertical wings with variable fullness and direction to move across water.
+Hydrofoils, which use rigid wing shaped structures to lift a vessel out of the water to reduce drag and increase speed.
+
+
+=== In nature ===
+
+In nature, wings have evolved in insects, pterosaurs, dinosaurs (birds), and mammals (bats) as a means of locomotion. Various species of penguins and other flighted or flightless water birds such as auks, cormorants, guillemots, shearwaters, eider and scoter ducks and diving petrels are avid swimmers, and use their wings to propel through water.
+
+Wing forms in nature
+
+		
+		
+
+
+=== Tensile structures ===
+In 1948, Francis Rogallo invented a kite-like tensile wing supported by inflated or rigid struts, which ushered in new possibilities for aircraft. Near in time, Domina Jalbert invented flexible un-sparred ram-air airfoiled thick wings. These two new branches of wings have been since extensively studied and applied in new branches of aircraft, especially altering the personal recreational aviation landscape.
+
+
+== See also ==
+FlightNatural world:
+
+Bat flight
+Bird flight
+Flight feather
+Flying and gliding animals
+Insect flight
+List of soaring birds
+Samara (winged seeds of trees)Aviation:
+
+Aircraft
+Blade solidity
+FanWing and Flettner airplane (experimental wing types)
+Flight dynamics (fixed-wing aircraft)
+Kite types
+Ornithopter – Flapping-wing aircraft (research prototypes, simple toys and models)
+Otto Lilienthal
+Wing configuration
+Wing root
+Wingsuit flyingSailing:
+
+Sails
+Forces on sails
+Wingsail
+
+
+== References ==
+
+
+== External links ==
+How Wings Work - Holger Babinsky Physics Education 2003
+How Airplanes Fly: A Physical Description of Lift
+Demystifying the Science of Flight – Audio segment on NPR's Talk of the Nation Science Friday
+NASA's explanations and simulations
+Flight of the StyroHawk wing
+See How It Flies

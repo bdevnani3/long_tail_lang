@@ -1,0 +1,178 @@
+A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation.
+A large digital version of a stopwatch designed for viewing at a distance, as in a sports stadium, is called a stop clock. In manual timing, the clock is started and stopped by a person pressing a button. In fully automatic time, both starting and stopping are triggered automatically, by sensors.
+The timing functions are traditionally controlled by two buttons on the case.  Pressing the top button starts the timer running, and pressing the button a second time stops it, leaving the elapsed time displayed.  A press of the second button then resets the stopwatch to zero.  The second button is also used to record split times or lap times.  When the split time button is pressed while the watch is running it allows the elapsed time to that point to be read, but the watch mechanism continues running to record total elapsed time.  Pressing the split button a second time allows the watch to resume display of total time.
+Mechanical stopwatches are powered by a mainspring, which must be wound up by turning the knurled knob at the top of the stopwatch.
+Digital electronic stopwatches are available which, due to their crystal oscillator timing element, are much more accurate than mechanical timepieces.  Because they contain a microchip, they often include date and time-of-day functions as well.  Some may have a connector for external sensors, allowing the stopwatch to be triggered by external events, thus measuring elapsed time far more accurately than is possible by pressing the buttons with one's finger. Stopwatches that count by 1/100 of a second are commonly mistaken as counting milliseconds, rather than centiseconds. The first digital timer used in organized sports was the Digitimer, developed by Cox Electronic Systems, Inc. of Salt Lake City Utah (1962). It utilized a Nixie-tube readout and provided a resolution of 1/1000 second. Its first use was in ski racing but was later used by the World University Games in Moscow, Russia, the U.S. NCAA, and in the Olympic trials.
+The device is used when time periods must be measured precisely and with a minimum of complications.  Laboratory experiments and sporting events like sprints are good examples.
+The stopwatch function is also present as an additional function of many electronic devices such as wristwatches, cell phones, portable music players, and computers.
+
+
+== Human error on using stopwatch ==
+Even though stopwatches are created to be more accurate, humans are still prone to make mistakes every time they use one. Normally, humans will take about 180–200 milliseconds to detect and respond to visual stimulus. However, in most situations where a stopwatch is used, there are indicators that the timing event is about to happen, and the manual action of starting/stopping the timer can be much more accurate. The average measurement error using manual timing was evaluated to be around -0.04 s when compared to electronic timing, in this case for a running sprint. To get more accurate results, most researchers use the propagation of uncertainty equation in order to reduce any error in experiments.
+  
+    
+      
+        
+          σ
+          
+            Q
+          
+        
+        =
+        
+          
+            
+              σ
+              
+                a
+              
+              
+                2
+              
+            
+            +
+            
+              σ
+              
+                b
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sigma _{Q}={\sqrt {\sigma _{a}^{2}+\sigma _{b}^{2}}}}
+  
+
+  
+    
+      
+        
+          σ
+          
+            Q
+          
+        
+      
+    
+    {\displaystyle \sigma _{Q}}
+  is the sum of the uncertainty between 
+  
+    
+      
+        
+          σ
+          
+            a
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{a}^{2}}
+   and 
+  
+    
+      
+        
+          σ
+          
+            b
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{b}^{2}}
+  
+
+  
+    
+      
+        
+          σ
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \sigma _{a}}
+   is the value which is actually found from the experiment.
+
+  
+    
+      
+        
+          σ
+          
+            b
+          
+        
+      
+    
+    {\displaystyle \sigma _{b}}
+   is the value of the uncertainty.For example: If the result from measuring the width of a window is 1.50 ± 0.05 m, 1.50 will be 
+  
+    
+      
+        
+          σ
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \sigma _{a}}
+   and 0.05 will be 
+  
+    
+      
+        
+          σ
+          
+            b
+          
+        
+      
+    
+    {\displaystyle \sigma _{b}}
+  .
+
+
+== Unit ==
+In most science experiments, researchers will normally use SI or the International System of Units on any of their experiments. For stopwatches, the units of time that are generally used when observing a stopwatch are minutes, seconds, and 'one-hundredth of a second'.
+
+
+== Types of stopwatches ==
+
+		
+		
+		
+		
+
+
+== See also ==
+Chronograph
+Samuel Watson (horologist), maker of the first stopwatch
+Time clock
+Timekeeper
+Time to digital converter
+Timer
+The Stopwatch Gang
+
+
+== References ==
+
+
+== External links ==
+Open Source Physics Stop Watch Computer Model
+NIST Recommended Practice Guide: Special Publication 960-12 Stopwatch and Timer Calibrations

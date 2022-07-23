@@ -1,0 +1,51 @@
+Latrodectus mactans, known as southern black widow or simply black widow, and the shoe-button spider, is a venomous species of spider in the genus Latrodectus. The females are well known for their distinctive black and red coloring and for the fact that they will occasionally eat their mate after reproduction. The species is native to North America. The venom is rarely fatal to healthy humans.
+
+
+== Taxonomy ==
+Latrodectus mactans was first described by Johan Christian Fabricius in 1775, placing it in the genus Aranea. It was transferred to the genus Latrodectus in 1837 by Charles Walckenaer and is currently placed in the family Theridiidae of the order Araneae. The species is closely related to Latrodectus hesperus (western black widow) and Latrodectus variolus (northern black widow). Members of the three species are often confused with the genus Steatoda, the false widows. Prior to 1970, when the current taxonomic divisions for North American black widows were set forth by Kaston, all three varieties were classified as a single species, L. mactans. As a result, there exist numerous references which claim that "black widow" (without any geographic modifier) applies to L. mactans alone. Common usage of the term "black widow" makes no distinction between the three species.
+
+
+== Description ==
+The body length (excluding legs) of the mature female is 8–13 mm (0.31–0.51 in), 3–6 mm (0.12–0.24 in) for males. Legs are long in proportion to body. Females are shiny and black in color, with a red marking in the shape of an hourglass on the ventral (under) side of her very rounded abdomen. There is much variation in female size, particularly in egg-carrying (gravid) females. The abdomen of a gravid female can be more than 1.25 cm (0.5 in) in diameter. Many female widows also have an orange or red patch just above the spinnerets on the top of the abdomen. Juveniles have a distinctly different appearance from the adults; the abdomen is grayish to black with white stripes running across it and is spotted with yellow and orange. Males are either purple, or closer to the appearance of the juveniles in color.
+The web of the black widow spider is a three-dimensional tangled cobweb of exceptionally strong silk.
+
+
+== Range ==
+The southern widow is primarily found in (and is indigenous to) the southeastern United States, ranging as far north as Ohio and as far west as Texas. The northern black widow (L. variolus) is found primarily in the northeastern United States and southeastern Canada, though its range overlaps with that of L. mactans. (In Canada, northern black widows occur in the southern parts of British Columbia, Alberta, Saskatchewan, Manitoba, and Quebec.) In the Dominican Republic L. mactans is found throughout the whole country.Latrodectus mactans, along with Latrodectus hesperus and Latrodectus geometricus (the "brown widow spider"), is established in the Hawaiian Islands (USA). One pathway of entry into Hawaii for at least one of these black widow species is imported produce (which is also considered an important potential pathway for widow spiders elsewhere).
+
+
+== Reproduction ==
+When a male is mature, he spins a sperm web, deposits semen on it, and charges his palpal bulbs with the sperm. Black widow spiders reproduce sexually when the male inserts his palpal bulbs into the female's spermathecal openings. The female deposits her eggs in a globular silken container in which they remain camouflaged and guarded. A female black widow spider can produce four to nine egg sacs in one summer, each containing about 100–400 eggs. Usually, eggs incubate for twenty to thirty days. It is rare for more than a hundred to survive this process. On average, thirty will survive through the first molting, because of cannibalism, lack of food, or lack of proper shelter. It takes two to four months for black widow spiders to mature enough to breed, however, full maturation typically takes six to nine months. The females can live for up to three years, while a male's lifespan is about three to four months. The female may eat the male after mating.
+
+
+== Prey ==
+Black widow spiders typically prey on a variety of insects, with a preference for fire ants if extant, but they also feed on woodlice, diplopods, and chilopods when they are young, and occasionally other arachnids. The spider's web is even strong enough to catch animals as large as mice. When the prey is entangled by the web, Latrodectus mactans quickly comes out of its retreat, wraps the prey securely in its strong web, then bites and envenoms its prey. The venom takes about ten minutes to take effect; in the meantime, the prey is held tightly by the spider. When movements of the prey cease, digestive enzymes are released into the wound. The black widow spider then carries its prey back to its retreat before feeding.
+
+
+== Natural enemies ==
+There are various parasites and predators of widow spiders in North America, though apparently none of these have ever been evaluated in terms of augmentation programs for improved biocontrol. Parasites of the egg sacs include the flightless scelionid wasp Baeus latrodecti, and members of the chloropid fly genus Pseudogaurax. Predators of the adult spiders include wasps, most notably the blue mud dauber Chalybion californicum, and the spider wasp Tastiotenia festiva. Other species including Mantis or Centipede also will occasionally and opportunistically take widows as prey, but the preceding all exhibit some significant specific preference for Latrodectus.Furthermore, in 2012, researchers published a paper suggesting that the black widow's close relative, the brown widow, may be competing for territory with, and ultimately displacing black widows in Southern California.
+
+
+== Toxicology ==
+
+Although the reputation of these spiders is notorious and their venom does affect humans, only mature females are capable of envenomation in humans; their chelicerae—the hollow, needle-like mouthparts that inject venom—are, at approximately 1 mm, or .04 in., long enough to inject venom into humans, unlike those of the much smaller males. The actual amount injected, even by a mature female, is variable. The venom injected by the female black widow is known as alpha-latrotoxin which binds to receptors at the neuromuscular motor end plate of both sympathetic and parasympathetic nerves, resulting in increased synaptic concentration of catecholamines. The symptoms are caused by lymphatic absorption and vascular dissemination of the neurotoxin. The symptoms that result from a black widow spider bite are collectively known as latrodectism. Deaths in healthy adults from Latrodectus bites are exceedingly rare, with no deaths despite two thousand bites yearly, and studies within the past several decades have been unable to confirm any fatalities from this or any of the other U.S. species of Latrodectus (e.g. zero fatalities among 23,409 documented Latrodectus bites from 2000 through 2008). On the other hand, the geographical range of the widow spiders is vast. Epidemics of mostly European Widow spider bites had been recorded from 1850 to 1950, and during that time period, deaths were reported from 2/1000 to 50/1000 bites. Deaths from the Western Black Widow had been reported as 50/1000 in the 1920s. At that same time, antivenom was introduced. The LD-50 of L. mactans venom has been measured in mice as 1.39 mg/kg, and separately as 1.30 mg/kg (with a confidence interval of 1.20–2.70). In 1933, Allan Blair famously allowed himself to be bitten by the spider in order to investigate the toxicity of its venom in humans and as a means of convincing skeptics at the time who thought that the spider's venom might not be dangerous to humans.
+There are a number of active components in the venom:
+
+Latrotoxins
+A number of smaller polypeptides—toxins interacting with cation channels, which can affect the functioning of calcium, sodium, or potassium channels.
+Adenosine
+Guanosine
+Inosine
+2,4,6-trihydroxypurineThe venom is neurotoxic.
+
+
+== References ==
+
+
+== External links ==
+Fact Sheet on the Black Widow Spider includes information on habits, habitat and threats
+Latrodectus Mactans on Pterodattilo
+University of Washington Burke Museum spider myths
+Black Widow Spider Venom and Bites Intoxication Treatment
+Information on black widow spider bite in eMedicineHealth
+Latrodectus mactans on the UF / IFAS Featured Creatures website.
